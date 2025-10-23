@@ -78,11 +78,15 @@ def get_code_link(qword:str) -> str:
         "order": "desc"
     }
     r = requests.get(github_url, params=params)
-    results = r.json()
-    code_link = None
-    if results["total_count"] > 0:
-        code_link = results["items"][0]["html_url"]
-    return code_link
+    if r.status_code != 200:
+        return None
+    try:
+        results = r.json()
+        if "total_count" in results and results["total_count"] > 0:
+            return results["items"][0]["html_url"]
+    except:
+        pass
+    return None
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -93,13 +97,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output
     content = dict()
     content_to_web = dict()
-    search_engine = arxiv.Search(
+    client = arxiv.Client()
+    search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in client.results(search):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -125,15 +130,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
         try:
             # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+            repo_url = get_code_link(paper_title)
+            if repo_url is None:
+                repo_url = get_code_link(paper_key)
+            # TODO: paperswithcode API has SSL issues
+            # r = requests.get(code_url, verify=False).json()
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
@@ -198,11 +201,15 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
+                    # code_url = base_url + paper_id #TODO
+                    repo_url = get_code_link(paper_title)
+                    if repo_url is None:
+                        repo_url = get_code_link(paper_key)
+                    # r = requests.get(code_url, verify=False).json()
+                    # repo_url = None
+                    # if "official" in r and r["official"]:
+                    #     repo_url = r["official"]["url"]
+                    if repo_url is not None:
                         if repo_url is not None:
                             new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
                             logging.info(f'ID = {paper_id}, contents = {new_cont}')
