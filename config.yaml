@@ -5,7 +5,7 @@ repo_name: "ai4se-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 100
 
 publish_readme: True
 publish_gitpage: True
@@ -22,15 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "agent": 
-        filters: ["agent", "llm"]
     "ai4se":
         filters: ["ai4se", "llm4se", "software engineering",
                   "code generation", "code completion",
                   "code understanding", "code synthesis", "llm"]
-    "llm4se":
-        filters: ["llm4se", "llm", "software engineering", "code generation"]
-    "code generation":
-        filters: ["code generation", "llm", "ai4se", "llm4se"]
-    "llm":
-        filters: ["llm", "agent", "ai4se", "llm4se", "code generation"]
