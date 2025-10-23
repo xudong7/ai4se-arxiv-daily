@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Updated on 2025.10.23
+[![GitHub](https://img.shields.io/badge/GitHub-xudong7-blue?logo=github)](https://github.com/xudong7)
 > Usage instructions: [here](./docs/README.md#usage)
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
