@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.01
+## Updated on 2025.11.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -284,10 +284,10 @@ layout: default
 |**2025-10-23**|**Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**|Dian Yu et.al.|[2510.20187](http://arxiv.org/abs/2510.20187)|null|
 |**2025-10-23**|**Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**|Yuhang Zhou et.al.|[2510.20176](http://arxiv.org/abs/2510.20176)|null|
 |**2025-10-23**|**Collective Communication for 100k+ GPUs**|Min Si et.al.|[2510.20171](http://arxiv.org/abs/2510.20171)|null|
-|**2025-10-23**|**PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding**|Penghao Wang et.al.|[2510.20155](http://arxiv.org/abs/2510.20155)|null|
+|**2025-10-23**|**PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding**|Penghao Wang et.al.|[2510.20155](http://arxiv.org/abs/2510.20155)|**[link](https://github.com/AuthorityWang/PartNeXt)**|
 |**2025-10-23**|**Are Stereotypes Leading LLMs' Zero-Shot Stance Detection ?**|Anthony Dubreuil et.al.|[2510.20154](http://arxiv.org/abs/2510.20154)|null|
 |**2025-10-23**|**BoundRL: Efficient Structured Text Segmentation through Reinforced Boundary Generation**|Haoyuan Li et.al.|[2510.20151](http://arxiv.org/abs/2510.20151)|null|
-|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|null|
+|**2025-10-23**|**Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning**|Yaochen Zhu et.al.|[2510.20150](http://arxiv.org/abs/2510.20150)|**[link](https://github.com/yaochenzhu/Rank-GRPO)**|
 |**2025-10-23**|**SAID: Empowering Large Language Models with Self-Activating Internal Defense**|Yulong Chen et.al.|[2510.20129](http://arxiv.org/abs/2510.20129)|null|
 |**2025-10-23**|**"Learning Together": AI-Mediated Support for Parental Involvement in Everyday Learning**|Yao Li et.al.|[2510.20123](http://arxiv.org/abs/2510.20123)|null|
 |**2025-10-23**|**Developing a Model-Driven Reengineering Approach for Migrating PL/SQL Triggers to Java: A Practical Experience**|Carlos J. Fernandez-Candel et.al.|[2510.20121](http://arxiv.org/abs/2510.20121)|null|
