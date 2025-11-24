@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.21
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -169,7 +169,7 @@ layout: default
 |**2025-11-13**|**Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL**|Qifeng Cai et.al.|[2511.10192](http://arxiv.org/abs/2511.10192)|null|
 |**2025-11-13**|**Beyond the Black Box: Demystifying Multi-Turn LLM Reasoning with VISTA**|Yiran Zhang et.al.|[2511.10182](http://arxiv.org/abs/2511.10182)|null|
 |**2025-11-13**|**pynxtools: A Python framework for generating and validating NeXus files in experimental data workflows**|Sherjeel Shabih et.al.|[2511.10105](http://arxiv.org/abs/2511.10105)|null|
-|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|null|
+|**2025-11-13**|**SUGAR: Learning Skeleton Representation with Visual-Motion Knowledge for Action Recognition**|Qilang Ye et.al.|[2511.10091](http://arxiv.org/abs/2511.10091)|**[link](https://github.com/rikeilong/Sugar_ActionRecognition)**|
 |**2025-11-13**|**Format Matters: The Robustness of Multimodal LLMs in Reviewing Evidence from Tables and Charts**|Xanh Ho et.al.|[2511.10075](http://arxiv.org/abs/2511.10075)|null|
 |**2025-11-13**|**Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning**|Yuxuan Zhou et.al.|[2511.10067](http://arxiv.org/abs/2511.10067)|null|
 |**2025-11-13**|**Generalized Spectral Bound for Quasi-Twisted Codes**|Buket Özkaya et.al.|[2511.10066](http://arxiv.org/abs/2511.10066)|null|
@@ -198,7 +198,7 @@ layout: default
 |**2025-11-13**|**$π$ -PIC: a framework for modular particle-in-cell developments and simulations**|Frida Brogren et.al.|[2511.09950](http://arxiv.org/abs/2511.09950)|null|
 |**2025-11-13**|**EEGAgent: A Unified Framework for Automated EEG Analysis Using Large Language Models**|Sha Zhao et.al.|[2511.09947](http://arxiv.org/abs/2511.09947)|null|
 |**2025-11-13**|**SeQuant Framework for Symbolic and Numerical Tensor Algebra. I. Core Capabilities**|Bimal Gaudel et.al.|[2511.09943](http://arxiv.org/abs/2511.09943)|null|
-|**2025-11-13**|**Leveraging Large Language Models for Identifying Knowledge Components**|Canwen Wang et.al.|[2511.09935](http://arxiv.org/abs/2511.09935)|null|
+|**2025-11-13**|**Leveraging Large Language Models for Identifying Knowledge Components**|Canwen Wang et.al.|[2511.09935](http://arxiv.org/abs/2511.09935)|**[link](https://github.com/jettbrains/-L-)**|
 |**2025-11-13**|**Compensating Distribution Drifts in Class-incremental Learning of Pre-trained Vision Transformers**|Xuan Rao et.al.|[2511.09926](http://arxiv.org/abs/2511.09926)|null|
 |**2025-11-13**|**Uncovering Strategic Egoism Behaviors in Large Language Models**|Yaoyuan Zhang et.al.|[2511.09920](http://arxiv.org/abs/2511.09920)|null|
 |**2025-11-13**|**Towards Multiple Missing Values-resistant Unsupervised Graph Anomaly Detection**|Jiazhen Chen et.al.|[2511.09917](http://arxiv.org/abs/2511.09917)|null|

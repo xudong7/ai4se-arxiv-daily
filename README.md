@@ -1,4 +1,4 @@
-## Updated on 2025.11.21
+## Updated on 2025.11.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -229,9 +229,9 @@
 |**2025-10-30**|**Stitch: Step-by-step LLM Guided Tutoring for Scratch**|Yuan Si et.al.|[2510.26634](http://arxiv.org/abs/2510.26634)|null|
 |**2025-10-30**|**Encoder-Decoder or Decoder-Only? Revisiting Encoder-Decoder Large Language Model**|Biao Zhang et.al.|[2510.26622](http://arxiv.org/abs/2510.26622)|null|
 |**2025-10-30**|**Toward Automated Security Risk Detection in Large Software Using Call Graph Analysis**|Nicholas Pecka et.al.|[2510.26620](http://arxiv.org/abs/2510.26620)|null|
-|**2025-10-30**|**SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding**|Yiqiao Jin et.al.|[2510.26615](http://arxiv.org/abs/2510.26615)|null|
+|**2025-10-30**|**SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding**|Yiqiao Jin et.al.|[2510.26615](http://arxiv.org/abs/2510.26615)|**[link](https://github.com/SlideAgent/SlideAgent.github.io)**|
 |**2025-10-30**|**Normative Reasoning in Large Language Models: A Comparative Benchmark from Logical and Modal Perspectives**|Kentaro Ozeki et.al.|[2510.26606](http://arxiv.org/abs/2510.26606)|null|
-|**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|null|
+|**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|**[link](https://github.com/RedaElMakroum/agentic-ai-hems)**|
 |**2025-10-30**|**Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems**|Fulin Lin et.al.|[2510.26585](http://arxiv.org/abs/2510.26585)|null|
 |**2025-10-30**|**CATCH: A Modular Cross-domain Adaptive Template with Hook**|Xinjin Li et.al.|[2510.26582](http://arxiv.org/abs/2510.26582)|null|
 |**2025-10-30**|**Online and Interactive Bayesian Inference Debugging**|Nathanael Nussbaumer et.al.|[2510.26579](http://arxiv.org/abs/2510.26579)|null|
@@ -572,7 +572,7 @@
 |**2025-10-22**|**Unified Reinforcement and Imitation Learning for Vision-Language Models**|Byung-Kwan Lee et.al.|[2510.19307](http://arxiv.org/abs/2510.19307)|null|
 |**2025-10-22**|**Collaborative penetration testing suite for emerging generative AI algorithms**|Petar Radanliev et.al.|[2510.19303](http://arxiv.org/abs/2510.19303)|null|
 |**2025-10-22**|**Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties**|Philipp J. Schneider et.al.|[2510.19299](http://arxiv.org/abs/2510.19299)|null|
-|**2025-10-22**|**QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation**|Yang Zhang et.al.|[2510.19296](http://arxiv.org/abs/2510.19296)|null|
+|**2025-10-22**|**QiMeng-SALV: Signal-Aware Learning for Verilog Code Generation**|Yang Zhang et.al.|[2510.19296](http://arxiv.org/abs/2510.19296)|**[link](https://github.com/zy1xxx/SALV)**|
 |**2025-10-22**|**TheMCPCompany: Creating General-purpose Agents with Task-specific Tools**|Reza Esfandiarpoor et.al.|[2510.19286](http://arxiv.org/abs/2510.19286)|**[link](https://github.com/Reza-esfandiarpoor/the-mcp-company)**|
 |**2025-10-22**|**An Empirical Study of Bitwise Operators Intuitiveness through Performance Metrics**|Shubham Joshi et.al.|[2510.19281](http://arxiv.org/abs/2510.19281)|null|
 |**2025-10-22**|**From Specification to Service: Accelerating API-First Development Using Multi-Agent Systems**|Saurabh Chauhan et.al.|[2510.19274](http://arxiv.org/abs/2510.19274)|null|
@@ -612,7 +612,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20251121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251124>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
