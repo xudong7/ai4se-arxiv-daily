@@ -720,7 +720,7 @@
 |**2025-10-22**|**Adapting Multilingual Models to Code-Mixed Tasks via Model Merging**|Prashant Kodali et.al.|[2510.19782](http://arxiv.org/abs/2510.19782)|null|
 |**2025-10-22**|**GaLLoP: Gradient-based Sparse Learning on Low-Magnitude Parameters**|Anand Choudhary et.al.|[2510.19778](http://arxiv.org/abs/2510.19778)|null|
 |**2025-10-22**|**BOSQTGEN: Breaking the Sound Barrier in Test Generation**|S M Sadrul Islam Asif et.al.|[2510.19777](http://arxiv.org/abs/2510.19777)|null|
-|**2025-10-22**|**Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents**|Gil Pasternak et.al.|[2510.19771](http://arxiv.org/abs/2510.19771)|null|
+|**2025-10-22**|**Beyond Reactivity: Measuring Proactive Problem Solving in LLM Agents**|Gil Pasternak et.al.|[2510.19771](http://arxiv.org/abs/2510.19771)|**[link](https://github.com/fastino-ai/PROBE_benchmark)**|
 |**2025-10-22**|**SmartSwitch: Advancing LLM Reasoning by Overcoming Underthinking via Promoting Deeper Thought Exploration**|Xichen Zhang et.al.|[2510.19767](http://arxiv.org/abs/2510.19767)|**[link](https://github.com/dvlab-research/SmartSwitch)**|
 |**2025-10-22**|**Review of Tools for Zero-Code LLM Based Application Development**|Priyaranjan Pattnayak et.al.|[2510.19747](http://arxiv.org/abs/2510.19747)|null|
 |**2025-10-22**|**Zhyper: Factorized Hypernetworks for Conditioned LLM Fine-Tuning**|M. H. I. Abdalla et.al.|[2510.19733](http://arxiv.org/abs/2510.19733)|**[link](https://github.com/machinelearningnuremberg/Zhyper)**|
