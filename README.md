@@ -1,4 +1,4 @@
-## Updated on 2025.12.06
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -453,7 +453,7 @@
 |**2025-11-13**|**Rectify Evaluation Preference: Improving LLMs' Critique on Math Reasoning via Perplexity-aware Reinforcement Learning**|Changyuan Tian et.al.|[2511.10303](http://arxiv.org/abs/2511.10303)|null|
 |**2025-11-13**|**Rethinking Visual Information Processing in Multimodal LLMs**|Dongwan Kim et.al.|[2511.10301](http://arxiv.org/abs/2511.10301)|null|
 |**2025-11-13**|**Behavior Modeling for Training-free Building of Private Domain Multi Agent System**|Won Ik Cho et.al.|[2511.10283](http://arxiv.org/abs/2511.10283)|null|
-|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
+|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|**[link](https://github.com/ryliu68/FACTGUARD)**|
 |**2025-11-13**|**PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning**|Yanbei Jiang et.al.|[2511.10279](http://arxiv.org/abs/2511.10279)|null|
 |**2025-11-13**|**Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware**|Martin Braas et.al.|[2511.10277](http://arxiv.org/abs/2511.10277)|null|
 |**2025-11-13**|**Certified Branch-and-Bound MaxSAT Solving (Extended Version)**|Dieter Vandesande et.al.|[2511.10273](http://arxiv.org/abs/2511.10273)|null|
@@ -567,7 +567,7 @@
 |**2025-10-30**|**On the Role of Context for Discourse Relation Classification in Scientific Writing**|Stephen Wan et.al.|[2510.26354](http://arxiv.org/abs/2510.26354)|null|
 |**2025-10-30**|**Towards Explainable and Reliable AI in Finance**|Albi Isufaj et.al.|[2510.26353](http://arxiv.org/abs/2510.26353)|null|
 |**2025-10-30**|**The Geometry of Dialogue: Graphing Language Models to Reveal Synergistic Teams for Multi-Agent Collaboration**|Kotaro Furuya et.al.|[2510.26352](http://arxiv.org/abs/2510.26352)|null|
-|**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|null|
+|**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|**[link](https://github.com/mxpoliakov/MisSynth)**|
 |**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema et.al.|[2510.26336](http://arxiv.org/abs/2510.26336)|null|
 |**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|null|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309](http://arxiv.org/abs/2510.26309)|null|
@@ -912,7 +912,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20251206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

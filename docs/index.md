@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.06
+## Updated on 2025.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -298,7 +298,7 @@ layout: default
 |**2025-11-24**|**OceanForecastBench: A Benchmark Dataset for Data-Driven Global Ocean Forecasting**|Haoming Jia et.al.|[2511.18732](http://arxiv.org/abs/2511.18732)|null|
 |**2025-11-24**|**GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving**|Lin Liu et.al.|[2511.18729](http://arxiv.org/abs/2511.18729)|null|
 |**2025-11-24**|**LogSyn: A Few-Shot LLM Framework for Structured Insight Extraction from Unstructured General Aviation Maintenance Logs**|Devansh Agarwal et.al.|[2511.18727](http://arxiv.org/abs/2511.18727)|null|
-|**2025-11-24**|**Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM**|Adarsh Kumarappan et.al.|[2511.18721](http://arxiv.org/abs/2511.18721)|null|
+|**2025-11-24**|**Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM**|Adarsh Kumarappan et.al.|[2511.18721](http://arxiv.org/abs/2511.18721)|**[link](https://github.com/ayushimehrotra/smoothllm_workshop)**|
 |**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
 |**2025-11-24**|**HuggingR $^{4}$ : A Progressive Reasoning Framework for Discovering Optimal Model Companions**|Shaoyin Ma et.al.|[2511.18715](http://arxiv.org/abs/2511.18715)|null|
 |**2025-11-24**|**MAGMA-Edu: Multi-Agent Generative Multimodal Framework for Text-Diagram Educational Question Generation**|Zhenyu Wu et.al.|[2511.18714](http://arxiv.org/abs/2511.18714)|null|
@@ -741,7 +741,7 @@ layout: default
 |**2025-10-23**|**Large Language Models for Fault Localization: An Empirical Study**|YingJian Xiao et.al.|[2510.20521](http://arxiv.org/abs/2510.20521)|null|
 |**2025-10-23**|**Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning**|Xiaohan Lan et.al.|[2510.20519](http://arxiv.org/abs/2510.20519)|null|
 |**2025-10-23**|**Toward Practical Deductive Verification: Insights from a Qualitative Survey in Industry and Academia**|Lea Salome Brugger et.al.|[2510.20514](http://arxiv.org/abs/2510.20514)|null|
-|**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|null|
+|**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|**[link](https://github.com/PaulLerner/21-EuroParl)**|
 |**2025-10-23**|**Robust Preference Alignment via Directional Neighborhood Consensus**|Ruochen Mao et.al.|[2510.20498](http://arxiv.org/abs/2510.20498)|null|
 |**2025-10-23**|**Steering Evaluation-Aware Language Models To Act Like They Are Deployed**|Tim Tian Hua et.al.|[2510.20487](http://arxiv.org/abs/2510.20487)|null|
 |**2025-10-23**|**RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging**|Bowen Wang et.al.|[2510.20479](http://arxiv.org/abs/2510.20479)|null|
