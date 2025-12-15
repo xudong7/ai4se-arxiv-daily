@@ -1,4 +1,4 @@
-## Updated on 2025.12.11
+## Updated on 2025.12.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -220,14 +220,14 @@
 |**2025-11-27**|**Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer**|Z-Image Team et.al.|[2511.22699](http://arxiv.org/abs/2511.22699)|null|
 |**2025-11-27**|**Generative Anchored Fields: Controlled Data Generation via Emergent Velocity Fields and Transport Algebra**|Deressa Wodajo Deressa et.al.|[2511.22693](http://arxiv.org/abs/2511.22693)|null|
 |**2025-11-27**|**A Synthetic Reconstruction of Multiparty Session Types (with Appendix)**|David Castro-Perez et.al.|[2511.22692](http://arxiv.org/abs/2511.22692)|null|
-|**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|null|
+|**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686](http://arxiv.org/abs/2511.22686)|**[link](https://github.com/Cornell-VAILab/Ext-3DFMs)**|
 |**2025-11-27**|**CacheTrap: Injecting Trojans in LLMs without Leaving any Traces in Inputs or Weights**|Mohaiminul Al Nahian et.al.|[2511.22681](http://arxiv.org/abs/2511.22681)|null|
 |**2025-11-27**|**Automated Design Optimization via Strategic Search with Large Language Models**|Anthony Carreon et.al.|[2511.22651](http://arxiv.org/abs/2511.22651)|null|
-|**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|null|
+|**2025-11-27**|**GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes**|Di Wang et.al.|[2511.22645](http://arxiv.org/abs/2511.22645)|**[link](https://github.com/MiliLab/GeoZero)**|
 |**2025-11-27**|**Improving LLM-based Ontology Matching with fine-tuning on synthetic data**|Guilherme Sousa et.al.|[2511.22612](http://arxiv.org/abs/2511.22612)|null|
 |**2025-11-27**|**DisCEdge: Distributed Context Management for Large Language Models at the Edge**|Mohammadreza Malekabbasi et.al.|[2511.22599](http://arxiv.org/abs/2511.22599)|null|
 |**2025-11-27**|**LLM-Cave: A benchmark and light environment for large language models reasoning and decision-making system**|Huanyu Li et.al.|[2511.22598](http://arxiv.org/abs/2511.22598)|null|
-|**2025-11-27**|**HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models**|Haoxi Zeng et.al.|[2511.22594](http://arxiv.org/abs/2511.22594)|null|
+|**2025-11-27**|**HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models**|Haoxi Zeng et.al.|[2511.22594](http://arxiv.org/abs/2511.22594)|**[link](https://github.com/Erosist/HarmoCLIP)**|
 |**2025-11-27**|**Smarter, not Bigger: Fine-Tuned RAG-Enhanced LLMs for Automotive HIL Testing**|Chao Feng et.al.|[2511.22584](http://arxiv.org/abs/2511.22584)|null|
 |**2025-11-27**|**DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning**|Zhihong Shao et.al.|[2511.22570](http://arxiv.org/abs/2511.22570)|null|
 |**2025-11-27**|**Diff-ICMH: Harmonizing Machine and Human Vision in Image Compression with Generative Prior**|Ruoyu Feng et.al.|[2511.22549](http://arxiv.org/abs/2511.22549)|null|
@@ -1012,7 +1012,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
