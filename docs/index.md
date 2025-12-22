@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.21
+## Updated on 2025.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -1048,7 +1048,7 @@ layout: default
 |**2025-10-23**|**Systematic Evaluation of Uncertainty Estimation Methods in Large Language Models**|Christian Hobelsberger et.al.|[2510.20460](http://arxiv.org/abs/2510.20460)|null|
 |**2025-10-23**|**Rotate Both Ways: Time-and-Order RoPE for Generative Recommendation**|Xiaokai Wei et.al.|[2510.20455](http://arxiv.org/abs/2510.20455)|null|
 |**2025-10-23**|**LM-mixup: Text Data Augmentation via Language Model based Mixup**|Zhijie Deng et.al.|[2510.20449](http://arxiv.org/abs/2510.20449)|null|
-|**2025-10-23**|**An Empirical Study of Sample Selection Strategies for Large Language Model Repair**|Xuran Li et.al.|[2510.20428](http://arxiv.org/abs/2510.20428)|null|
+|**2025-10-23**|**An Empirical Study of Sample Selection Strategies for Large Language Model Repair**|Xuran Li et.al.|[2510.20428](http://arxiv.org/abs/2510.20428)|**[link](https://github.com/RitaLi1005/SAPS)**|
 |**2025-10-23**|**Why DPO is a Misspecified Estimator and How to Fix It**|Aditya Gopalan et.al.|[2510.20413](http://arxiv.org/abs/2510.20413)|null|
 |**2025-10-23**|**FMI-Based Distributed Co-Simulation with Enhanced Security and Intellectual Property Safeguards**|Santiago Gil et.al.|[2510.20403](http://arxiv.org/abs/2510.20403)|null|
 |**2025-10-23**|**Symmetry in Software Platforms as an Architectural Principle**|Bjorn Remseth et.al.|[2510.20389](http://arxiv.org/abs/2510.20389)|null|
