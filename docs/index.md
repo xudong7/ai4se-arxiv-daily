@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.26
+## Updated on 2025.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -966,7 +966,7 @@ layout: default
 |**2025-10-30**|**The Geometry of Dialogue: Graphing Language Models to Reveal Synergistic Teams for Multi-Agent Collaboration**|Kotaro Furuya et.al.|[2510.26352](http://arxiv.org/abs/2510.26352)|null|
 |**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|null|
 |**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema et.al.|[2510.26336](http://arxiv.org/abs/2510.26336)|null|
-|**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|null|
+|**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|**[link](https://github.com/aisa-group/promptinject-agent-skills)**|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309](http://arxiv.org/abs/2510.26309)|null|
 |**2025-10-30**|**Empowering RepoQA-Agent based on Reinforcement Learning Driven by Monte-carlo Tree Search**|Guochang Li et.al.|[2510.26287](http://arxiv.org/abs/2510.26287)|null|
 |**2025-10-30**|**Unravelling the Mechanisms of Manipulating Numbers in Language Models**|Michal Štefánik et.al.|[2510.26285](http://arxiv.org/abs/2510.26285)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2025-10-30**|**A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI**|Domenico Amalfitano et.al.|[2510.26275](http://arxiv.org/abs/2510.26275)|null|
 |**2025-10-30**|**PVMark: Enabling Public Verifiability for LLM Watermarking Schemes**|Haohua Duan et.al.|[2510.26274](http://arxiv.org/abs/2510.26274)|null|
 |**2025-10-30**|**Graph-Enhanced Policy Optimization in LLM Agent Training**|Jiazhen Yuan et.al.|[2510.26270](http://arxiv.org/abs/2510.26270)|null|
-|**2025-10-30**|**Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs**|Takuma Sato et.al.|[2510.26253](http://arxiv.org/abs/2510.26253)|null|
+|**2025-10-30**|**Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs**|Takuma Sato et.al.|[2510.26253](http://arxiv.org/abs/2510.26253)|**[link](https://github.com/takuma1229/pragmatic-theories-enhance)**|
 |**2025-10-30**|**Retrieval Augmented Generation-Enhanced Distributed LLM Agents for Generalizable Traffic Signal Control with Emergency Vehicles**|Xinhang Li et.al.|[2510.26242](http://arxiv.org/abs/2510.26242)|null|
 |**2025-10-30**|**Questionnaire meets LLM: A Benchmark and Empirical Study of Structural Skills for Understanding Questions and Responses**|Duc-Hai Nguyen et.al.|[2510.26238](http://arxiv.org/abs/2510.26238)|null|
 |**2025-10-30**|**ChatGPT in Systematic Investing -- Enhancing Risk-Adjusted Returns with LLMs**|Nikolas Anic et.al.|[2510.26228](http://arxiv.org/abs/2510.26228)|null|
