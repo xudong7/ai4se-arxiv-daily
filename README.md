@@ -1,4 +1,4 @@
-## Updated on 2026.01.01
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -308,14 +308,14 @@
 |**2025-12-18**|**LinkedOut: Linking World Knowledge Representation Out of Video LLM for Next-Generation Video Recommendation**|Haichao Zhang et.al.|[2512.16891](http://arxiv.org/abs/2512.16891)|null|
 |**2025-12-18**|**AdaSearch: Balancing Parametric Knowledge and Search in Large Language Models via Reinforcement Learning**|Tzu-Han Lin et.al.|[2512.16883](http://arxiv.org/abs/2512.16883)|null|
 |**2025-12-18**|**TOGGLE: Temporal Logic-Guided Large Language Model Compression for Edge**|Khurram Khalil et.al.|[2512.16855](http://arxiv.org/abs/2512.16855)|null|
-|**2025-12-18**|**Meta-RL Induces Exploration in Language Agents**|Yulun Jiang et.al.|[2512.16848](http://arxiv.org/abs/2512.16848)|null|
+|**2025-12-18**|**Meta-RL Induces Exploration in Language Agents**|Yulun Jiang et.al.|[2512.16848](http://arxiv.org/abs/2512.16848)|**[link](https://github.com/mlbio-epfl/LaMer)**|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
 |**2025-12-18**|**Toward Systematic Counterfactual Fairness Evaluation of Large Language Models: The CAFFE Framework**|Alessandra Parziale et.al.|[2512.16816](http://arxiv.org/abs/2512.16816)|null|
 |**2025-12-18**|**Grammar-Forced Translation of Natural Language to Temporal Logic using LLMs**|William English et.al.|[2512.16814](http://arxiv.org/abs/2512.16814)|null|
 |**2025-12-18**|**From Facts to Conclusions : Integrating Deductive Reasoning in Retrieval-Augmented LLMs**|Shubham Mishra et.al.|[2512.16795](http://arxiv.org/abs/2512.16795)|null|
-|**2025-12-18**|**Inside Out: Uncovering How Comment Internalization Steers LLMs for Better or Worse**|Aaron Imani et.al.|[2512.16790](http://arxiv.org/abs/2512.16790)|null|
+|**2025-12-18**|**Inside Out: Uncovering How Comment Internalization Steers LLMs for Better or Worse**|Aaron Imani et.al.|[2512.16790](http://arxiv.org/abs/2512.16790)|**[link](https://github.com/aaron-imani/inside-out)**|
 |**2025-12-18**|**GinSign: Grounding Natural Language Into System Signatures for Temporal Logic Translation**|William English et.al.|[2512.16770](http://arxiv.org/abs/2512.16770)|null|
-|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/abs/2512.16760)|null|
+|**2025-12-18**|**Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future**|Tianshuai Hu et.al.|[2512.16760](http://arxiv.org/abs/2512.16760)|**[link](https://github.com/worldbench/awesome-vla-for-ad)**|
 |**2025-12-18**|**Plausibility as Failure: How LLMs and Humans Co-Construct Epistemic Error**|Claudia Vale Oliveira et.al.|[2512.16750](http://arxiv.org/abs/2512.16750)|null|
 |**2025-12-18**|**An Empirical Study of the Realism of Mutants in Deep Learning**|Zaheed Ahmed et.al.|[2512.16741](http://arxiv.org/abs/2512.16741)|null|
 |**2025-12-18**|**DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI**|Hao Liang et.al.|[2512.16676](http://arxiv.org/abs/2512.16676)|null|
@@ -456,7 +456,7 @@
 |**2025-12-11**|**Limits and Gains of Test-Time Scaling in Vision-Language Reasoning**|Mohammadjavad Ahmadpour et.al.|[2512.11109](http://arxiv.org/abs/2512.11109)|null|
 |**2025-12-11**|**VGent: Visual Grounding via Modular Design for Disentangling Reasoning and Prediction**|Weitai Kang et.al.|[2512.11099](http://arxiv.org/abs/2512.11099)|null|
 |**2025-12-11**|**KathDB: Explainable Multimodal Database Management System with Human-AI Collaboration**|Guorui Xiao et.al.|[2512.11067](http://arxiv.org/abs/2512.11067)|null|
-|**2025-12-11**|**PIAST: Rapid Prompting with In-context Augmentation for Scarce Training data**|Pawel Batorski et.al.|[2512.11013](http://arxiv.org/abs/2512.11013)|null|
+|**2025-12-11**|**PIAST: Rapid Prompting with In-context Augmentation for Scarce Training data**|Pawel Batorski et.al.|[2512.11013](http://arxiv.org/abs/2512.11013)|**[link](https://github.com/Batorskq/PIAST)**|
 |**2025-12-11**|**Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving**|Jiawei Yang et.al.|[2512.10947](http://arxiv.org/abs/2512.10947)|null|
 |**2025-12-11**|**Asynchronous Reasoning: Training-Free Interactive Thinking LLMs**|George Yakushev et.al.|[2512.10931](http://arxiv.org/abs/2512.10931)|null|
 |**2025-12-11**|**FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos**|Yulu Gan et.al.|[2512.10927](http://arxiv.org/abs/2512.10927)|null|
@@ -1075,13 +1075,13 @@
 |**2025-11-13**|**DBGroup: Dual-Branch Point Grouping for Weakly Supervised 3D Instance Segmentation**|Xuexun Liu et.al.|[2511.10003](http://arxiv.org/abs/2511.10003)|null|
 |**2025-11-13**|**PustakAI: Curriculum-Aligned and Interactive Textbooks Using Large Language Models**|Shivam Sharma et.al.|[2511.10002](http://arxiv.org/abs/2511.10002)|null|
 |**2025-11-13**|**DemoTuner: Efficient DBMS Knobs Tuning via LLM-Assisted Demonstration Reinforcement Learning**|Hui Dou et.al.|[2511.09998](http://arxiv.org/abs/2511.09998)|null|
-|**2025-11-13**|**SPAN: Benchmarking and Improving Cross-Calendar Temporal Reasoning of Large Language Models**|Zhongjian Miao et.al.|[2511.09993](http://arxiv.org/abs/2511.09993)|null|
-|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|null|
-|**2025-11-13**|**Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**|Bo Li et.al.|[2511.09980](http://arxiv.org/abs/2511.09980)|null|
-|**2025-11-13**|**MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data**|Dimitrios Sinodinos et.al.|[2511.09970](http://arxiv.org/abs/2511.09970)|null|
+|**2025-11-13**|**SPAN: Benchmarking and Improving Cross-Calendar Temporal Reasoning of Large Language Models**|Zhongjian Miao et.al.|[2511.09993](http://arxiv.org/abs/2511.09993)|**[link](https://github.com/miaozhongjian/span)**|
+|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|**[link](https://github.com/pkuserc/SCD)**|
+|**2025-11-13**|**Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG**|Bo Li et.al.|[2511.09980](http://arxiv.org/abs/2511.09980)|**[link](https://github.com/pkuserc/ETC)**|
+|**2025-11-13**|**MultiTab: A Scalable Foundation for Multitask Learning on Tabular Data**|Dimitrios Sinodinos et.al.|[2511.09970](http://arxiv.org/abs/2511.09970)|**[link](https://github.com/Armanfard-Lab/MultiTab)**|
 |**2025-11-13**|**Owlgorithm: Supporting Self-Regulated Learning in Competitive Programming through LLM-Driven Reflection**|Juliana Nieto-Cardenas et.al.|[2511.09969](http://arxiv.org/abs/2511.09969)|null|
 |**2025-11-13**|**REAP: Enhancing RAG with Recursive Evaluation and Adaptive Planning for Multi-Hop Question Answering**|Yijie Zhu et.al.|[2511.09966](http://arxiv.org/abs/2511.09966)|null|
-|**2025-11-13**|**Equivariant Sampling for Improving Diffusion Model-based Image Restoration**|Chenxu Wu et.al.|[2511.09965](http://arxiv.org/abs/2511.09965)|null|
+|**2025-11-13**|**Equivariant Sampling for Improving Diffusion Model-based Image Restoration**|Chenxu Wu et.al.|[2511.09965](http://arxiv.org/abs/2511.09965)|**[link](https://github.com/FouierL/EquS)**|
 |**2025-11-13**|**EnvTrace: Simulation-Based Semantic Evaluation of LLM Code via Execution Trace Alignment -- Demonstrated at Synchrotron Beamlines**|Noah van der Vleuten et.al.|[2511.09964](http://arxiv.org/abs/2511.09964)|null|
 |**2025-11-13**|**$π$ -PIC: a framework for modular particle-in-cell developments and simulations**|Frida Brogren et.al.|[2511.09950](http://arxiv.org/abs/2511.09950)|null|
 |**2025-11-13**|**EEGAgent: A Unified Framework for Automated EEG Analysis Using Large Language Models**|Sha Zhao et.al.|[2511.09947](http://arxiv.org/abs/2511.09947)|null|
@@ -1497,7 +1497,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260105>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.01
+## Updated on 2026.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -515,7 +515,7 @@ layout: default
 |**2025-12-09**|**Insured Agents: A Decentralized Trust Insurance Mechanism for Agentic Economy**|Botao 'Amber' Hu et.al.|[2512.08737](http://arxiv.org/abs/2512.08737)|null|
 |**2025-12-09**|**LaMoSys3.5D: Enabling 3.5D-IC-Based Large Language Model Inference Serving Systems via Hardware/Software Co-Design**|Qipan Wang et.al.|[2512.08731](http://arxiv.org/abs/2512.08731)|null|
 |**2025-12-09**|**Exposing Hidden Biases in Text-to-Image Models via Automated Prompt Search**|Manos Plitsis et.al.|[2512.08724](http://arxiv.org/abs/2512.08724)|null|
-|**2025-12-09**|**RESTifAI: LLM-Based Workflow for Reusable REST API Testing**|Leon Kogler et.al.|[2512.08706](http://arxiv.org/abs/2512.08706)|null|
+|**2025-12-09**|**RESTifAI: LLM-Based Workflow for Reusable REST API Testing**|Leon Kogler et.al.|[2512.08706](http://arxiv.org/abs/2512.08706)|**[link](https://github.com/casablancahotelsoftware/RESTifAI)**|
 |**2025-12-09**|**Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain**|Renato Cordeiro Ferreira et.al.|[2512.08657](http://arxiv.org/abs/2512.08657)|null|
 |**2025-12-09**|**QSTN: A Modular Framework for Robust Questionnaire Inference with Large Language Models**|Maximilian Kreutner et.al.|[2512.08646](http://arxiv.org/abs/2512.08646)|null|
 |**2025-12-09**|**Chain-of-Image Generation: Toward Monitorable and Controllable Image Generation**|Young Kyung Kim et.al.|[2512.08645](http://arxiv.org/abs/2512.08645)|null|
