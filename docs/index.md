@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.16
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -1275,7 +1275,7 @@ layout: default
 |**2025-11-18**|**How to Train Private Clinical Language Models: A Comparative Study of Privacy-Preserving Pipelines for ICD-9 Coding**|Mathieu Dufour et.al.|[2511.14936](http://arxiv.org/abs/2511.14936)|null|
 |**2025-11-18**|**On-Premise SLMs vs. Commercial LLMs: Prompt Engineering and Incident Classification in SOCs and CSIRTs**|Gefté Almeida et.al.|[2511.14908](http://arxiv.org/abs/2511.14908)|null|
 |**2025-11-18**|**It's LIT! Reliability-Optimized LLMs with Inspectable Tools**|Ruixin Zhang et.al.|[2511.14903](http://arxiv.org/abs/2511.14903)|null|
-|**2025-11-18**|**FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding**|Zhenshi Li et.al.|[2511.14901](http://arxiv.org/abs/2511.14901)|null|
+|**2025-11-18**|**FarSLIP: Discovering Effective CLIP Adaptation for Fine-Grained Remote Sensing Understanding**|Zhenshi Li et.al.|[2511.14901](http://arxiv.org/abs/2511.14901)|**[link](https://github.com/NJU-LHRS/FarSLIP)**|
 |**2025-11-18**|**Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings**|Xueying Ding et.al.|[2511.14868](http://arxiv.org/abs/2511.14868)|null|
 |**2025-11-18**|**Large Language Model Driven Analysis of General Coordinates Network (GCN) Circulars**|Vidushi Sharma et.al.|[2511.14858](http://arxiv.org/abs/2511.14858)|null|
 |**2025-11-18**|**Channel Coding for Gaussian Channels with Multifaceted Power Constraints**|Adeel Mahmood et.al.|[2511.14849](http://arxiv.org/abs/2511.14849)|null|

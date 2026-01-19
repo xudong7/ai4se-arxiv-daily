@@ -1,4 +1,4 @@
-## Updated on 2026.01.16
+## Updated on 2026.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -430,12 +430,12 @@
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
 |**2025-12-29**|**Entropy-Guided Token Dropout: Training Autoregressive Language Models with Limited Domain Data**|Jiapeng Wang et.al.|[2512.23422](http://arxiv.org/abs/2512.23422)|null|
 |**2025-12-29**|**An SLO Driven and Cost-Aware Autoscaling Framework for Kubernetes**|Vinoth Punniyamoorthy et.al.|[2512.23415](http://arxiv.org/abs/2512.23415)|null|
-|**2025-12-29**|**Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment**|Henglin Liu et.al.|[2512.23413](http://arxiv.org/abs/2512.23413)|null|
+|**2025-12-29**|**Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment**|Henglin Liu et.al.|[2512.23413](http://arxiv.org/abs/2512.23413)|**[link](https://github.com/Henglin-Liu/ArtQuant)**|
 |**2025-12-29**|**Theoretical Foundations of Scaling Law in Familial Models**|Huan Song et.al.|[2512.23407](http://arxiv.org/abs/2512.23407)|null|
 |**2025-12-29**|**Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?**|The Anh Nguyen et.al.|[2512.23385](http://arxiv.org/abs/2512.23385)|null|
 |**2025-12-29**|**Post-Training Quantization of OpenPangu Models for Efficient Deployment on Atlas A2**|Yilun Luo et.al.|[2512.23367](http://arxiv.org/abs/2512.23367)|null|
 |**2025-12-29**|**A Stepwise-Enhanced Reasoning Framework for Large Language Models Based on External Subgraph Generation**|Xin Zhang et.al.|[2512.23356](http://arxiv.org/abs/2512.23356)|null|
-|**2025-12-29**|**CountGD++: Generalized Prompting for Open-World Counting**|Niki Amini-Naieni et.al.|[2512.23351](http://arxiv.org/abs/2512.23351)|null|
+|**2025-12-29**|**CountGD++: Generalized Prompting for Open-World Counting**|Niki Amini-Naieni et.al.|[2512.23351](http://arxiv.org/abs/2512.23351)|**[link](https://github.com/niki-amini-naieni/CountGDPlusPlus)**|
 |**2025-12-29**|**AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents**|Jiafeng Liang et.al.|[2512.23343](http://arxiv.org/abs/2512.23343)|null|
 |**2025-12-29**|**The Law of Multi-Model Collaboration: Scaling Limits of Model Ensembling for Large Language Models**|Dakuan Lu et.al.|[2512.23340](http://arxiv.org/abs/2512.23340)|null|
 |**2025-12-29**|**CME-CAD: Heterogeneous Collaborative Multi-Expert Reinforcement Learning for CAD Code Generation**|Ke Niu et.al.|[2512.23333](http://arxiv.org/abs/2512.23333)|null|
@@ -1793,7 +1793,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
