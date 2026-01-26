@@ -582,7 +582,7 @@
 |**2025-12-30**|**CEC-Zero: Zero-Supervision Character Error Correction with Self-Generated Rewards**|Zhiming Lin et.al.|[2512.23971](http://arxiv.org/abs/2512.23971)|null|
 |**2025-12-30**|**Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex Relational Modeling**|Chulun Zhou et.al.|[2512.23959](http://arxiv.org/abs/2512.23959)|null|
 |**2025-12-30**|**A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming**|Ioanna Gemou et.al.|[2512.23932](http://arxiv.org/abs/2512.23932)|null|
-|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|null|
+|**2025-12-30**|**Hardware Acceleration for Neural Networks: A Comprehensive Survey**|Bin Xu et.al.|[2512.23914](http://arxiv.org/abs/2512.23914)|**[link](https://github.com/gouliev/pruningandmodelcompression)**|
 |**2025-12-29**|**How Large Language Models Systematically Misrepresent American Climate Opinions**|Sola Kim et.al.|[2512.23889](http://arxiv.org/abs/2512.23889)|null|
 |**2025-12-29**|**CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution**|Xu Huang et.al.|[2512.23880](http://arxiv.org/abs/2512.23880)|null|
 |**2025-12-29**|**From Illusion to Insight: Change-Aware File-Level Software Defect Prediction Using Agentic AI**|Mohsen Hesamolhokama et.al.|[2512.23875](http://arxiv.org/abs/2512.23875)|null|

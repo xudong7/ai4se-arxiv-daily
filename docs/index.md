@@ -382,7 +382,7 @@ layout: default
 |**2026-01-08**|**DSC2025 -- ViHallu Challenge: Detecting Hallucination in Vietnamese LLMs**|Anh Thi-Hoang Nguyen et.al.|[2601.04711](http://arxiv.org/abs/2601.04711)|null|
 |**2026-01-08**|**Prior-Informed Zeroth-Order Optimization with Adaptive Direction Alignment for Memory-Efficient LLM Fine-Tuning**|Feihu Jin et.al.|[2601.04710](http://arxiv.org/abs/2601.04710)|null|
 |**2026-01-08**|**Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search**|Yiqun Chen et.al.|[2601.04703](http://arxiv.org/abs/2601.04703)|null|
-|**2026-01-08**|**PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards**|Mukesh Ghimire et.al.|[2601.04700](http://arxiv.org/abs/2601.04700)|null|
+|**2026-01-08**|**PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards**|Mukesh Ghimire et.al.|[2601.04700](http://arxiv.org/abs/2601.04700)|**[link](https://github.com/ghimiremukesh/PRISM)**|
 |**2026-01-08**|**A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models**|Huayi Liu et.al.|[2601.04696](http://arxiv.org/abs/2601.04696)|null|
 |**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
 |**2026-01-08**|**Thunder-KoNUBench: A Corpus-Aligned Benchmark for Korean Negation Understanding**|Sungmok Jung et.al.|[2601.04693](http://arxiv.org/abs/2601.04693)|null|
@@ -1037,9 +1037,9 @@ layout: default
 |**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](http://arxiv.org/abs/2512.08366)|null|
 |**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
 |**2025-12-09**|**The High Cost of Incivility: Quantifying Interaction Inefficiency via Multi-Agent Monte Carlo Simulations**|Benedikt Mangold et.al.|[2512.08345](http://arxiv.org/abs/2512.08345)|null|
-|**2025-12-09**|**Argus: A Multi-Agent Sensitive Information Leakage Detection Framework Based on Hierarchical Reference Relationships**|Bin Wang et.al.|[2512.08326](http://arxiv.org/abs/2512.08326)|null|
+|**2025-12-09**|**Argus: A Multi-Agent Sensitive Information Leakage Detection Framework Based on Hierarchical Reference Relationships**|Bin Wang et.al.|[2512.08326](http://arxiv.org/abs/2512.08326)|**[link](https://github.com/TheBinKing/Argus-Guard)**|
 |**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](http://arxiv.org/abs/2512.08300)|null|
-|**2025-12-09**|**Towards a Science of Scaling Agent Systems**|Yubin Kim et.al.|[2512.08296](http://arxiv.org/abs/2512.08296)|null|
+|**2025-12-09**|**Towards a Science of Scaling Agent Systems**|Yubin Kim et.al.|[2512.08296](http://arxiv.org/abs/2512.08296)|**[link](https://github.com/danderfer/Comp_Sci_Sem_2)**|
 |**2025-12-09**|**Exposing and Defending Membership Leakage in Vulnerability Prediction Models**|Yihan Liao et.al.|[2512.08291](http://arxiv.org/abs/2512.08291)|null|
 |**2025-12-09**|**Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**|Shiva Gaire et.al.|[2512.08290](http://arxiv.org/abs/2512.08290)|null|
 |**2025-12-09**|**MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks**|Tailun Chen et.al.|[2512.08289](http://arxiv.org/abs/2512.08289)|null|
@@ -1715,7 +1715,7 @@ layout: default
 |**2025-10-29**|**Predicate Renaming via Large Language Models**|Elisabetta Gentili et.al.|[2510.25517](http://arxiv.org/abs/2510.25517)|null|
 |**2025-10-29**|**MTIR-SQL: Multi-turn Tool-Integrated Reasoning Reinforcement Learning for Text-to-SQL**|Zekun Xu et.al.|[2510.25510](http://arxiv.org/abs/2510.25510)|null|
 |**2025-10-29**|**Reflections on the Reproducibility of Commercial LLM Performance in Empirical Software Engineering Studies**|Florian Angermeir et.al.|[2510.25506](http://arxiv.org/abs/2510.25506)|null|
-|**2025-10-29**|**Generalized Pseudo-Relevance Feedback**|Yiteng Tu et.al.|[2510.25488](http://arxiv.org/abs/2510.25488)|null|
+|**2025-10-29**|**Generalized Pseudo-Relevance Feedback**|Yiteng Tu et.al.|[2510.25488](http://arxiv.org/abs/2510.25488)|**[link](https://github.com/StibiumT16/GPRF)**|
 |**2025-10-29**|**NetEcho: From Real-World Streaming Side-Channels to Full LLM Conversation Recovery**|Zheng Zhang et.al.|[2510.25472](http://arxiv.org/abs/2510.25472)|null|
 |**2025-10-29**|**Proceedings of the 12th Workshop on Horn Clauses for Verification and Synthesis**|Emanuele De Angelis et.al.|[2510.25468](http://arxiv.org/abs/2510.25468)|null|
 |**2025-10-29**|**Fine-Tuned Language Models for Domain-Specific Summarization and Tagging**|Jun Wang et.al.|[2510.25460](http://arxiv.org/abs/2510.25460)|null|
