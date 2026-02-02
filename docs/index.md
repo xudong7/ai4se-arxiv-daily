@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -375,7 +375,7 @@ layout: default
 |**2026-01-15**|**AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers**|Prachuryya Kaushik et.al.|[2601.10161](http://arxiv.org/abs/2601.10161)|null|
 |**2026-01-15**|**Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment**|Cameron Tice et.al.|[2601.10160](http://arxiv.org/abs/2601.10160)|null|
 |**2026-01-15**|**What Gets Activated: Uncovering Domain and Driver Experts in MoE Language Models**|Guimin Hu et.al.|[2601.10159](http://arxiv.org/abs/2601.10159)|null|
-|**2026-01-15**|**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**|Yutao Mou et.al.|[2601.10156](http://arxiv.org/abs/2601.10156)|null|
+|**2026-01-15**|**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**|Yutao Mou et.al.|[2601.10156](http://arxiv.org/abs/2601.10156)|**[link](https://github.com/MurrayTom/ToolSafe)**|
 |**2026-01-15**|**MHub.ai: A Simple, Standardized, and Reproducible Platform for AI Models in Medical Imaging**|Leonard Nürnberg et.al.|[2601.10154](http://arxiv.org/abs/2601.10154)|null|
 |**2026-01-15**|**DecisionLLM: Large Language Models for Long Sequence Decision Exploration**|Xiaowei Lv et.al.|[2601.10148](http://arxiv.org/abs/2601.10148)|null|
 |**2026-01-15**|**Actors, Frames and Arguments: A Multi-Decade Computational Analysis of Climate Discourse in Financial News using Large Language Models**|Ruiran Su et.al.|[2601.10142](http://arxiv.org/abs/2601.10142)|null|
@@ -414,7 +414,7 @@ layout: default
 |**2026-01-08**|**LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation**|Samy Haffoudhi et.al.|[2601.05192](http://arxiv.org/abs/2601.05192)|null|
 |**2026-01-08**|**SimuAgent: An LLM-Based Simulink Modeling Assistant Enhanced with Reinforcement Learning**|Yanchang Liang et.al.|[2601.05187](http://arxiv.org/abs/2601.05187)|null|
 |**2026-01-08**|**Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop**|Yaxuan Wang et.al.|[2601.05184](http://arxiv.org/abs/2601.05184)|null|
-|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|null|
+|**2026-01-08**|**CoV: Chain-of-View Prompting for Spatial Reasoning**|Haoyu Zhao et.al.|[2601.05172](http://arxiv.org/abs/2601.05172)|**[link](https://github.com/ziplab/CoV)**|
 |**2026-01-08**|**Reverse-engineering NLI: A study of the meta-inferential properties of Natural Language Inference**|Rasmus Blanck et.al.|[2601.05170](http://arxiv.org/abs/2601.05170)|null|
 |**2026-01-08**|**RelayLLM: Efficient Reasoning via Collaborative Decoding**|Chengsong Huang et.al.|[2601.05167](http://arxiv.org/abs/2601.05167)|null|
 |**2026-01-08**|**GenAI-DrawIO-Creator: A Framework for Automated Diagram Generation**|Jinze Yu et.al.|[2601.05162](http://arxiv.org/abs/2601.05162)|null|

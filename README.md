@@ -1,4 +1,4 @@
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1279,7 +1279,7 @@
 |**2025-12-04**|**LLM-SrcLog: Towards Proactive and Unified Log Template Extraction via Large Language Models**|Jiaqi Sun et.al.|[2512.04474](http://arxiv.org/abs/2512.04474)|null|
 |**2025-12-04**|**RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning**|Guoshenghui Zhao et.al.|[2512.04457](http://arxiv.org/abs/2512.04457)|null|
 |**2025-12-04**|**GuidNoise: Single-Pair Guided Diffusion for Generalized Noise Synthesis**|Changjin Kim et.al.|[2512.04456](http://arxiv.org/abs/2512.04456)|null|
-|**2025-12-04**|**StreamEQA: Towards Streaming Video Understanding for Embodied Scenarios**|Yifei Wang et.al.|[2512.04451](http://arxiv.org/abs/2512.04451)|null|
+|**2025-12-04**|**StreamEQA: Towards Streaming Video Understanding for Embodied Scenarios**|Yifei Wang et.al.|[2512.04451](http://arxiv.org/abs/2512.04451)|**[link](https://github.com/MrYF-Wang/StreamEQA)**|
 |**2025-12-04**|**Automating Complex Document Workflows via Stepwise and Rollback-Enabled Operation Orchestration**|Yanbin Zhang et.al.|[2512.04445](http://arxiv.org/abs/2512.04445)|null|
 |**2025-12-04**|**TaskEval: Synthesised Evaluation for Foundation-Model Tasks**|Dilani Widanapathiranage et.al.|[2512.04442](http://arxiv.org/abs/2512.04442)|null|
 |**2025-12-04**|**Predicting Time-Dependent Flow Over Complex Geometries Using Operator Networks**|Ali Rabeh et.al.|[2512.04434](http://arxiv.org/abs/2512.04434)|null|
@@ -2093,7 +2093,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
