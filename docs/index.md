@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.06
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -39,7 +39,7 @@ layout: default
 |**2026-02-05**|**Determining Energy Efficiency Sweet Spots in Production LLM Inference**|Hiari Pizzini Cavagna et.al.|[2602.05695](http://arxiv.org/abs/2602.05695)|null|
 |**2026-02-05**|**Consensus-Aligned Neuron Efficient Fine-Tuning Large Language Models for Multi-Domain Machine Translation**|Shuting Jiang et.al.|[2602.05694](http://arxiv.org/abs/2602.05694)|null|
 |**2026-02-05**|**MedErrBench: A Fine-Grained Multilingual Benchmark for Medical Error Detection and Correction with Clinical Expert Annotations**|Congbo Ma et.al.|[2602.05692](http://arxiv.org/abs/2602.05692)|null|
-|**2026-02-05**|**Mining Generalizable Activation Functions**|Alex Vitvitskyi et.al.|[2602.05688](http://arxiv.org/abs/2602.05688)|null|
+|**2026-02-05**|**Mining Generalizable Activation Functions**|Alex Vitvitskyi et.al.|[2602.05688](http://arxiv.org/abs/2602.05688)|**[link](https://github.com/Aastha2104/Parkinson-Disease-Prediction)**|
 |**2026-02-05**|**Exploring AI-Augmented Sensemaking of Patient-Generated Health Data: A Mixed-Method Study with Healthcare Professionals in Cardiac Risk Reduction**|Pavithren V S Pakianathan et.al.|[2602.05687](http://arxiv.org/abs/2602.05687)|null|
 |**2026-02-05**|**Graph-based Agent Memory: Taxonomy, Techniques, and Applications**|Chang Yang et.al.|[2602.05665](http://arxiv.org/abs/2602.05665)|null|
 |**2026-02-05**|**Alignment Verifiability in Large Language Models: Normative Indistinguishability under Behavioral Evaluation**|Igor Santos-Grueiro et.al.|[2602.05656](http://arxiv.org/abs/2602.05656)|null|
@@ -1039,16 +1039,16 @@ layout: default
 |**2025-12-18**|**Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks**|Safwan Shaheer et.al.|[2512.16307](http://arxiv.org/abs/2512.16307)|null|
 |**2025-12-18**|**Feature-Selective Representation Misdirection for Machine Unlearning**|Taozhao Chen et.al.|[2512.16297](http://arxiv.org/abs/2512.16297)|null|
 |**2025-12-18**|**Ein Typenrad auf der Überholspur: Die Kult-Schreibmaschine "Erika" trifft KI**|Karola Köpferl et.al.|[2512.16293](http://arxiv.org/abs/2512.16293)|null|
-|**2025-12-18**|**In-Context Probing for Membership Inference in Fine-Tuned Language Models**|Zhexi Lu et.al.|[2512.16292](http://arxiv.org/abs/2512.16292)|null|
+|**2025-12-18**|**In-Context Probing for Membership Inference in Fine-Tuned Language Models**|Zhexi Lu et.al.|[2512.16292](http://arxiv.org/abs/2512.16292)|**[link](https://github.com/RPI-DSPlab/ICP-MIA)**|
 |**2025-12-18**|**Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures**|Yehor Tereshchenko et.al.|[2512.16287](http://arxiv.org/abs/2512.16287)|null|
 |**2025-12-18**|**CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity**|Jinhao Zhang et.al.|[2512.16282](http://arxiv.org/abs/2512.16282)|null|
 |**2025-12-18**|**Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams**|Gilad Gressel et.al.|[2512.16280](http://arxiv.org/abs/2512.16280)|null|
 |**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
-|**2025-12-18**|**Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls**|Ora Nova Fandina et.al.|[2512.16272](http://arxiv.org/abs/2512.16272)|null|
+|**2025-12-18**|**Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls**|Ora Nova Fandina et.al.|[2512.16272](http://arxiv.org/abs/2512.16272)|**[link](https://github.com/AlicePod1/analytic_hints_paper)**|
 |**2025-12-18**|**Learning to Wait: Synchronizing Agents with the Physical World**|Yifei She et.al.|[2512.16262](http://arxiv.org/abs/2512.16262)|null|
 |**2025-12-18**|**AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding**|Sanjoy Chowdhury et.al.|[2512.16250](http://arxiv.org/abs/2512.16250)|null|
 |**2025-12-18**|**AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints**|Aniruddha Roy et.al.|[2512.16245](http://arxiv.org/abs/2512.16245)|null|
-|**2025-12-18**|**Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**|Xueqi Ma et.al.|[2512.16244](http://arxiv.org/abs/2512.16244)|null|
+|**2025-12-18**|**Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models**|Xueqi Ma et.al.|[2512.16244](http://arxiv.org/abs/2512.16244)|**[link](https://github.com/sihuo-design/CFC)**|
 |**2025-12-18**|**Trustworthy and Controllable Professional Knowledge Utilization in Large Language Models with TEE-GPU Execution**|Yifeng Cai et.al.|[2512.16238](http://arxiv.org/abs/2512.16238)|null|
 |**2025-12-18**|**Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis**|Zhi Helu et.al.|[2512.16237](http://arxiv.org/abs/2512.16237)|null|
 |**2025-12-18**|**The Evolution of Reranking Models in Information Retrieval: From Heuristic Methods to Large Language Models**|Tejul Pandit et.al.|[2512.16236](http://arxiv.org/abs/2512.16236)|null|
@@ -1719,8 +1719,8 @@ layout: default
 |**2025-11-13**|**Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts**|Yanbing Zhou et.al.|[2511.10388](http://arxiv.org/abs/2511.10388)|null|
 |**2025-11-13**|**Simulating Misinformation Propagation in Social Networks using Large Language Models**|Raj Gaurav Maurya et.al.|[2511.10384](http://arxiv.org/abs/2511.10384)|null|
 |**2025-11-13**|**Position: On the Methodological Pitfalls of Evaluating Base LLMs for Reasoning**|Jason Chan et.al.|[2511.10381](http://arxiv.org/abs/2511.10381)|null|
-|**2025-11-13**|**MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation**|Xun Huang et.al.|[2511.10376](http://arxiv.org/abs/2511.10376)|null|
-|**2025-11-13**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375](http://arxiv.org/abs/2511.10375)|null|
+|**2025-11-13**|**MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation**|Xun Huang et.al.|[2511.10376](http://arxiv.org/abs/2511.10376)|**[link](https://github.com/ylwhxht/MSGNav)**|
+|**2025-11-13**|**TruthfulRAG: Resolving Factual-level Conflicts in Retrieval-Augmented Generation with Knowledge Graphs**|Shuyi Liu et.al.|[2511.10375](http://arxiv.org/abs/2511.10375)|**[link](https://github.com/STAIR-BUPT/TruthfulRAG)**|
 |**2025-11-13**|**SITA: A Framework for Structure-to-Instance Theorem Autoformalization**|Chenyi Li et.al.|[2511.10356](http://arxiv.org/abs/2511.10356)|null|
 |**2025-11-13**|**Knowledge Graphs Generation from Cultural Heritage Texts: Combining LLMs and Ontological Engineering for Scholarly Debates**|Andrea Schimmenti et.al.|[2511.10354](http://arxiv.org/abs/2511.10354)|null|
 |**2025-11-13**|**Ginnungagap -- a massively parallel cosmological initial conditions generator**|Sergey Pilipenko et.al.|[2511.10353](http://arxiv.org/abs/2511.10353)|null|
@@ -1731,7 +1731,7 @@ layout: default
 |**2025-11-13**|**Rectify Evaluation Preference: Improving LLMs' Critique on Math Reasoning via Perplexity-aware Reinforcement Learning**|Changyuan Tian et.al.|[2511.10303](http://arxiv.org/abs/2511.10303)|null|
 |**2025-11-13**|**Rethinking Visual Information Processing in Multimodal LLMs**|Dongwan Kim et.al.|[2511.10301](http://arxiv.org/abs/2511.10301)|null|
 |**2025-11-13**|**Behavior Modeling for Training-free Building of Private Domain Multi Agent System**|Won Ik Cho et.al.|[2511.10283](http://arxiv.org/abs/2511.10283)|null|
-|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|null|
+|**2025-11-13**|**FactGuard: Event-Centric and Commonsense-Guided Fake News Detection**|Jing He et.al.|[2511.10281](http://arxiv.org/abs/2511.10281)|**[link](https://github.com/ryliu68/FACTGUARD)**|
 |**2025-11-13**|**PROPA: Toward Process-level Optimization in Visual Reasoning via Reinforcement Learning**|Yanbei Jiang et.al.|[2511.10279](http://arxiv.org/abs/2511.10279)|null|
 |**2025-11-13**|**Fixed-Persona SLMs with Modular Memory: Scalable NPC Dialogue on Consumer Hardware**|Martin Braas et.al.|[2511.10277](http://arxiv.org/abs/2511.10277)|null|
 |**2025-11-13**|**Certified Branch-and-Bound MaxSAT Solving (Extended Version)**|Dieter Vandesande et.al.|[2511.10273](http://arxiv.org/abs/2511.10273)|null|

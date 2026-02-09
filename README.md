@@ -1,4 +1,4 @@
-## Updated on 2026.02.06
+## Updated on 2026.02.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -227,7 +227,7 @@
 |**2026-01-23**|**AI builds, We Analyze: An Empirical Study of AI-Generated Build Code Quality**|Anwar Ghammam et.al.|[2601.16839](http://arxiv.org/abs/2601.16839)|null|
 |**2026-01-23**|**Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency**|Rongjun Ma et.al.|[2601.16824](http://arxiv.org/abs/2601.16824)|null|
 |**2026-01-23**|**Trapped in the past? Disentangling fluid and crystallized intelligence of large language models using chess**|Leonard S. Pleiss et.al.|[2601.16823](http://arxiv.org/abs/2601.16823)|null|
-|**2026-01-23**|**Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source**|Musfiqur Rahman et.al.|[2601.16809](http://arxiv.org/abs/2601.16809)|null|
+|**2026-01-23**|**Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source**|Musfiqur Rahman et.al.|[2601.16809](http://arxiv.org/abs/2601.16809)|**[link](https://github.com/mrsumitbd/agentic-code-survival_replication_package)**|
 |**2026-01-23**|**Large Language Models as Automatic Annotators and Annotation Adjudicators for Fine-Grained Opinion Analysis**|Gaurav Negi et.al.|[2601.16800](http://arxiv.org/abs/2601.16800)|null|
 |**2026-01-23**|**Persuasion Tokens for Editing Factual Knowledge in LLMs**|Paul Youssef et.al.|[2601.16781](http://arxiv.org/abs/2601.16781)|null|
 |**2026-01-23**|**Investigating Retargetability Claims for Quantum Compilers**|Luke Southall et.al.|[2601.16779](http://arxiv.org/abs/2601.16779)|null|
@@ -285,7 +285,7 @@
 |**2026-01-23**|**Gen-DBA: Generative Database Agents (Towards a Move 37 for Databases)**|Yeasir Rayhan et.al.|[2601.16409](http://arxiv.org/abs/2601.16409)|null|
 |**2026-01-23**|**Jacobian Scopes: token-level causal attributions in LLMs**|Toni J. B. Liu et.al.|[2601.16407](http://arxiv.org/abs/2601.16407)|null|
 |**2026-01-23**|**Towards a Theoretical Understanding to the Generalization of RLHF**|Zhaochun Li et.al.|[2601.16403](http://arxiv.org/abs/2601.16403)|null|
-|**2026-01-23**|**White-Box Sensitivity Auditing with Steering Vectors**|Hannah Cyberey et.al.|[2601.16398](http://arxiv.org/abs/2601.16398)|null|
+|**2026-01-23**|**White-Box Sensitivity Auditing with Steering Vectors**|Hannah Cyberey et.al.|[2601.16398](http://arxiv.org/abs/2601.16398)|**[link](https://github.com/hannahxchen/llm-steering-audit)**|
 |**2026-01-23**|**Toward Agentic Software Project Management: A Vision and Roadmap**|Lakshana Iruni Assalaarachchi et.al.|[2601.16392](http://arxiv.org/abs/2601.16392)|null|
 |**2026-01-23**|**PolyAgent: Large Language Model Agent for Polymer Design**|Vani Nigam et.al.|[2601.16376](http://arxiv.org/abs/2601.16376)|null|
 |**2026-01-22**|**SE Research is a Complex Ecosystem: Isolated Fixes Keep Failing -- and Systems Thinking Shows Why**|Mary Shaw et.al.|[2601.16363](http://arxiv.org/abs/2601.16363)|null|
@@ -2193,7 +2193,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
