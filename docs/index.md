@@ -1022,12 +1022,12 @@ layout: default
 |**2025-12-29**|**Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following**|Kongcheng Zhang et.al.|[2512.23457](http://arxiv.org/abs/2512.23457)|null|
 |**2025-12-29**|**Automated river gauge plate reading using a hybrid object detection and generative AI framework in the Limpopo River Basin**|Kayathri Vigneswaran et.al.|[2512.23454](http://arxiv.org/abs/2512.23454)|null|
 |**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
-|**2025-12-29**|**ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning**|Yuqi Tang et.al.|[2512.23440](http://arxiv.org/abs/2512.23440)|null|
+|**2025-12-29**|**ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning**|Yuqi Tang et.al.|[2512.23440](http://arxiv.org/abs/2512.23440)|**[link](https://github.com/HICAI-ZJU/ClinDEF)**|
 |**2025-12-29**|**C2PO: Diagnosing and Disentangling Bias Shortcuts in LLMs**|Xuan Feng et.al.|[2512.23430](http://arxiv.org/abs/2512.23430)|null|
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
 |**2025-12-29**|**Entropy-Guided Token Dropout: Training Autoregressive Language Models with Limited Domain Data**|Jiapeng Wang et.al.|[2512.23422](http://arxiv.org/abs/2512.23422)|null|
 |**2025-12-29**|**An SLO Driven and Cost-Aware Autoscaling Framework for Kubernetes**|Vinoth Punniyamoorthy et.al.|[2512.23415](http://arxiv.org/abs/2512.23415)|null|
-|**2025-12-29**|**Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment**|Henglin Liu et.al.|[2512.23413](http://arxiv.org/abs/2512.23413)|null|
+|**2025-12-29**|**Bridging Cognitive Gap: Hierarchical Description Learning for Artistic Image Aesthetics Assessment**|Henglin Liu et.al.|[2512.23413](http://arxiv.org/abs/2512.23413)|**[link](https://github.com/Henglin-Liu/ArtQuant)**|
 |**2025-12-29**|**Theoretical Foundations of Scaling Law in Familial Models**|Huan Song et.al.|[2512.23407](http://arxiv.org/abs/2512.23407)|null|
 |**2025-12-29**|**Securing the AI Supply Chain: What Can We Learn From Developer-Reported Security Issues and Solutions of AI Projects?**|The Anh Nguyen et.al.|[2512.23385](http://arxiv.org/abs/2512.23385)|null|
 |**2025-12-29**|**Post-Training Quantization of OpenPangu Models for Efficient Deployment on Atlas A2**|Yilun Luo et.al.|[2512.23367](http://arxiv.org/abs/2512.23367)|null|

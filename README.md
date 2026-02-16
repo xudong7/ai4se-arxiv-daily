@@ -635,13 +635,13 @@
 |**2026-01-15**|**LangLasso: Interactive Cluster Descriptions through LLM Explanation**|Raphael Buchmüller et.al.|[2601.10458](http://arxiv.org/abs/2601.10458)|null|
 |**2026-01-15**|**NSR-Boost: A Neuro-Symbolic Residual Boosting Framework for Industrial Legacy Models**|Ziming Dai et.al.|[2601.10457](http://arxiv.org/abs/2601.10457)|null|
 |**2026-01-15**|**SurgGoal: Rethinking Surgical Planning Evaluation via Goal-Satisfiability**|Ruochen Li et.al.|[2601.10455](http://arxiv.org/abs/2601.10455)|null|
-|**2026-01-15**|**Development of Ontological Knowledge Bases by Leveraging Large Language Models**|Le Ngoc Luyen et.al.|[2601.10436](http://arxiv.org/abs/2601.10436)|null|
-|**2026-01-15**|**Are Language Models Models?**|Philip Resnik et.al.|[2601.10421](http://arxiv.org/abs/2601.10421)|null|
+|**2026-01-15**|**Development of Ontological Knowledge Bases by Leveraging Large Language Models**|Le Ngoc Luyen et.al.|[2601.10436](http://arxiv.org/abs/2601.10436)|**[link](https://github.com/jettbrains/-L-)**|
+|**2026-01-15**|**Are Language Models Models?**|Philip Resnik et.al.|[2601.10421](http://arxiv.org/abs/2601.10421)|**[link](https://github.com/openai/gpt-2)**|
 |**2026-01-15**|**LLMdoctor: Token-Level Flow-Guided Preference Optimization for Efficient Test-Time Alignment of Large Language Models**|Tiesunlong Shen et.al.|[2601.10416](http://arxiv.org/abs/2601.10416)|null|
 |**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|null|
 |**2026-01-15**|**TF3-RO-50M: Training Compact Romanian Language Models from Scratch on Synthetic Moral Microfiction**|Mihai Dan Nadas et.al.|[2601.10410](http://arxiv.org/abs/2601.10410)|null|
 |**2026-01-15**|**ErrEval: Error-Aware Evaluation for Question Generation through Explicit Diagnostics**|Weiping Fu et.al.|[2601.10406](http://arxiv.org/abs/2601.10406)|null|
-|**2026-01-15**|**Discrete Feynman-Kac Correctors**|Mohsin Hasan et.al.|[2601.10403](http://arxiv.org/abs/2601.10403)|null|
+|**2026-01-15**|**Discrete Feynman-Kac Correctors**|Mohsin Hasan et.al.|[2601.10403](http://arxiv.org/abs/2601.10403)|**[link](https://github.com/hasanmohsin/discrete_fkc)**|
 |**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu et.al.|[2601.10402](http://arxiv.org/abs/2601.10402)|null|
 |**2026-01-15**|**LatentRefusal: Latent-Signal Refusal for Unanswerable Text-to-SQL Queries**|Xuancheng Ren et.al.|[2601.10398](http://arxiv.org/abs/2601.10398)|null|
 |**2026-01-15**|**INDIC DIALECT: A Multi Task Benchmark to Evaluate and Translate in Indian Language Dialects**|Tarun Sharma et.al.|[2601.10388](http://arxiv.org/abs/2601.10388)|null|
@@ -1782,7 +1782,7 @@
 |**2025-11-24**|**OceanForecastBench: A Benchmark Dataset for Data-Driven Global Ocean Forecasting**|Haoming Jia et.al.|[2511.18732](http://arxiv.org/abs/2511.18732)|null|
 |**2025-11-24**|**GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving**|Lin Liu et.al.|[2511.18729](http://arxiv.org/abs/2511.18729)|null|
 |**2025-11-24**|**LogSyn: A Few-Shot LLM Framework for Structured Insight Extraction from Unstructured General Aviation Maintenance Logs**|Devansh Agarwal et.al.|[2511.18727](http://arxiv.org/abs/2511.18727)|null|
-|**2025-11-24**|**Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM**|Adarsh Kumarappan et.al.|[2511.18721](http://arxiv.org/abs/2511.18721)|null|
+|**2025-11-24**|**Towards Realistic Guarantees: A Probabilistic Certificate for SmoothLLM**|Adarsh Kumarappan et.al.|[2511.18721](http://arxiv.org/abs/2511.18721)|**[link](https://github.com/ayushimehrotra/smoothllm_workshop)**|
 |**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
 |**2025-11-24**|**HuggingR $^{4}$ : A Progressive Reasoning Framework for Discovering Optimal Model Companions**|Shaoyin Ma et.al.|[2511.18715](http://arxiv.org/abs/2511.18715)|null|
 |**2025-11-24**|**MAGMA-Edu: Multi-Agent Generative Multimodal Framework for Text-Diagram Educational Question Generation**|Zhenyu Wu et.al.|[2511.18714](http://arxiv.org/abs/2511.18714)|null|
