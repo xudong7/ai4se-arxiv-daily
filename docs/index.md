@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -638,12 +638,12 @@ layout: default
 |**2026-01-15**|**LADFA: A Framework of Using Large Language Models and Retrieval-Augmented Generation for Personal Data Flow Analysis in Privacy Policies**|Haiyue Yuan et.al.|[2601.10413](http://arxiv.org/abs/2601.10413)|null|
 |**2026-01-15**|**TF3-RO-50M: Training Compact Romanian Language Models from Scratch on Synthetic Moral Microfiction**|Mihai Dan Nadas et.al.|[2601.10410](http://arxiv.org/abs/2601.10410)|null|
 |**2026-01-15**|**ErrEval: Error-Aware Evaluation for Question Generation through Explicit Diagnostics**|Weiping Fu et.al.|[2601.10406](http://arxiv.org/abs/2601.10406)|null|
-|**2026-01-15**|**Discrete Feynman-Kac Correctors**|Mohsin Hasan et.al.|[2601.10403](http://arxiv.org/abs/2601.10403)|null|
+|**2026-01-15**|**Discrete Feynman-Kac Correctors**|Mohsin Hasan et.al.|[2601.10403](http://arxiv.org/abs/2601.10403)|**[link](https://github.com/hasanmohsin/discrete_fkc)**|
 |**2026-01-15**|**Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering**|Xinyu Zhu et.al.|[2601.10402](http://arxiv.org/abs/2601.10402)|null|
 |**2026-01-15**|**LatentRefusal: Latent-Signal Refusal for Unanswerable Text-to-SQL Queries**|Xuancheng Ren et.al.|[2601.10398](http://arxiv.org/abs/2601.10398)|null|
 |**2026-01-15**|**INDIC DIALECT: A Multi Task Benchmark to Evaluate and Translate in Indian Language Dialects**|Tarun Sharma et.al.|[2601.10388](http://arxiv.org/abs/2601.10388)|null|
 |**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
-|**2026-01-15**|**Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**|Zhihao Xu et.al.|[2601.10355](http://arxiv.org/abs/2601.10355)|null|
+|**2026-01-15**|**Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**|Zhihao Xu et.al.|[2601.10355](http://arxiv.org/abs/2601.10355)|**[link](https://github.com/zhangdw156/synthesis_from_text)**|
 |**2026-01-15**|**OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding**|Deming Ding et.al.|[2601.10343](http://arxiv.org/abs/2601.10343)|null|
 |**2026-01-15**|**C-GRASP: Clinically-Grounded Reasoning for Affective Signal Processing**|Cheng Lin Cheng et.al.|[2601.10342](http://arxiv.org/abs/2601.10342)|null|
 |**2026-01-15**|**Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale**|Yi Liu et.al.|[2601.10338](http://arxiv.org/abs/2601.10338)|null|
@@ -1143,13 +1143,13 @@ layout: default
 |**2025-12-24**|**The Silent Scholar Problem: A Probabilistic Framework for Breaking Epistemic Asymmetry in LLM Agents**|Zan-Kai Chong et.al.|[2512.20884](http://arxiv.org/abs/2512.20884)|null|
 |**2025-12-24**|**ALIVE: An Avatar-Lecture Interactive Video Engine with Content-Aware Retrieval for Real-Time Interaction**|Md Zabirul Islam et.al.|[2512.20858](http://arxiv.org/abs/2512.20858)|null|
 |**2025-12-24**|**How important is Recall for Measuring Retrieval Quality?**|Shelly Schwartz et.al.|[2512.20854](http://arxiv.org/abs/2512.20854)|null|
-|**2025-12-23**|**MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs**|Onat Ozer et.al.|[2512.20845](http://arxiv.org/abs/2512.20845)|null|
+|**2025-12-23**|**MAR:Multi-Agent Reflexion Improves Reasoning Abilities in LLMs**|Onat Ozer et.al.|[2512.20845](http://arxiv.org/abs/2512.20845)|**[link](https://github.com/onatozer/MAR-website)**|
 |**2025-12-23**|**NotSoTiny: A Large, Living Benchmark for RTL Code Generation**|Razine Moundir Ghorab et.al.|[2512.20823](http://arxiv.org/abs/2512.20823)|null|
 |**2025-12-23**|**MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs**|Zhan Qu et.al.|[2512.20822](http://arxiv.org/abs/2512.20822)|null|
 |**2025-12-23**|**Semantic Deception: When Reasoning Models Can't Compute an Addition**|Nathaniël de Leeuw et.al.|[2512.20812](http://arxiv.org/abs/2512.20812)|null|
 |**2025-12-23**|**Investigating Model Editing for Unlearning in Large Language Models**|Shariqah Hossain et.al.|[2512.20794](http://arxiv.org/abs/2512.20794)|null|
 |**2025-12-23**|**X-GridAgent: An LLM-Powered Agentic AI System for Assisting Power Grid Analysis**|Yihan et.al.|[2512.20789](http://arxiv.org/abs/2512.20789)|null|
-|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781](http://arxiv.org/abs/2512.20781)|**[link](https://github.com/jjungyujin/SoFT)**|
 |**2025-12-23**|**Generalization of RLVR Using Causal Reasoning as a Testbed**|Brian Lu et.al.|[2512.20760](http://arxiv.org/abs/2512.20760)|null|
 |**2025-12-23**|**AgentMath: Empowering Mathematical Reasoning for Large Language Models via Tool-Augmented Agent**|Haipeng Luo et.al.|[2512.20745](http://arxiv.org/abs/2512.20745)|null|
 |**2025-12-23**|**FEM-Bench: A Structured Scientific Reasoning Benchmark for Evaluating Code-Generating LLMs**|Saeed Mohammadzadeh et.al.|[2512.20732](http://arxiv.org/abs/2512.20732)|null|
@@ -1831,8 +1831,8 @@ layout: default
 |**2025-11-19**|**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**|Liangyu Chen et.al.|[2511.15266](http://arxiv.org/abs/2511.15266)|null|
 |**2025-11-19**|**M, Toolchain and Language for Reusable Model Compilation**|Hiep Hong Trinh et.al.|[2511.15257](http://arxiv.org/abs/2511.15257)|null|
 |**2025-11-19**|**GRPO-RM: Fine-Tuning Representation Models via GRPO-Driven Reinforcement Learning**|Yanchen Xu et.al.|[2511.15256](http://arxiv.org/abs/2511.15256)|null|
-|**2025-11-19**|**EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control**|Kai Yang et.al.|[2511.15248](http://arxiv.org/abs/2511.15248)|null|
-|**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|null|
+|**2025-11-19**|**EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control**|Kai Yang et.al.|[2511.15248](http://arxiv.org/abs/2511.15248)|**[link](https://github.com/yk7333/EntroPIC)**|
+|**2025-11-19**|**Context Cascade Compression: Exploring the Upper Limits of Text Compression**|Fanfan Liu et.al.|[2511.15244](http://arxiv.org/abs/2511.15244)|**[link](https://github.com/liufanfanlff/C3-Context-Cascade-Compression)**|
 |**2025-11-19**|**Symmetry-Breaking in Multi-Agent Navigation: Winding Number-Aware MPC with a Learned Topological Strategy**|Tomoki Nakao et.al.|[2511.15239](http://arxiv.org/abs/2511.15239)|null|
 |**2025-11-19**|**From Code Smells to Best Practices: Tackling Resource Leaks in PyTorch, TensorFlow, and Keras**|Bashar Abdallah et.al.|[2511.15229](http://arxiv.org/abs/2511.15229)|null|
 |**2025-11-19**|**Modelling and Model-Checking a ROS2 Multi-Robot System using Timed Rebeca**|Hiep Hong Trinh et.al.|[2511.15227](http://arxiv.org/abs/2511.15227)|null|
