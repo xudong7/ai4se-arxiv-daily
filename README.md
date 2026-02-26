@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,106 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**Detecting UX smells in Visual Studio Code using LLMs**|Andrés Rodriguez et.al.|[2602.22020](http://arxiv.org/abs/2602.22020)|null|
+|**2026-02-25**|**IOAgent: Democratizing Trustworthy HPC I/O Performance Diagnosis Capability via LLMs**|Chris Egersdoerfer et.al.|[2602.22017](http://arxiv.org/abs/2602.22017)|null|
+|**2026-02-25**|**Are Foundation Models the Route to Full-Stack Transfer in Robotics?**|Freek Stulp et.al.|[2602.22001](http://arxiv.org/abs/2602.22001)|null|
+|**2026-02-25**|**Enhancing LLM-Based Test Generation by Eliminating Covered Code**|WeiZhe Xu et.al.|[2602.21997](http://arxiv.org/abs/2602.21997)|null|
+|**2026-02-25**|**CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models**|Miyu Oba et.al.|[2602.21978](http://arxiv.org/abs/2602.21978)|null|
+|**2026-02-25**|**RADAR: Reasoning as Discrimination with Aligned Representations for LLM-based Knowledge Graph Reasoning**|Bo Xue et.al.|[2602.21951](http://arxiv.org/abs/2602.21951)|null|
+|**2026-02-25**|**Large Language Models are Algorithmically Blind**|Sohan Venkatesh et.al.|[2602.21947](http://arxiv.org/abs/2602.21947)|null|
+|**2026-02-25**|**Hidden Topics: Measuring Sensitive AI Beliefs with List Experiments**|Maxim Chupilkin et.al.|[2602.21939](http://arxiv.org/abs/2602.21939)|null|
+|**2026-02-25**|**Small Wins Big: Comparing Large Language Models and Domain Fine-Tuned Models for Sarcasm Detection in Code-Mixed Hinglish Text**|Bitan Majumder et.al.|[2602.21933](http://arxiv.org/abs/2602.21933)|null|
+|**2026-02-25**|**EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs**|Wenjie Tian et.al.|[2602.21900](http://arxiv.org/abs/2602.21900)|null|
+|**2026-02-25**|**ExpLang: Improved Exploration and Exploitation in LLM Reasoning with On-Policy Thinking Language Selection**|Changjiang Gao et.al.|[2602.21887](http://arxiv.org/abs/2602.21887)|null|
+|**2026-02-25**|**Personalized Graph-Empowered Large Language Model for Proactive Information Access**|Chia Cheng Chang et.al.|[2602.21862](http://arxiv.org/abs/2602.21862)|null|
+|**2026-02-25**|**FewMMBench: A Benchmark for Multimodal Few-Shot Learning**|Mustafa Dogan et.al.|[2602.21854](http://arxiv.org/abs/2602.21854)|null|
+|**2026-02-25**|**From Restructuring to Stabilization: A Large-Scale Experiment on Iterative Code Readability Refactoring with Large Language Models**|Norman Peitek et.al.|[2602.21833](http://arxiv.org/abs/2602.21833)|null|
+|**2026-02-25**|**An Empirical Study of Bugs in Modern LLM Agent Frameworks**|Xinxue Zhu et.al.|[2602.21806](http://arxiv.org/abs/2602.21806)|null|
+|**2026-02-25**|**An Evaluation of Context Length Extrapolation in Long Code via Positional Embeddings and Efficient Attention**|Madhusudan Ghosh et.al.|[2602.21800](http://arxiv.org/abs/2602.21800)|null|
+|**2026-02-25**|**D-COT: Disciplined Chain-of-Thought Learning for Efficient Reasoning in Small Language Models**|Shunsuke Ubukata et.al.|[2602.21786](http://arxiv.org/abs/2602.21786)|null|
+|**2026-02-25**|**Improving Implicit Discourse Relation Recognition with Natural Language Explanations from LLMs**|Heng Wang et.al.|[2602.21763](http://arxiv.org/abs/2602.21763)|null|
+|**2026-02-25**|**Offline Reasoning for Efficient Recommendation: LLM-Empowered Persona-Profiled Item Indexing**|Deogyong Kim et.al.|[2602.21756](http://arxiv.org/abs/2602.21756)|null|
+|**2026-02-25**|**From Words to Amino Acids: Does the Curse of Depth Persist?**|Aleena Siji et.al.|[2602.21750](http://arxiv.org/abs/2602.21750)|null|
+|**2026-02-25**|**Enhancing Multi-Modal LLMs Reasoning via Difficulty-Aware Group Normalization**|Jinghan Li et.al.|[2602.21743](http://arxiv.org/abs/2602.21743)|null|
+|**2026-02-25**|**Proto-ML: An IDE for ML Solution Prototyping**|Selin Coban et.al.|[2602.21734](http://arxiv.org/abs/2602.21734)|null|
+|**2026-02-25**|**Explore-on-Graph: Incentivizing Autonomous Exploration of Large Language Models on Knowledge Graphs with Path-refined Reward Modeling**|Shiqi Yan et.al.|[2602.21728](http://arxiv.org/abs/2602.21728)|null|
+|**2026-02-25**|**Two-Stage Active Distribution Network Voltage Control via LLM-RL Collaboration: A Hybrid Knowledge-Data-Driven Approach**|Xu Yang et.al.|[2602.21715](http://arxiv.org/abs/2602.21715)|null|
+|**2026-02-25**|**EditFlow: Benchmarking and Optimizing Code Edit Recommendation Systems via Reconstruction of Developer Flows**|Chenyan Liu et.al.|[2602.21697](http://arxiv.org/abs/2602.21697)|null|
+|**2026-02-25**|**TiMi: Empower Time Series Transformers with Multimodal Mixture of Experts**|Jiafeng Lin et.al.|[2602.21693](http://arxiv.org/abs/2602.21693)|null|
+|**2026-02-25**|**"Without AI, I Would Never Share This Online": Unpacking How LLMs Catalyze Women's Sharing of Gendered Experiences on Social Media**|Runhua Zhang et.al.|[2602.21686](http://arxiv.org/abs/2602.21686)|null|
+|**2026-02-25**|**AkiraRust: Re-thinking LLM-aided Rust Repair Using a Feedback-guided Thinking Switch**|Renshuang Jiang et.al.|[2602.21681](http://arxiv.org/abs/2602.21681)|null|
+|**2026-02-25**|**Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning**|Tomoya Kawabe et.al.|[2602.21670](http://arxiv.org/abs/2602.21670)|null|
+|**2026-02-25**|**DWA-KD: Dual-Space Weighting and Time-Warped Alignment for Cross-Tokenizer Knowledge Distillation**|Duc Trung Vu et.al.|[2602.21669](http://arxiv.org/abs/2602.21669)|null|
+|**2026-02-25**|**Irresponsible Counselors: Large Language Models and the Loneliness of Modern Humans**|Abas Bertina et.al.|[2602.21653](http://arxiv.org/abs/2602.21653)|null|
+|**2026-02-25**|**PPCR-IM: A System for Multi-layer DAG-based Public Policy Consequence Reasoning and Social Indicator Mapping**|Zichen Song et.al.|[2602.21650](http://arxiv.org/abs/2602.21650)|null|
+|**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
+|**2026-02-25**|**Uncertainty Modeling for SysML v2**|Man Zhang et.al.|[2602.21641](http://arxiv.org/abs/2602.21641)|null|
+|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|null|
+|**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
+|**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
+|**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
+|**2026-02-25**|**Towards Autonomous Graph Data Analytics with Analytics-Augmented Generation**|Qiange Wang et.al.|[2602.21604](http://arxiv.org/abs/2602.21604)|null|
+|**2026-02-25**|**SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints**|Hyungmin Kim et.al.|[2602.21595](http://arxiv.org/abs/2602.21595)|null|
+|**2026-02-25**|**Breaking Semantic-Aware Watermarks via LLM-Guided Coherence-Preserving Semantic Injection**|Zheng Gao et.al.|[2602.21593](http://arxiv.org/abs/2602.21593)|null|
+|**2026-02-25**|**Duel-Evolve: Reward-Free Test-Time Scaling via LLM Self-Preferences**|Sweta Karlekar et.al.|[2602.21585](http://arxiv.org/abs/2602.21585)|null|
+|**2026-02-25**|**From Ad-Hoc Scripts to Orchestrated Pipelines: Architecting a Resilient ELT Framework for Developer Productivity Metrics**|Yuvraj Agrawal et.al.|[2602.21568](http://arxiv.org/abs/2602.21568)|null|
+|**2026-02-25**|**Power and Limitations of Aggregation in Compound AI Systems**|Nivasini Ananthakrishnan et.al.|[2602.21556](http://arxiv.org/abs/2602.21556)|null|
+|**2026-02-25**|**DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference**|Yongtong Wu et.al.|[2602.21548](http://arxiv.org/abs/2602.21548)|null|
+|**2026-02-25**|**RAC: Relation-Aware Cache Replacement for Large Language Models**|Yuchong Wu et.al.|[2602.21547](http://arxiv.org/abs/2602.21547)|null|
+|**2026-02-25**|**ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning**|Xiaoxuan Wang et.al.|[2602.21534](http://arxiv.org/abs/2602.21534)|null|
+|**2026-02-25**|**Reasoning-Driven Design of Single Atom Catalysts via a Multi-Agent Large Language Model Framework**|Dong Hyeon Mok et.al.|[2602.21533](http://arxiv.org/abs/2602.21533)|null|
+|**2026-02-25**|**One Brain, Omni Modalities: Towards Unified Non-Invasive Brain Decoding with Large Language Models**|Changli Tang et.al.|[2602.21522](http://arxiv.org/abs/2602.21522)|null|
+|**2026-02-25**|**Training Generalizable Collaborative Agents via Strategic Risk Aversion**|Chengrui Qu et.al.|[2602.21515](http://arxiv.org/abs/2602.21515)|null|
+|**2026-02-25**|**Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information**|Umid Suleymanov et.al.|[2602.21496](http://arxiv.org/abs/2602.21496)|null|
+|**2026-02-25**|**GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning**|Ningyuan Yang et.al.|[2602.21492](http://arxiv.org/abs/2602.21492)|null|
+|**2026-02-25**|**Evaluating the Usage of African-American Vernacular English in Large Language Models**|Deja Dunlap et.al.|[2602.21485](http://arxiv.org/abs/2602.21485)|null|
+|**2026-02-25**|**Both Ends Count! Just How Good are LLM Agents at "Text-to-Big SQL"?**|Germán T. Eizaguirre et.al.|[2602.21480](http://arxiv.org/abs/2602.21480)|null|
+|**2026-02-25**|**Pancake: Hierarchical Memory System for Multi-Agent LLM Serving**|Zhengding Hu et.al.|[2602.21477](http://arxiv.org/abs/2602.21477)|null|
+|**2026-02-25**|**VecGlypher: Unified Vector Glyph Generation with Language Models**|Xiaoke Huang et.al.|[2602.21461](http://arxiv.org/abs/2602.21461)|null|
+|**2026-02-25**|**Revisiting Text Ranking in Deep Research**|Chuan Meng et.al.|[2602.21456](http://arxiv.org/abs/2602.21456)|null|
+|**2026-02-24**|**Adversarial Intent is a Latent Variable: Stateful Trust Inference for Securing Multimodal Agentic RAG**|Inderjeet Singh et.al.|[2602.21447](http://arxiv.org/abs/2602.21447)|null|
+|**2026-02-24**|**MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning**|Jesse He et.al.|[2602.21442](http://arxiv.org/abs/2602.21442)|null|
+|**2026-02-24**|**Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning**|Yuanda Xu et.al.|[2602.21420](http://arxiv.org/abs/2602.21420)|null|
+|**2026-02-24**|**MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection**|Xuan Chen et.al.|[2602.21394](http://arxiv.org/abs/2602.21394)|null|
+|**2026-02-24**|**Interleaved Head Attention**|Sai Surya Duvvuri et.al.|[2602.21371](http://arxiv.org/abs/2602.21371)|null|
+|**2026-02-24**|**A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives**|Dmitrii Pantiukhin et.al.|[2602.21351](http://arxiv.org/abs/2602.21351)|null|
+|**2026-02-24**|**Alignment-Weighted DPO: A principled reasoning approach to improve safety alignment**|Mengxuan Hu et.al.|[2602.21346](http://arxiv.org/abs/2602.21346)|null|
+|**2026-02-24**|**Equitable Evaluation via Elicitation**|Elbert Du et.al.|[2602.21327](http://arxiv.org/abs/2602.21327)|null|
+|**2026-02-24**|**Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data**|Emre Can Acikgoz et.al.|[2602.21320](http://arxiv.org/abs/2602.21320)|null|
+|**2026-02-24**|**Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling**|Guancheng Tu et.al.|[2602.21317](http://arxiv.org/abs/2602.21317)|null|
+|**2026-02-24**|**SymTorch: A Framework for Symbolic Distillation of Deep Neural Networks**|Elizabeth S. Z. Tan et.al.|[2602.21307](http://arxiv.org/abs/2602.21307)|null|
+|**2026-02-24**|**Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs**|Yining Hong et.al.|[2602.21198](http://arxiv.org/abs/2602.21198)|null|
+|**2026-02-24**|**On Data Engineering for Scaling LLM Terminal Capabilities**|Renjie Pi et.al.|[2602.21193](http://arxiv.org/abs/2602.21193)|null|
+|**2026-02-24**|**Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training**|Anas Barakat et.al.|[2602.21189](http://arxiv.org/abs/2602.21189)|null|
+|**2026-02-24**|**XMorph: Explainable Brain Tumor Analysis Via LLM-Assisted Hybrid Deep Intelligence**|Sepehr Salem Ghahfarokhi et.al.|[2602.21178](http://arxiv.org/abs/2602.21178)|null|
+|**2026-02-24**|**NoRD: A Data-Efficient Vision-Language-Action Model that Drives without Reasoning**|Ishaan Rawal et.al.|[2602.21172](http://arxiv.org/abs/2602.21172)|null|
+|**2026-02-24**|**ActionReasoning: Robot Action Reasoning in 3D Space with LLM for Robotic Brick Stacking**|Guangming Wang et.al.|[2602.21161](http://arxiv.org/abs/2602.21161)|null|
+|**2026-02-25**|**SELAUR: Self Evolving LLM Agent via Uncertainty-aware Rewards**|Dengjia Zhang et.al.|[2602.21158](http://arxiv.org/abs/2602.21158)|null|
+|**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[2602.21144](http://arxiv.org/abs/2602.21144)|null|
+|**2026-02-24**|**A Benchmark for Deep Information Synthesis**|Debjit Paul et.al.|[2602.21143](http://arxiv.org/abs/2602.21143)|**[link](https://github.com/agentdeepsynthesis/deepsynth-bench)**|
+|**2026-02-24**|**ReviveMoE: Fast Recovery for Hardware Failures in Large-Scale MoE LLM Inference Deployments**|Haley Li et.al.|[2602.21140](http://arxiv.org/abs/2602.21140)|null|
+|**2026-02-24**|**SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery**|David Anugraha et.al.|[2602.21136](http://arxiv.org/abs/2602.21136)|null|
+|**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
+|**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
+|**2026-02-24**|**Can Interest-Bearing Positions Solve the Long-Horizon Problem in Prediction Markets?**|Caleb Maresca et.al.|[2602.21091](http://arxiv.org/abs/2602.21091)|null|
+|**2026-02-24**|**Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification**|Vishal Patil et.al.|[2602.21082](http://arxiv.org/abs/2602.21082)|null|
+|**2026-02-24**|**Validation of an analyzability model for quantum software: a family of experiments**|Ana Díaz-Muñoz et.al.|[2602.21074](http://arxiv.org/abs/2602.21074)|null|
+|**2026-02-24**|**Tool Building as a Path to "Superintelligence"**|David Koplow et.al.|[2602.21061](http://arxiv.org/abs/2602.21061)|null|
+|**2026-02-24**|**An Expert Schema for Evaluating Large Language Model Errors in Scholarly Question-Answering Systems**|Anna Martin-Boyle et.al.|[2602.21059](http://arxiv.org/abs/2602.21059)|null|
+|**2026-02-24**|**VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation**|Seongheon Park et.al.|[2602.21054](http://arxiv.org/abs/2602.21054)|null|
+|**2026-02-24**|**PaperTrail: A Claim-Evidence Interface for Grounding Provenance in LLM-based Scholarly Q&A**|Anna Martin-Boyle et.al.|[2602.21045](http://arxiv.org/abs/2602.21045)|null|
+|**2026-02-24**|**LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification**|Yanrui Wu et.al.|[2602.21044](http://arxiv.org/abs/2602.21044)|null|
+|**2026-02-24**|**Automated Detection and Mitigation of Dependability Failures in Healthcare Scenarios through Digital Twins**|Bruno Guindani et.al.|[2602.21037](http://arxiv.org/abs/2602.21037)|null|
+|**2026-02-24**|**MIP Candy: A Modular PyTorch Framework for Medical Image Processing**|Tianhao Fu et.al.|[2602.21033](http://arxiv.org/abs/2602.21033)|null|
+|**2026-02-24**|**A Modular Multi-Document Framework for Scientific Visualization and Simulation in Java**|David Heddle et.al.|[2602.21026](http://arxiv.org/abs/2602.21026)|null|
+|**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
+|**2026-02-24**|**Toward an Agentic Infused Software Ecosystem**|Mark Marron et.al.|[2602.20979](http://arxiv.org/abs/2602.20979)|null|
+|**2026-02-24**|**Evaluating Proactive Risk Awareness of Large Language Models**|Xuan Luo et.al.|[2602.20976](http://arxiv.org/abs/2602.20976)|null|
+|**2026-02-24**|**Linear Reasoning vs. Proof by Cases: Obstacles for Large Language Models in FOL Problem Solving**|Yuliang Ji et.al.|[2602.20973](http://arxiv.org/abs/2602.20973)|null|
+|**2026-02-24**|**Blackbird Language Matrices: A Framework to Investigate the Linguistic Competence of Language Models**|Paola Merlo et.al.|[2602.20966](http://arxiv.org/abs/2602.20966)|null|
+|**2026-02-25**|**The Art of Efficient Reasoning: Data, Reward, and Optimization**|Taiqiang Wu et.al.|[2602.20945](http://arxiv.org/abs/2602.20945)|null|
+|**2026-02-24**|**Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence**|ChengYou Li et.al.|[2602.20934](http://arxiv.org/abs/2602.20934)|null|
+|**2026-02-24**|**HELP: HyperNode Expansion and Logical Path-Guided Evidence Localization for Accurate and Efficient GraphRAG**|Yuqi Huang et.al.|[2602.20926](http://arxiv.org/abs/2602.20926)|null|
 |**2026-02-13**|**Semantic Chunking and the Entropy of Natural Language**|Weishun Zhong et.al.|[2602.13194](http://arxiv.org/abs/2602.13194)|null|
 |**2026-02-13**|**Source Code Hotspots: A Diagnostic Method for Quality Issues**|Saleha Muzammil et.al.|[2602.13170](http://arxiv.org/abs/2602.13170)|null|
 |**2026-02-13**|**Asynchronous Verified Semantic Caching for Tiered LLM Architectures**|Asmit Kumar Singh et.al.|[2602.13165](http://arxiv.org/abs/2602.13165)|null|
@@ -2393,7 +2493,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
