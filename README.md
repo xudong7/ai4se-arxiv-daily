@@ -1,4 +1,4 @@
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -44,15 +44,15 @@
 |**2026-02-26**|**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer**|Kunpeng Zhang et.al.|[2602.23065](http://arxiv.org/abs/2602.23065)|null|
 |**2026-02-26**|**Toward Automatic Filling of Case Report Forms: A Case Study on Data from an Italian Emergency Department**|Gabriela Anna Kaczmarek et.al.|[2602.23062](http://arxiv.org/abs/2602.23062)|null|
 |**2026-02-26**|**MoDora: Tree-Based Semi-Structured Document Analysis System**|Bangrui Xu et.al.|[2602.23061](http://arxiv.org/abs/2602.23061)|null|
-|**2026-02-26**|**CL4SE: A Context Learning Benchmark For Software Engineering Tasks**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|null|
-|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|null|
+|**2026-02-26**|**CL4SE: A Context Learning Benchmark For Software Engineering Tasks**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|**[link](https://github.com/Tomsawyerhu/CodeCL)**|
+|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|**[link](https://github.com/casys-kaist/LLMServingSim)**|
 |**2026-02-26**|**Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization**|Zeyuan Liu et.al.|[2602.23008](http://arxiv.org/abs/2602.23008)|null|
 |**2026-02-26**|**Managing Uncertainty in LLM-based Multi-Agent System Operation**|Man Zhang et.al.|[2602.23005](http://arxiv.org/abs/2602.23005)|null|
 |**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)|null|
 |**2026-02-26**|**SPM-Bench: Benchmarking Large Language Models for Scanning Probe Microscopy**|Peiyao Xiao et.al.|[2602.22971](http://arxiv.org/abs/2602.22971)|null|
 |**2026-02-26**|**ClawMobile: Rethinking Smartphone-Native Agentic Systems**|Hongchao Du et.al.|[2602.22942](http://arxiv.org/abs/2602.22942)|null|
-|**2026-02-26**|**OmniGAIA: Towards Native Omni-Modal AI Agents**|Xiaoxi Li et.al.|[2602.22897](http://arxiv.org/abs/2602.22897)|null|
-|**2026-02-26**|**Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space**|Xingcheng Fu et.al.|[2602.22879](http://arxiv.org/abs/2602.22879)|null|
+|**2026-02-26**|**OmniGAIA: Towards Native Omni-Modal AI Agents**|Xiaoxi Li et.al.|[2602.22897](http://arxiv.org/abs/2602.22897)|**[link](https://github.com/RUC-NLPIR/OmniGAIA)**|
+|**2026-02-26**|**Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space**|Xingcheng Fu et.al.|[2602.22879](http://arxiv.org/abs/2602.22879)|**[link](https://github.com/SPalmWang/L-HAKT)**|
 |**2026-02-26**|**Effective QA-driven Annotation of Predicate-Argument Relations Across Languages**|Jonathan Davidov et.al.|[2602.22865](http://arxiv.org/abs/2602.22865)|null|
 |**2026-02-26**|**Improving Neural Argumentative Stance Classification in Controversial Topics with Emotion-Lexicon Features**|Mohammad Yeghaneh Abkenar et.al.|[2602.22846](http://arxiv.org/abs/2602.22846)|null|
 |**2026-02-26**|**Productivity and Collaboration in Hybrid Agile Teams: An Interview Study**|Elisabeth Mo et.al.|[2602.22835](http://arxiv.org/abs/2602.22835)|null|
@@ -2213,7 +2213,7 @@
 |**2025-10-30**|**SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding**|Yiqiao Jin et.al.|[2510.26615](http://arxiv.org/abs/2510.26615)|**[link](https://github.com/SlideAgent/SlideAgent.github.io)**|
 |**2025-10-30**|**Normative Reasoning in Large Language Models: A Comparative Benchmark from Logical and Modal Perspectives**|Kentaro Ozeki et.al.|[2510.26606](http://arxiv.org/abs/2510.26606)|null|
 |**2025-10-30**|**Agentic AI Home Energy Management System: A Large Language Model Framework for Residential Load Scheduling**|Reda El Makroum et.al.|[2510.26603](http://arxiv.org/abs/2510.26603)|**[link](https://github.com/RedaElMakroum/agentic-ai-hems)**|
-|**2025-10-30**|**Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems**|Fulin Lin et.al.|[2510.26585](http://arxiv.org/abs/2510.26585)|null|
+|**2025-10-30**|**Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems**|Fulin Lin et.al.|[2510.26585](http://arxiv.org/abs/2510.26585)|**[link](https://github.com/LINs-lab/SupervisorAgent)**|
 |**2025-10-30**|**CATCH: A Modular Cross-domain Adaptive Template with Hook**|Xinjin Li et.al.|[2510.26582](http://arxiv.org/abs/2510.26582)|null|
 |**2025-10-30**|**Online and Interactive Bayesian Inference Debugging**|Nathanael Nussbaumer et.al.|[2510.26579](http://arxiv.org/abs/2510.26579)|null|
 |**2025-10-30**|**Inference-Cost-Aware Dynamic Tree Construction for Efficient Inference in Large Language Models**|Yinrong Hong et.al.|[2510.26577](http://arxiv.org/abs/2510.26577)|null|
@@ -2593,7 +2593,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260302>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

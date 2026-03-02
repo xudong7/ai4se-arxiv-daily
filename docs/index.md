@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -238,15 +238,15 @@ layout: default
 |**2026-02-13**|**Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues**|Stephan Vonschallen et.al.|[2602.12924](http://arxiv.org/abs/2602.12924)|null|
 |**2026-02-13**|**When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms**|Adib Sakhawat et.al.|[2602.12921](http://arxiv.org/abs/2602.12921)|null|
 |**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|null|
-|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|null|
+|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|**[link](https://github.com/ggaikwad-29/Robust-Object-Detection-in-Adverse-Weather-Conditions-for-Autonomous-Vehicles)**|
 |**2026-02-13**|**Understanding Cultural Alignment in Multilingual LLMs via Natural Debate Statements**|Vlad-Andrei Negru et.al.|[2602.12878](http://arxiv.org/abs/2602.12878)|null|
-|**2026-02-13**|**A Microservice-Based Platform for Sustainable and Intelligent SLO Fulfilment and Service Management**|Juan Luis Herrera et.al.|[2602.12875](http://arxiv.org/abs/2602.12875)|null|
+|**2026-02-13**|**A Microservice-Based Platform for Sustainable and Intelligent SLO Fulfilment and Service Management**|Juan Luis Herrera et.al.|[2602.12875](http://arxiv.org/abs/2602.12875)|**[link](https://github.com/juan-luis-herrera/Jellyfin-Autowatcher)**|
 |**2026-02-13**|**MentalBench: A Benchmark for Evaluating Psychiatric Diagnostic Capability of Large Language Models**|Hoyun Song et.al.|[2602.12871](http://arxiv.org/abs/2602.12871)|null|
 |**2026-02-13**|**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**|Jinlong He et.al.|[2602.12834](http://arxiv.org/abs/2602.12834)|null|
 |**2026-02-13**|**TRACE: Temporal Reasoning via Agentic Context Evolution for Streaming Electronic Health Records (EHRs)**|Zhan Qu et.al.|[2602.12833](http://arxiv.org/abs/2602.12833)|null|
 |**2026-02-13**|**GRAIL: Geometry-Aware Retrieval-Augmented Inference with LLMs over Hyperbolic Representations of Patient Trajectories**|Zhan Qu et.al.|[2602.12828](http://arxiv.org/abs/2602.12828)|null|
 |**2026-02-13**|**AIWizards at MULTIPRIDE: A Hierarchical Approach to Slur Reclamation Detection**|Luca Tedeschini et.al.|[2602.12818](http://arxiv.org/abs/2602.12818)|null|
-|**2026-02-13**|**Left-right asymmetry in predicting brain activity from LLMs' representations emerges with their formal linguistic competence**|Laurent Bonnasse-Gahot et.al.|[2602.12811](http://arxiv.org/abs/2602.12811)|null|
+|**2026-02-13**|**Left-right asymmetry in predicting brain activity from LLMs' representations emerges with their formal linguistic competence**|Laurent Bonnasse-Gahot et.al.|[2602.12811](http://arxiv.org/abs/2602.12811)|**[link](https://github.com/l-bg/llm_training_brain_asym)**|
 |**2026-02-13**|**RAT-Bench: A Comprehensive Benchmark for Text Anonymization**|Nataša Krčo et.al.|[2602.12806](http://arxiv.org/abs/2602.12806)|null|
 |**2026-02-13**|**iRULER: Intelligible Rubric-Based User-Defined LLM Evaluation for Revision**|Jingwen Bai et.al.|[2602.12779](http://arxiv.org/abs/2602.12779)|null|
 |**2026-02-13**|**"Not Human, Funnier": How Machine Identity Shapes Humor Perception in Online AI Stand-up Comedy**|Xuehan Huang et.al.|[2602.12763](http://arxiv.org/abs/2602.12763)|null|
@@ -1251,7 +1251,7 @@ layout: default
 |**2025-12-29**|**The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design**|Zelin Zang et.al.|[2512.23189](http://arxiv.org/abs/2512.23189)|null|
 |**2025-12-29**|**From Model Choice to Model Belief: Establishing a New Measure for LLM-Based Research**|Hongshen Sun et.al.|[2512.23184](http://arxiv.org/abs/2512.23184)|null|
 |**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
-|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
+|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|**[link](https://github.com/dtc111111/GaussianDWM)**|
 |**2025-12-29**|**EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion**|Zhen Liang et.al.|[2512.23173](http://arxiv.org/abs/2512.23173)|null|
 |**2025-12-29**|**SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search**|Yifan Zhang et.al.|[2512.23167](http://arxiv.org/abs/2512.23167)|null|
 |**2025-12-29**|**Reservoir Computing inspired Matrix Multiplication-free Language Model**|Takumi Shiratsuchi et.al.|[2512.23145](http://arxiv.org/abs/2512.23145)|null|
@@ -2089,7 +2089,7 @@ layout: default
 |**2025-11-18**|**FreeSwim: Revisiting Sliding-Window Attention Mechanisms for Training-Free Ultra-High-Resolution Video Generation**|Yunfeng Wu et.al.|[2511.14712](http://arxiv.org/abs/2511.14712)|null|
 |**2025-11-18**|**Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice**|Aaliyah Chang et.al.|[2511.14711](http://arxiv.org/abs/2511.14711)|null|
 |**2025-11-18**|**Strategic Innovation Management in the Age of Large Language Models Market Intelligence, Adaptive R&D, and Ethical Governance**|Raha Aghaei et.al.|[2511.14709](http://arxiv.org/abs/2511.14709)|null|
-|**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|null|
+|**2025-11-18**|**Near-Lossless Model Compression Enables Longer Context Inference in DNA Large Language Models**|Rui Zhu et.al.|[2511.14694](http://arxiv.org/abs/2511.14694)|**[link](https://github.com/huthvincent/DNA-Large-Language-Models-Compression)**|
 |**2025-11-13**|**ParoQuant: Pairwise Rotation Quantization for Efficient Reasoning LLM Inference**|Yesheng Liang et.al.|[2511.10645](http://arxiv.org/abs/2511.10645)|null|
 |**2025-11-13**|**Black-Box On-Policy Distillation of Large Language Models**|Tianzhu Ye et.al.|[2511.10643](http://arxiv.org/abs/2511.10643)|null|
 |**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|null|
