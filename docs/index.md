@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.02
+## Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -2245,7 +2245,7 @@ layout: default
 |**2025-10-30**|**On the Role of Context for Discourse Relation Classification in Scientific Writing**|Stephen Wan et.al.|[2510.26354](http://arxiv.org/abs/2510.26354)|null|
 |**2025-10-30**|**Towards Explainable and Reliable AI in Finance**|Albi Isufaj et.al.|[2510.26353](http://arxiv.org/abs/2510.26353)|null|
 |**2025-10-30**|**The Geometry of Dialogue: Graphing Language Models to Reveal Synergistic Teams for Multi-Agent Collaboration**|Kotaro Furuya et.al.|[2510.26352](http://arxiv.org/abs/2510.26352)|null|
-|**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|null|
+|**2025-10-30**|**MisSynth: Improving MISSCI Logical Fallacies Classification with Synthetic Data**|Mykhailo Poliakov et.al.|[2510.26345](http://arxiv.org/abs/2510.26345)|**[link](https://github.com/mxpoliakov/MisSynth)**|
 |**2025-10-30**|**From Amateur to Master: Infusing Knowledge into LLMs via Automated Curriculum Learning**|Nishit Neema et.al.|[2510.26336](http://arxiv.org/abs/2510.26336)|null|
 |**2025-10-30**|**Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections**|David Schmotz et.al.|[2510.26328](http://arxiv.org/abs/2510.26328)|**[link](https://github.com/aisa-group/promptinject-agent-skills)**|
 |**2025-10-30**|**GraphCompliance: Aligning Policy and Context Graphs for LLM-Based Regulatory Compliance**|Jiseong Chung et.al.|[2510.26309](http://arxiv.org/abs/2510.26309)|null|
