@@ -1129,15 +1129,15 @@
 |**2026-01-08**|**Token-Level LLM Collaboration via FusionRoute**|Nuoya Xiong et.al.|[2601.05106](http://arxiv.org/abs/2601.05106)|null|
 |**2026-01-08**|**Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content**|Changxu Duan et.al.|[2601.05103](http://arxiv.org/abs/2601.05103)|null|
 |**2026-01-08**|**Arabic Prompts with English Tools: A Benchmark**|Konstantin Kubrak et.al.|[2601.05101](http://arxiv.org/abs/2601.05101)|null|
-|**2026-01-08**|**SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment**|Ziyang Chen et.al.|[2601.05075](http://arxiv.org/abs/2601.05075)|null|
+|**2026-01-08**|**SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment**|Ziyang Chen et.al.|[2601.05075](http://arxiv.org/abs/2601.05075)|**[link](https://github.com/szu-tera/SemPA)**|
 |**2026-01-08**|**Compositional Steering of Large Language Models with Steering Tokens**|Gorjan Radevski et.al.|[2601.05062](http://arxiv.org/abs/2601.05062)|null|
 |**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
 |**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[2601.05051](http://arxiv.org/abs/2601.05051)|null|
 |**2026-01-08**|**Large language models can effectively convince people to believe conspiracies**|Thomas H. Costello et.al.|[2601.05050](http://arxiv.org/abs/2601.05050)|null|
 |**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
 |**2026-01-08**|**FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting**|Xiangyu Li et.al.|[2601.05039](http://arxiv.org/abs/2601.05039)|null|
-|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|null|
-|**2026-01-08**|**OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation**|Yi Jiang et.al.|[2601.05027](http://arxiv.org/abs/2601.05027)|null|
+|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|**[link](https://github.com/liunian-Jay/ArcAligner)**|
+|**2026-01-08**|**OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation**|Yi Jiang et.al.|[2601.05027](http://arxiv.org/abs/2601.05027)|**[link](https://github.com/liunian-Jay/OptiSet)**|
 |**2026-01-08**|**Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation**|Konstantinos E. Kampourakis et.al.|[2601.05022](http://arxiv.org/abs/2601.05022)|null|
 |**2026-01-08**|**An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions**|Avik Dutta et.al.|[2601.05009](http://arxiv.org/abs/2601.05009)|null|
 |**2026-01-08**|**Can Large Language Models Resolve Semantic Discrepancy in Self-Destructive Subcultures? Evidence from Jirai Kei**|Peng Wang et.al.|[2601.05004](http://arxiv.org/abs/2601.05004)|null|
@@ -1912,12 +1912,12 @@
 |**2025-12-04**|**Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction**|Nex-AGI Team et.al.|[2512.04987](http://arxiv.org/abs/2512.04987)|null|
 |**2025-12-04**|**Learning Causality for Longitudinal Data**|Mouad EL Bouchattaoui et.al.|[2512.04980](http://arxiv.org/abs/2512.04980)|null|
 |**2025-12-04**|**LLMs Know More Than Words: A Genre Study with Syntax, Metaphor & Phonetics**|Weiye Shi et.al.|[2512.04957](http://arxiv.org/abs/2512.04957)|null|
-|**2025-12-04**|**Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion**|Yueming Pan et.al.|[2512.04926](http://arxiv.org/abs/2512.04926)|null|
-|**2025-12-04**|**Algorithmic Thinking Theory**|MohammadHossein Bateni et.al.|[2512.04923](http://arxiv.org/abs/2512.04923)|null|
+|**2025-12-04**|**Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion**|Yueming Pan et.al.|[2512.04926](http://arxiv.org/abs/2512.04926)|**[link](https://github.com/yuemingPAN/SFD)**|
+|**2025-12-04**|**Algorithmic Thinking Theory**|MohammadHossein Bateni et.al.|[2512.04923](http://arxiv.org/abs/2512.04923)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871](http://arxiv.org/abs/2512.04871)|null|
 |**2025-12-04**|**Developing a General Personal Tutor for Education**|Jaan Aru et.al.|[2512.04869](http://arxiv.org/abs/2512.04869)|null|
 |**2025-12-04**|**SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs**|Hao Wang et.al.|[2512.04868](http://arxiv.org/abs/2512.04868)|null|
-|**2025-12-04**|**Are Your Agents Upward Deceivers?**|Dadi Guo et.al.|[2512.04864](http://arxiv.org/abs/2512.04864)|null|
+|**2025-12-04**|**Are Your Agents Upward Deceivers?**|Dadi Guo et.al.|[2512.04864](http://arxiv.org/abs/2512.04864)|**[link](https://github.com/QingyuLiu/Agentic-Upward-Deception)**|
 |**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862](http://arxiv.org/abs/2512.04862)|null|
 |**2025-12-04**|**Ask Safely: Privacy-Aware LLM Query Generation for Knowledge Graphs**|Mauro Dalle Lucca Tosi et.al.|[2512.04852](http://arxiv.org/abs/2512.04852)|null|
 |**2025-12-04**|**Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates**|Atsuki Yamaguchi et.al.|[2512.04844](http://arxiv.org/abs/2512.04844)|null|

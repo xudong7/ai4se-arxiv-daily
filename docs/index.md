@@ -843,11 +843,11 @@ layout: default
 |**2026-01-23**|**The Green Side of the Lua**|André Brandão et.al.|[2601.16670](http://arxiv.org/abs/2601.16670)|null|
 |**2026-01-23**|**PLawBench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice**|Yuzhen Shi et.al.|[2601.16669](http://arxiv.org/abs/2601.16669)|null|
 |**2026-01-23**|**Revisiting the Role of Natural Language Code Comments in Code Translation**|Monika Gupta et.al.|[2601.16661](http://arxiv.org/abs/2601.16661)|null|
-|**2026-01-23**|**Select or Project? Evaluating Lower-dimensional Vectors for LLM Training Data Explanations**|Lukas Hinterleitner et.al.|[2601.16651](http://arxiv.org/abs/2601.16651)|null|
+|**2026-01-23**|**Select or Project? Evaluating Lower-dimensional Vectors for LLM Training Data Explanations**|Lukas Hinterleitner et.al.|[2601.16651](http://arxiv.org/abs/2601.16651)|**[link](https://github.com/lukas-hinterleitner/master-thesis)**|
 |**2026-01-23**|**MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages**|Weerayut Buaphet et.al.|[2601.16623](http://arxiv.org/abs/2601.16623)|null|
-|**2026-01-23**|**How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants**|Xueyang Feng et.al.|[2601.16621](http://arxiv.org/abs/2601.16621)|null|
+|**2026-01-23**|**How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants**|Xueyang Feng et.al.|[2601.16621](http://arxiv.org/abs/2601.16621)|**[link](https://github.com/XueyangFeng/RPEval)**|
 |**2026-01-23**|**PROST-LLM: Progressively Enhancing the Speech-to-Speech Translation Capability in LLMs**|Jing Xu et.al.|[2601.16618](http://arxiv.org/abs/2601.16618)|null|
-|**2026-01-23**|**Attention-MoA: Enhancing Mixture-of-Agents via Inter-Agent Semantic Attention and Deep Residual Synthesis**|Jianyu Wen et.al.|[2601.16596](http://arxiv.org/abs/2601.16596)|null|
+|**2026-01-23**|**Attention-MoA: Enhancing Mixture-of-Agents via Inter-Agent Semantic Attention and Deep Residual Synthesis**|Jianyu Wen et.al.|[2601.16596](http://arxiv.org/abs/2601.16596)|**[link](https://github.com/John-Wendell/Attention-MoA)**|
 |**2026-01-23**|**Predicting Startup Success Using Large Language Models: A Novel In-Context Learning Approach**|Abdurahman Maarouf et.al.|[2601.16568](http://arxiv.org/abs/2601.16568)|null|
 |**2026-01-23**|**Retrieve-Refine-Calibrate: A Framework for Complex Claim Fact-Checking**|Mingwei Sun et.al.|[2601.16555](http://arxiv.org/abs/2601.16555)|null|
 |**2026-01-23**|**LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification**|Meet Raval et.al.|[2601.16549](http://arxiv.org/abs/2601.16549)|null|
@@ -1657,7 +1657,7 @@ layout: default
 |**2025-12-18**|**Mitigating Hallucinations in Healthcare LLMs with Granular Fact-Checking and Domain-Specific Adaptation**|Musarrat Zeba et.al.|[2512.16189](http://arxiv.org/abs/2512.16189)|null|
 |**2025-12-18**|**DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack**|Hao Li et.al.|[2512.16182](http://arxiv.org/abs/2512.16182)|null|
 |**2025-12-18**|**Ev-Trust: A Strategy Equilibrium Trust Mechanism for Evolutionary Games in LLM-Based Multi-Agent Services**|Shiduo Yang et.al.|[2512.16167](http://arxiv.org/abs/2512.16167)|null|
-|**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|null|
+|**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|**[link](https://github.com/Buycar-arb/ToolForge)**|
 |**2025-12-18**|**Analysis of Design Patterns and Benchmark Practices in Apache Kafka Event-Streaming Systems**|Muzeeb Mohammad et.al.|[2512.16146](http://arxiv.org/abs/2512.16146)|null|
 |**2025-12-18**|**Staggered Batch Scheduling: Co-optimizing Time-to-First-Token and Throughput for High-Efficiency LLM Inference**|Jian Tian et.al.|[2512.16134](http://arxiv.org/abs/2512.16134)|null|
 |**2025-12-18**|**WeMusic-Agent: Efficient Conversational Music Recommendation via Knowledge Internalization and Agentic Boundary Learning**|Wendong Bi et.al.|[2512.16108](http://arxiv.org/abs/2512.16108)|null|
