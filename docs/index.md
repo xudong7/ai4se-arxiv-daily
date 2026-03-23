@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.21
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -257,11 +257,11 @@ layout: default
 |**2026-03-10**|**TopoOR: A Unified Topological Scene Representation for the Operating Room**|Tony Danjun Wang et.al.|[2603.09466](http://arxiv.org/abs/2603.09466)|null|
 |**2026-03-10**|**An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse**|Yuan Cao et.al.|[2603.09463](http://arxiv.org/abs/2603.09463)|null|
 |**2026-03-10**|**Declarative Scenario-based Testing with RoadLogic**|Ezio Bartocci et.al.|[2603.09455](http://arxiv.org/abs/2603.09455)|null|
-|**2026-03-10**|**CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?**|Xiangsen Chen et.al.|[2603.09452](http://arxiv.org/abs/2603.09452)|null|
-|**2026-03-10**|**Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in LLMs**|Saugata Purkayastha et.al.|[2603.09434](http://arxiv.org/abs/2603.09434)|null|
+|**2026-03-10**|**CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?**|Xiangsen Chen et.al.|[2603.09452](http://arxiv.org/abs/2603.09452)|**[link](https://github.com/xschen-beb/CyberThreat-Eval)**|
+|**2026-03-10**|**Common Sense vs. Morality: The Curious Case of Narrative Focus Bias in LLMs**|Saugata Purkayastha et.al.|[2603.09434](http://arxiv.org/abs/2603.09434)|**[link](https://github.com/saugatapurkayastha/Commonsense_vs_morality)**|
 |**2026-03-10**|**Investigating Gender Stereotypes in Large Language Models via Social Determinants of Health**|Trung Hieu Ngo et.al.|[2603.09416](http://arxiv.org/abs/2603.09416)|null|
 |**2026-03-10**|**LLM as a Meta-Judge: Synthetic Data for NLP Evaluation Metric Validation**|Lukáš Eigler et.al.|[2603.09403](http://arxiv.org/abs/2603.09403)|null|
-|**2026-03-10**|**Reward Prediction with Factorized World States**|Yijun Shen et.al.|[2603.09400](http://arxiv.org/abs/2603.09400)|null|
+|**2026-03-10**|**Reward Prediction with Factorized World States**|Yijun Shen et.al.|[2603.09400](http://arxiv.org/abs/2603.09400)|**[link](https://github.com/yijunshens/StateFactory)**|
 |**2026-03-10**|**Quantifying and extending the coverage of spatial categorization data sets**|Wanchun Li et.al.|[2603.09373](http://arxiv.org/abs/2603.09373)|null|
 |**2026-03-10**|**The Virtuous Cycle: AI-Powered Vector Search and Vector Search-Augmented AI**|Jiuqi Wei et.al.|[2603.09347](http://arxiv.org/abs/2603.09347)|null|
 |**2026-03-10**|**TaSR-RAG: Taxonomy-guided Structured Reasoning for Retrieval-Augmented Generation**|Jiashuo Sun et.al.|[2603.09341](http://arxiv.org/abs/2603.09341)|null|
@@ -1226,15 +1226,15 @@ layout: default
 |**2026-01-08**|**Token-Level LLM Collaboration via FusionRoute**|Nuoya Xiong et.al.|[2601.05106](http://arxiv.org/abs/2601.05106)|null|
 |**2026-01-08**|**Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content**|Changxu Duan et.al.|[2601.05103](http://arxiv.org/abs/2601.05103)|null|
 |**2026-01-08**|**Arabic Prompts with English Tools: A Benchmark**|Konstantin Kubrak et.al.|[2601.05101](http://arxiv.org/abs/2601.05101)|null|
-|**2026-01-08**|**SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment**|Ziyang Chen et.al.|[2601.05075](http://arxiv.org/abs/2601.05075)|null|
+|**2026-01-08**|**SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment**|Ziyang Chen et.al.|[2601.05075](http://arxiv.org/abs/2601.05075)|**[link](https://github.com/szu-tera/SemPA)**|
 |**2026-01-08**|**Compositional Steering of Large Language Models with Steering Tokens**|Gorjan Radevski et.al.|[2601.05062](http://arxiv.org/abs/2601.05062)|null|
 |**2026-01-08**|**Reinforced Efficient Reasoning via Semantically Diverse Exploration**|Ziqi Zhao et.al.|[2601.05053](http://arxiv.org/abs/2601.05053)|null|
 |**2026-01-08**|**Publishing FAIR and Machine-actionable Reviews in Materials Science: The Case for Symbolic Knowledge in Neuro-symbolic Artificial Intelligence**|Jennifer D'Souza et.al.|[2601.05051](http://arxiv.org/abs/2601.05051)|null|
 |**2026-01-08**|**Large language models can effectively convince people to believe conspiracies**|Thomas H. Costello et.al.|[2601.05050](http://arxiv.org/abs/2601.05050)|null|
 |**2026-01-08**|**Challenges and Research Directions for Large Language Model Inference Hardware**|Xiaoyu Ma et.al.|[2601.05047](http://arxiv.org/abs/2601.05047)|null|
 |**2026-01-08**|**FinDeepForecast: A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting**|Xiangyu Li et.al.|[2601.05039](http://arxiv.org/abs/2601.05039)|null|
-|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|null|
-|**2026-01-08**|**OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation**|Yi Jiang et.al.|[2601.05027](http://arxiv.org/abs/2601.05027)|null|
+|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|**[link](https://github.com/liunian-Jay/ArcAligner)**|
+|**2026-01-08**|**OptiSet: Unified Optimizing Set Selection and Ranking for Retrieval-Augmented Generation**|Yi Jiang et.al.|[2601.05027](http://arxiv.org/abs/2601.05027)|**[link](https://github.com/liunian-Jay/OptiSet)**|
 |**2026-01-08**|**Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation**|Konstantinos E. Kampourakis et.al.|[2601.05022](http://arxiv.org/abs/2601.05022)|null|
 |**2026-01-08**|**An Empirical Investigation of Robustness in Large Language Models under Tabular Distortions**|Avik Dutta et.al.|[2601.05009](http://arxiv.org/abs/2601.05009)|null|
 |**2026-01-08**|**Can Large Language Models Resolve Semantic Discrepancy in Self-Destructive Subcultures? Evidence from Jirai Kei**|Peng Wang et.al.|[2601.05004](http://arxiv.org/abs/2601.05004)|null|
@@ -2315,7 +2315,7 @@ layout: default
 |**2025-11-19**|**MutDafny: A Mutation-Based Approach to Assess Dafny Specifications**|Isabel Amaral et.al.|[2511.15403](http://arxiv.org/abs/2511.15403)|null|
 |**2025-11-19**|**DEPO: Dual-Efficiency Preference Optimization for LLM Agents**|Sirui Chen et.al.|[2511.15392](http://arxiv.org/abs/2511.15392)|null|
 |**2025-11-19**|**Breaking Expert Knowledge Limits: Self-Pruning for Large Language Models**|Haidong Kang et.al.|[2511.15390](http://arxiv.org/abs/2511.15390)|null|
-|**2025-11-19**|**Unveiling Inference Scaling for Difference-Aware User Modeling in LLM Personalization**|Suyu Chen et.al.|[2511.15389](http://arxiv.org/abs/2511.15389)|null|
+|**2025-11-19**|**Unveiling Inference Scaling for Difference-Aware User Modeling in LLM Personalization**|Suyu Chen et.al.|[2511.15389](http://arxiv.org/abs/2511.15389)|**[link](https://github.com/Chen-Suyu/DRP)**|
 |**2025-11-19**|**A Compliance-Preserving Retrieval System for Aircraft MRO Task Search**|Byungho Jo et.al.|[2511.15383](http://arxiv.org/abs/2511.15383)|null|
 |**2025-11-19**|**The Empowerment of Science of Science by Large Language Models: New Tools and Methods**|Guoqiang Liang et.al.|[2511.15370](http://arxiv.org/abs/2511.15370)|null|
 |**2025-11-19**|**Cost-Aware Prediction (CAP): An LLM-Enhanced Machine Learning Pipeline and Decision Support System for Heart Failure Mortality Prediction**|Yinan Yu et.al.|[2511.15357](http://arxiv.org/abs/2511.15357)|null|
@@ -2719,7 +2719,7 @@ layout: default
 |**2025-10-23**|**What Defines Good Reasoning in LLMs? Dissecting Reasoning Steps with Multi-Aspect Evaluation**|Heejin Do et.al.|[2510.20603](http://arxiv.org/abs/2510.20603)|null|
 |**2025-10-23**|**EmbodiedBrain: Expanding Performance Boundaries of Task Planning for Embodied Intelligence**|Ding Zou et.al.|[2510.20578](http://arxiv.org/abs/2510.20578)|null|
 |**2025-10-23**|**ARC-Encoder: learning compressed text representations for large language models**|Hippolyte Pilchen et.al.|[2510.20535](http://arxiv.org/abs/2510.20535)|null|
-|**2025-10-23**|**Large Language Models for Fault Localization: An Empirical Study**|YingJian Xiao et.al.|[2510.20521](http://arxiv.org/abs/2510.20521)|null|
+|**2025-10-23**|**Large Language Models for Fault Localization: An Empirical Study**|YingJian Xiao et.al.|[2510.20521](http://arxiv.org/abs/2510.20521)|**[link](https://github.com/XiaoYingJian/Empirical-LLM-Fault-Localization)**|
 |**2025-10-23**|**Metis-HOME: Hybrid Optimized Mixture-of-Experts for Multimodal Reasoning**|Xiaohan Lan et.al.|[2510.20519](http://arxiv.org/abs/2510.20519)|null|
 |**2025-10-23**|**Toward Practical Deductive Verification: Insights from a Qualitative Survey in Industry and Academia**|Lea Salome Brugger et.al.|[2510.20514](http://arxiv.org/abs/2510.20514)|null|
 |**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|**[link](https://github.com/PaulLerner/21-EuroParl)**|
