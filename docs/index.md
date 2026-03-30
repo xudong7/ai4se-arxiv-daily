@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -2249,15 +2249,15 @@ layout: default
 |**2025-11-27**|**Shoe Style-Invariant and Ground-Aware Learning for Dense Foot Contact Estimation**|Daniel Sungho Jung et.al.|[2511.22184](http://arxiv.org/abs/2511.22184)|null|
 |**2025-11-27**|**Constructions of block MDS LDPC codes from punctured circulant matrices**|Hongwei Zhu et.al.|[2511.22183](http://arxiv.org/abs/2511.22183)|null|
 |**2025-11-27**|**Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information**|Lukas Struppek et.al.|[2511.22176](http://arxiv.org/abs/2511.22176)|null|
-|**2025-11-27**|**Partially Shared Concept Bottleneck Models**|Delong Zhao et.al.|[2511.22170](http://arxiv.org/abs/2511.22170)|null|
-|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|null|
+|**2025-11-27**|**Partially Shared Concept Bottleneck Models**|Delong Zhao et.al.|[2511.22170](http://arxiv.org/abs/2511.22170)|**[link](https://github.com/7494zdl/PS-CBM)**|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|**[link](https://github.com/manat0912/Imtalker-Pinokio)**|
 |**2025-11-27**|**WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world scenarios**|Eun Chang et.al.|[2511.22154](http://arxiv.org/abs/2511.22154)|null|
 |**2025-11-27**|**A Theoretically Grounded Hybrid Ensemble for Reliable Detection of LLM-Generated Text**|Sepyan Purnama Kristanto et.al.|[2511.22153](http://arxiv.org/abs/2511.22153)|null|
 |**2025-11-27**|**SemOD: Semantic Enabled Object Detection Network under Various Weather Conditions**|Aiyinsi Zuo et.al.|[2511.22142](http://arxiv.org/abs/2511.22142)|null|
 |**2025-11-27**|**EASL: Multi-Emotion Guided Semantic Disentanglement for Expressive Sign Language Generation**|Yanchao Zhao et.al.|[2511.22135](http://arxiv.org/abs/2511.22135)|null|
 |**2025-11-27**|**Benchmarking In-context Experiential Learning Through Repeated Product Recommendations**|Gilbert Yang et.al.|[2511.22130](http://arxiv.org/abs/2511.22130)|null|
-|**2025-11-27**|**PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**|Mingzhe Li et.al.|[2511.22119](http://arxiv.org/abs/2511.22119)|null|
-|**2025-11-27**|**Statistical Independence Aware Caching for LLM Workflows**|Yihan Dai et.al.|[2511.22118](http://arxiv.org/abs/2511.22118)|null|
+|**2025-11-27**|**PROMPTMINER: Black-Box Prompt Stealing against Text-to-Image Generative Models via Reinforcement Learning and Fuzz Optimization**|Mingzhe Li et.al.|[2511.22119](http://arxiv.org/abs/2511.22119)|**[link](https://github.com/aaFrostnova/PromptMiner)**|
+|**2025-11-27**|**Statistical Independence Aware Caching for LLM Workflows**|Yihan Dai et.al.|[2511.22118](http://arxiv.org/abs/2511.22118)|**[link](https://github.com/msv-lab/mnimi)**|
 |**2025-11-27**|**A Hybrid Theory and Data-driven Approach to Persuasion Detection with Large Language Models**|Gia Bao Hoang et.al.|[2511.22109](http://arxiv.org/abs/2511.22109)|null|
 |**2025-11-27**|**Decomposed Trust: Exploring Privacy, Adversarial Robustness, Fairness, and Ethics of Low-Rank LLMs**|Daniel Agyei Asante et.al.|[2511.22099](http://arxiv.org/abs/2511.22099)|null|
 |**2025-11-27**|**A Fast and Flat Federated Learning Method via Weighted Momentum and Sharpness-Aware Minimization**|Tianle Li et.al.|[2511.22080](http://arxiv.org/abs/2511.22080)|null|
