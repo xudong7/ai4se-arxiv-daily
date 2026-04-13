@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.11
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -1553,14 +1553,14 @@ layout: default
 |**2026-01-15**|**Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning**|Xin Guan et.al.|[2601.10306](http://arxiv.org/abs/2601.10306)|null|
 |**2026-01-15**|**Reasoning Hijacking: Subverting LLM Classification via Decision-Criteria Injection**|Yuansen Liu et.al.|[2601.10294](http://arxiv.org/abs/2601.10294)|null|
 |**2026-01-15**|**Queueing-Aware Optimization of Reasoning Tokens for Accuracy-Latency Trade-offs in LLM Servers**|Emre Ozbas et.al.|[2601.10274](http://arxiv.org/abs/2601.10274)|null|
-|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|null|
-|**2026-01-15**|**In-Context Source and Channel Coding**|Ziqiong Wang et.al.|[2601.10267](http://arxiv.org/abs/2601.10267)|null|
+|**2026-01-15**|**MoST: Mixing Speech and Text with Modality-Aware Mixture of Experts**|Yuxuan Lou et.al.|[2601.10272](http://arxiv.org/abs/2601.10272)|**[link](https://github.com/NUS-HPC-AI-Lab/MoST)**|
+|**2026-01-15**|**In-Context Source and Channel Coding**|Ziqiong Wang et.al.|[2601.10267](http://arxiv.org/abs/2601.10267)|**[link](https://github.com/NhaPhatHanh/github)**|
 |**2026-01-15**|**Evolving with AI: A Longitudinal Analysis of Developer Logs**|Agnia Sergeyuk et.al.|[2601.10258](http://arxiv.org/abs/2601.10258)|null|
 |**2026-01-15**|**Untangling Input Language from Reasoning Language: A Diagnostic Framework for Cross-Lingual Moral Alignment in LLMs**|Nan Li et.al.|[2601.10257](http://arxiv.org/abs/2601.10257)|null|
 |**2026-01-15**|**NoReGeo: Non-Reasoning Geometry Benchmark**|Irina Abdullaeva et.al.|[2601.10254](http://arxiv.org/abs/2601.10254)|null|
 |**2026-01-15**|**Developer Interaction Patterns with Proactive AI: A Five-Day Field Study**|Nadine Kuo et.al.|[2601.10253](http://arxiv.org/abs/2601.10253)|null|
 |**2026-01-15**|**TRIM: Hybrid Inference via Targeted Stepwise Routing in Multi-Step Reasoning Tasks**|Vansh Kapoor et.al.|[2601.10245](http://arxiv.org/abs/2601.10245)|null|
-|**2026-01-15**|**Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?**|Guanxu Chen et.al.|[2601.10242](http://arxiv.org/abs/2601.10242)|null|
+|**2026-01-15**|**Loop as a Bridge: Can Looped Transformers Truly Link Representation Space and Natural Language Outputs?**|Guanxu Chen et.al.|[2601.10242](http://arxiv.org/abs/2601.10242)|**[link](https://github.com/biuboomc/L-A-B)**|
 |**2026-01-15**|**Tables or Sankey Diagrams? Investigating User Interaction with Different Representations of Simulation Parameters**|Choro Ulan uulu et.al.|[2601.10232](http://arxiv.org/abs/2601.10232)|null|
 |**2026-01-15**|**GeoSteer: Faithful Chain-of-Thought Steering via Latent Manifold Gradients**|Kentaro Kazama et.al.|[2601.10229](http://arxiv.org/abs/2601.10229)|null|
 |**2026-01-15**|**Optimizing Multimodal LLMs for Egocentric Video Understanding: A Solution for the HD-EPIC VQA Challenge**|Sicheng Yang et.al.|[2601.10228](http://arxiv.org/abs/2601.10228)|null|
@@ -2675,7 +2675,7 @@ layout: default
 |**2025-11-24**|**HERMES: Towards Efficient and Verifiable Mathematical Reasoning in LLMs**|Azim Ospanov et.al.|[2511.18760](http://arxiv.org/abs/2511.18760)|null|
 |**2025-11-24**|**Large Language Models Require Curated Context for Reliable Political Fact-Checking -- Even with Reasoning and Web Search**|Matthew R. DeVerna et.al.|[2511.18749](http://arxiv.org/abs/2511.18749)|null|
 |**2025-11-24**|**RhinoInsight: Improving Deep Research through Control Mechanisms for Model Behavior and Context**|Yu Lei et.al.|[2511.18743](http://arxiv.org/abs/2511.18743)|null|
-|**2025-11-24**|**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**|Yu Wang et.al.|[2511.18740](http://arxiv.org/abs/2511.18740)|null|
+|**2025-11-24**|**Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation**|Yu Wang et.al.|[2511.18740](http://arxiv.org/abs/2511.18740)|**[link](https://github.com/wangyu0627/HaNoRec)**|
 |**2025-11-24**|**OceanForecastBench: A Benchmark Dataset for Data-Driven Global Ocean Forecasting**|Haoming Jia et.al.|[2511.18732](http://arxiv.org/abs/2511.18732)|null|
 |**2025-11-24**|**GuideFlow: Constraint-Guided Flow Matching for Planning in End-to-End Autonomous Driving**|Lin Liu et.al.|[2511.18729](http://arxiv.org/abs/2511.18729)|null|
 |**2025-11-24**|**LogSyn: A Few-Shot LLM Framework for Structured Insight Extraction from Unstructured General Aviation Maintenance Logs**|Devansh Agarwal et.al.|[2511.18727](http://arxiv.org/abs/2511.18727)|null|

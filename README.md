@@ -1,4 +1,4 @@
-## Updated on 2026.04.11
+## Updated on 2026.04.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -941,9 +941,9 @@
 |**2026-02-13**|**Never say never: Exploring the effects of available knowledge on agent persuasiveness in controlled physiotherapy motivation dialogues**|Stephan Vonschallen et.al.|[2602.12924](http://arxiv.org/abs/2602.12924)|null|
 |**2026-02-13**|**When Words Don't Mean What They Say: Figurative Understanding in Bengali Idioms**|Adib Sakhawat et.al.|[2602.12921](http://arxiv.org/abs/2602.12921)|null|
 |**2026-02-13**|**EPRBench: A High-Quality Benchmark Dataset for Event Stream Based Visual Place Recognition**|Xiao Wang et.al.|[2602.12919](http://arxiv.org/abs/2602.12919)|null|
-|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|null|
+|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|**[link](https://github.com/ggaikwad-29/Robust-Object-Detection-in-Adverse-Weather-Conditions-for-Autonomous-Vehicles)**|
 |**2026-02-13**|**Understanding Cultural Alignment in Multilingual LLMs via Natural Debate Statements**|Vlad-Andrei Negru et.al.|[2602.12878](http://arxiv.org/abs/2602.12878)|null|
-|**2026-02-13**|**A Microservice-Based Platform for Sustainable and Intelligent SLO Fulfilment and Service Management**|Juan Luis Herrera et.al.|[2602.12875](http://arxiv.org/abs/2602.12875)|null|
+|**2026-02-13**|**A Microservice-Based Platform for Sustainable and Intelligent SLO Fulfilment and Service Management**|Juan Luis Herrera et.al.|[2602.12875](http://arxiv.org/abs/2602.12875)|**[link](https://github.com/juan-luis-herrera/Jellyfin-Autowatcher)**|
 |**2026-02-13**|**MentalBench: A Benchmark for Evaluating Psychiatric Diagnostic Capability of Large Language Models**|Hoyun Song et.al.|[2602.12871](http://arxiv.org/abs/2602.12871)|null|
 |**2026-02-13**|**FuncDroid: Towards Inter-Functional Flows for Comprehensive Mobile App GUI Testing**|Jinlong He et.al.|[2602.12834](http://arxiv.org/abs/2602.12834)|null|
 |**2026-02-13**|**TRACE: Temporal Reasoning via Agentic Context Evolution for Streaming Electronic Health Records (EHRs)**|Zhan Qu et.al.|[2602.12833](http://arxiv.org/abs/2602.12833)|null|
@@ -1187,10 +1187,10 @@
 |**2026-02-05**|**Cross-Lingual Empirical Evaluation of Large Language Models for Arabic Medical Tasks**|Chaimae Abouzahir et.al.|[2602.05374](http://arxiv.org/abs/2602.05374)|null|
 |**2026-02-05**|**Speech-XL: Towards Long-Form Speech Understanding in Large Speech Language Models**|Haoqin Sun et.al.|[2602.05373](http://arxiv.org/abs/2602.05373)|null|
 |**2026-02-05**|**RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs**|Youngcheon You et.al.|[2602.05367](http://arxiv.org/abs/2602.05367)|null|
-|**2026-02-05**|**Multi-Field Tool Retrieval**|Yichen Tang et.al.|[2602.05366](http://arxiv.org/abs/2602.05366)|null|
+|**2026-02-05**|**Multi-Field Tool Retrieval**|Yichen Tang et.al.|[2602.05366](http://arxiv.org/abs/2602.05366)|**[link](https://github.com/LittleDinoC/MFTR)**|
 |**2026-02-05**|**Decision-Focused Sequential Experimental Design: A Directional Uncertainty-Guided Approach**|Beichen Wan et.al.|[2602.05340](http://arxiv.org/abs/2602.05340)|null|
 |**2026-02-05**|**SynAT: Enhancing Security Knowledge Bases via Automatic Synthesizing Attack Tree from Crowd Discussions**|Ziyou Jiang et.al.|[2602.05329](http://arxiv.org/abs/2602.05329)|null|
-|**2026-02-05**|**ProAct: Agentic Lookahead in Interactive Environments**|Yangbin Yu et.al.|[2602.05327](http://arxiv.org/abs/2602.05327)|null|
+|**2026-02-05**|**ProAct: Agentic Lookahead in Interactive Environments**|Yangbin Yu et.al.|[2602.05327](http://arxiv.org/abs/2602.05327)|**[link](https://github.com/GreatX3/ProAct)**|
 |**2026-02-05**|**Does Programming Language Matter? An Empirical Study of Fuzzing Bug Detection**|Tatsuya Shirai et.al.|[2602.05312](http://arxiv.org/abs/2602.05312)|null|
 |**2026-02-05**|**PieArena: Frontier Language Agents Achieve MBA-Level Negotiation Performance and Reveal Novel Behavioral Differences**|Chris Zhu et.al.|[2602.05302](http://arxiv.org/abs/2602.05302)|null|
 |**2026-02-05**|**ORACL: Optimized Reasoning for Autoscaling via Chain of Thought with LLMs for Microservices**|Haoyu Bai et.al.|[2602.05292](http://arxiv.org/abs/2602.05292)|null|
@@ -3293,7 +3293,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260413>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
