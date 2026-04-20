@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.16
+## Updated on 2026.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|**[link](https://github.com/ZheyuAqaZhang/XComp)**|
-|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|**[link](https://github.com/Trae1ounG/Pretrain_Space_RLVR)**|
+|**2026-04-15**|**From $P(y|x)$ to $P(y)$ : Investigating Reinforcement Learning in Pre-train Space**|Yuqiao Tan et.al.|[2604.14142](http://arxiv.org/abs/2604.14142)|
 |**2026-04-15**|**From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs**|Itay Itzhak et.al.|[2604.14137](http://arxiv.org/abs/2604.14137)|**[link](https://github.com/itay1itzhak/vibe-testing-llms)**|
 |**2026-04-15**|**Rhetorical Questions in LLM Representations: A Linear Probing Study**|Louie Hong Yao et.al.|[2604.14128](http://arxiv.org/abs/2604.14128)|null|
 |**2026-04-15**|**AI-assisted writing and the reorganization of scientific knowledge**|Erjia Yan et.al.|[2604.14126](http://arxiv.org/abs/2604.14126)|null|
@@ -106,7 +106,7 @@ layout: default
 |**2026-04-14**|**Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation**|Mohsen Nayebi Kerdabadi et.al.|[2604.13331](http://arxiv.org/abs/2604.13331)|null|
 |**2026-04-14**|**Multi-Task LLM with LoRA Fine-Tuning for Automated Cancer Staging and Biomarker Extraction**|Jiahao Shao et.al.|[2604.13328](http://arxiv.org/abs/2604.13328)|null|
 |**2026-04-14**|**Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel**|Hongyi Jin et.al.|[2604.13327](http://arxiv.org/abs/2604.13327)|null|
-|**2026-04-14**|**WebXSkill: Skill Learning for Autonomous Web Agents**|Zhaoyang Wang et.al.|[2604.13318](http://arxiv.org/abs/2604.13318)|null|
+|**2026-04-14**|**WebXSkill: Skill Learning for Autonomous Web Agents**|Zhaoyang Wang et.al.|[2604.13318](http://arxiv.org/abs/2604.13318)|**[link](https://github.com/aiming-lab/WebXSkill)**|
 |**2026-04-14**|**Can Agents Secure Hardware? Evaluating Agentic LLM-Driven Obfuscation for IP Protection**|Sujan Ghimire et.al.|[2604.13298](http://arxiv.org/abs/2604.13298)|null|
 |**2026-04-14**|**English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training**|Mehak Dhaliwal et.al.|[2604.13286](http://arxiv.org/abs/2604.13286)|null|
 |**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|
@@ -787,7 +787,7 @@ layout: default
 |**2026-03-10**|**DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval**|Taegyeong Lee et.al.|[2603.09185](http://arxiv.org/abs/2603.09185)|null|
 |**2026-03-10**|**Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor**|Xiaoying Wang et.al.|[2603.09181](http://arxiv.org/abs/2603.09181)|null|
 |**2026-03-10**|**DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization**|Jianing Yang et.al.|[2603.09180](http://arxiv.org/abs/2603.09180)|null|
-|**2026-03-10**|**Point Cloud as a Foreign Language for Multi-modal Large Language Model**|Sneha Paul et.al.|[2603.09173](http://arxiv.org/abs/2603.09173)|null|
+|**2026-03-10**|**Point Cloud as a Foreign Language for Multi-modal Large Language Model**|Sneha Paul et.al.|[2603.09173](http://arxiv.org/abs/2603.09173)|**[link](https://github.com/snehaputul/SAGE3D)**|
 |**2026-03-10**|**Reinforced Generation of Combinatorial Structures: Ramsey Numbers**|Ansh Nagda et.al.|[2603.09172](http://arxiv.org/abs/2603.09172)|null|
 |**2026-03-10**|**Wrong Code, Right Structure: Learning Netlist Representations from Imperfect LLM-Generated RTL**|Siyang Cai et.al.|[2603.09161](http://arxiv.org/abs/2603.09161)|null|
 |**2026-03-10**|**RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning**|Tzu-Heng Huang et.al.|[2603.09160](http://arxiv.org/abs/2603.09160)|null|
@@ -1456,11 +1456,11 @@ layout: default
 |**2026-01-23**|**W4A16 Mixed-Precision Matrix Multiplication on Decoupled Architecture: Kernel Design and Memory Bottleneck Analysis for Ascend NPUs**|Yuanhong He et.al.|[2601.16536](http://arxiv.org/abs/2601.16536)|null|
 |**2026-01-23**|**Curate-Train-Refine: A Closed-Loop Agentic Framework for Zero Shot Classification**|Gaurav Maheshwari et.al.|[2601.16530](http://arxiv.org/abs/2601.16530)|null|
 |**2026-01-23**|**SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care**|Dongshen Peng et.al.|[2601.16529](http://arxiv.org/abs/2601.16529)|null|
-|**2026-01-23**|**Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs**|Xianya Fang et.al.|[2601.16527](http://arxiv.org/abs/2601.16527)|null|
+|**2026-01-23**|**Beyond Superficial Unlearning: Sharpness-Aware Robust Erasure of Hallucinations in Multimodal LLMs**|Xianya Fang et.al.|[2601.16527](http://arxiv.org/abs/2601.16527)|**[link](https://github.com/user007-hash/SARE)**|
 |**2026-01-23**|**TangramPuzzle: Evaluating Multimodal Large Language Models with Compositional Spatial Reasoning**|Daixian Liu et.al.|[2601.16520](http://arxiv.org/abs/2601.16520)|null|
 |**2026-01-23**|**DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs**|Zekai Chen et.al.|[2601.16519](http://arxiv.org/abs/2601.16519)|null|
 |**2026-01-23**|**Rethinking Large Language Models For Irregular Time Series Classification In Critical Care**|Feixiang Zheng et.al.|[2601.16516](http://arxiv.org/abs/2601.16516)|null|
-|**2026-01-23**|**SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine**|Hoang-Quoc Nguyen-Son et.al.|[2601.16512](http://arxiv.org/abs/2601.16512)|null|
+|**2026-01-23**|**SearchLLM: Detecting LLM Paraphrased Text by Measuring the Similarity with Regeneration of the Candidate Source via Search Engine**|Hoang-Quoc Nguyen-Son et.al.|[2601.16512](http://arxiv.org/abs/2601.16512)|**[link](https://github.com/quocnsh/SearchLLM)**|
 |**2026-01-23**|**Is Length Really A Liability? An Evaluation of Multi-turn LLM Conversations using BoolQ**|Karl Neergaard et.al.|[2601.16508](http://arxiv.org/abs/2601.16508)|null|
 |**2026-01-23**|**REprompt: Prompt Generation for Intelligent Software Development Guided by Requirements Engineering**|Junjie Shi et.al.|[2601.16507](http://arxiv.org/abs/2601.16507)|null|
 |**2026-01-23**|**SafeThinker: Reasoning about Risk to Deepen Safety Beyond Shallow Alignment**|Xianya Fang et.al.|[2601.16506](http://arxiv.org/abs/2601.16506)|null|
