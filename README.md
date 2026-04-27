@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1474,7 +1474,7 @@
 |**2026-02-05**|**Structured Context Engineering for File-Native Agentic Systems: Evaluating Schema Accuracy, Format Effectiveness, and Multi-File Navigation at Scale**|Damon McMillan et.al.|[2602.05447](http://arxiv.org/abs/2602.05447)|null|
 |**2026-02-05**|**DiLLS: Interactive Diagnosis of LLM-based Multi-agent Systems via Layered Summary of Agent Behaviors**|Rui Sheng et.al.|[2602.05446](http://arxiv.org/abs/2602.05446)|null|
 |**2026-02-05**|**Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs**|Yao Zhou et.al.|[2602.05444](http://arxiv.org/abs/2602.05444)|null|
-|**2026-02-05**|**SciDef: Automating Definition Extraction from Academic Literature with Large Language Models**|Filip Kučera et.al.|[2602.05413](http://arxiv.org/abs/2602.05413)|null|
+|**2026-02-05**|**SciDef: Automating Definition Extraction from Academic Literature with Large Language Models**|Filip Kučera et.al.|[2602.05413](http://arxiv.org/abs/2602.05413)|**[link](https://github.com/Media-Bias-Group/SciDef)**|
 |**2026-02-05**|**Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search**|Zihao Guo et.al.|[2602.05408](http://arxiv.org/abs/2602.05408)|null|
 |**2026-02-05**|**H-AdminSim: A Multi-Agent Simulator for Realistic Hospital Administrative Workflows with FHIR Integration**|Jun-Min Lee et.al.|[2602.05407](http://arxiv.org/abs/2602.05407)|null|
 |**2026-02-05**|**BadTemplate: A Training-Free Backdoor Attack via Chat Template Against Large Language Models**|Zihan Wang et.al.|[2602.05401](http://arxiv.org/abs/2602.05401)|null|
@@ -3593,7 +3593,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260427>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
