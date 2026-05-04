@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.01
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -3288,7 +3288,7 @@ layout: default
 |**2025-11-13**|**Learning to Pose Problems: Reasoning-Driven and Solver-Adaptive Data Synthesis for Large Reasoning Models**|Yongxian Wei et.al.|[2511.09907](http://arxiv.org/abs/2511.09907)|null|
 |**2025-11-13**|**PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors**|Brian B. Moser et.al.|[2511.09905](http://arxiv.org/abs/2511.09905)|null|
 |**2025-11-13**|**CTRL-ALT-DECEIT: Sabotage Evaluations for Automated AI R&D**|Francis Rhys Ward et.al.|[2511.09904](http://arxiv.org/abs/2511.09904)|null|
-|**2025-11-13**|**Simulator and Experience Enhanced Diffusion Model for Comprehensive ECG Generation**|Xiaoda Wang et.al.|[2511.09895](http://arxiv.org/abs/2511.09895)|null|
+|**2025-11-13**|**Simulator and Experience Enhanced Diffusion Model for Comprehensive ECG Generation**|Xiaoda Wang et.al.|[2511.09895](http://arxiv.org/abs/2511.09895)|**[link](https://github.com/ignite-abd/SE-Diff)**|
 |**2025-11-13**|**HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models**|Liheng Zhang et.al.|[2511.09883](http://arxiv.org/abs/2511.09883)|null|
 |**2025-10-30**|**Optimized Log Parsing with Syntactic Modifications**|Nafid Enan et.al.|[2510.26793](http://arxiv.org/abs/2510.26793)|null|
 |**2025-10-30**|**Gistify! Codebase-Level Understanding via Runtime Execution**|Hyunji Lee et.al.|[2510.26790](http://arxiv.org/abs/2510.26790)|null|

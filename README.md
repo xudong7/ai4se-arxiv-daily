@@ -1,4 +1,4 @@
-## Updated on 2026.05.01
+## Updated on 2026.05.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -156,14 +156,14 @@
 |**2026-04-23**|**SpecSyn: LLM-based Synthesis and Refinement of Formal Specifications for Real-world Program Verification**|Lezhi Ma et.al.|[2604.21570](http://arxiv.org/abs/2604.21570)|null|
 |**2026-04-23**|**Measuring Opinion Bias and Sycophancy via LLM-based Coercion**|Rodrigo Nogueira et.al.|[2604.21564](http://arxiv.org/abs/2604.21564)|null|
 |**2026-04-23**|**Probabilistic Verification of Neural Networks via Efficient Probabilistic Hull Generation**|Jingyang Li et.al.|[2604.21556](http://arxiv.org/abs/2604.21556)|null|
-|**2026-04-23**|**Unbiased Prevalence Estimation with Multicalibrated LLMs**|Fridolin Linder et.al.|[2604.21549](http://arxiv.org/abs/2604.21549)|null|
+|**2026-04-23**|**Unbiased Prevalence Estimation with Multicalibrated LLMs**|Fridolin Linder et.al.|[2604.21549](http://arxiv.org/abs/2604.21549)|**[link](https://github.com/facebookresearch/multicalibrated_llm_measurement)**|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
 |**2026-04-23**|**UKP_Psycontrol at SemEval-2026 Task 2: Modeling Valence and Arousal Dynamics from Text**|Darya Hryhoryeva et.al.|[2604.21534](http://arxiv.org/abs/2604.21534)|null|
 |**2026-04-23**|**Job Skill Extraction via LLM-Centric Multi-Module Framework**|Guojing Li et.al.|[2604.21525](http://arxiv.org/abs/2604.21525)|null|
 |**2026-04-23**|**OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving**|Xinyu Zhang et.al.|[2604.21510](http://arxiv.org/abs/2604.21510)|null|
 |**2026-04-23**|**Assessing the Impact of Requirement Ambiguity on LLM-based Function-Level Code Generation**|Di Yang et.al.|[2604.21505](http://arxiv.org/abs/2604.21505)|null|
-|**2026-04-23**|**Efficient Agent Evaluation via Diversity-Guided User Simulation**|Itay Nakash et.al.|[2604.21480](http://arxiv.org/abs/2604.21480)|null|
-|**2026-04-23**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|null|
+|**2026-04-23**|**Efficient Agent Evaluation via Diversity-Guided User Simulation**|Itay Nakash et.al.|[2604.21480](http://arxiv.org/abs/2604.21480)|**[link](https://github.com/IBM/DIVERT_Efficient_Agent_Evaluation_via_Diversity_Guided_User_Simulation)**|
+|**2026-04-23**|**Frozen LLMs as Map-Aware Spatio-Temporal Reasoners for Vehicle Trajectory Prediction**|Yanjiao Liu et.al.|[2604.21479](http://arxiv.org/abs/2604.21479)|**[link](https://github.com/hnuHT/trajectory_prediction)**|
 |**2026-04-23**|**MCP Pitfall Lab: Exposing Developer Pitfalls in MCP Tool Server Security under Multi-Vector Attacks**|Run Hao et.al.|[2604.21477](http://arxiv.org/abs/2604.21477)|null|
 |**2026-04-23**|**The Privacy Guardian Agent: Towards Trustworthy AI Privacy Agents**|Vincent Freiberger et.al.|[2604.21455](http://arxiv.org/abs/2604.21455)|null|
 |**2026-04-23**|**Reasoning Primitives in Hybrid and Non-Hybrid LLMs**|Shivam Rawat et.al.|[2604.21454](http://arxiv.org/abs/2604.21454)|null|
@@ -619,8 +619,8 @@
 |**2026-03-30**|**One stout to rule them all: Reconciling artificial intelligence, data science and malted alcoholic beverages**|Dmitrii Usynin et.al.|[2603.28607](http://arxiv.org/abs/2603.28607)|null|
 |**2026-03-30**|**Moving Beyond Review: Applying Language Models to Planning and Translation in Reflection**|Seyed Parsa Neshaei et.al.|[2603.28596](http://arxiv.org/abs/2603.28596)|null|
 |**2026-03-30**|**Debt Behind the AI Boom: A Large-Scale Empirical Study of AI-Generated Code in the Wild**|Yue Liu et.al.|[2603.28592](http://arxiv.org/abs/2603.28592)|null|
-|**2026-03-30**|**MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models**|Han Wang et.al.|[2603.28590](http://arxiv.org/abs/2603.28590)|null|
-|**2026-03-30**|**Towards a Medical AI Scientist**|Hongtao Wu et.al.|[2603.28589](http://arxiv.org/abs/2603.28589)|null|
+|**2026-03-30**|**MonitorBench: A Comprehensive Benchmark for Chain-of-Thought Monitorability in Large Language Models**|Han Wang et.al.|[2603.28590](http://arxiv.org/abs/2603.28590)|**[link](https://github.com/ASTRAL-Group/MonitorBench)**|
+|**2026-03-30**|**Towards a Medical AI Scientist**|Hongtao Wu et.al.|[2603.28589](http://arxiv.org/abs/2603.28589)|**[link](https://github.com/iva100/Artificial-intelligence-Machine-learning)**|
 |**2026-03-30**|**Tiered Super-Moore's Law: Price Evolution, Production Frontiers, and Market Competition in Large Language Model Inference Services**|Mingdeng Du et.al.|[2603.28576](http://arxiv.org/abs/2603.28576)|null|
 |**2026-03-30**|**CirrusBench: Evaluating LLM-based Agents Beyond Correctness in Real-World Cloud Service Environments**|Yi Yu et.al.|[2603.28569](http://arxiv.org/abs/2603.28569)|null|
 |**2026-03-30**|**Fine-Tuning Large Language Models for Cooperative Tactical Deconfliction of Small Unmanned Aerial Systems**|Iman Sharifi et.al.|[2603.28561](http://arxiv.org/abs/2603.28561)|null|
@@ -2542,12 +2542,12 @@
 |**2025-12-18**|**Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks**|Safwan Shaheer et.al.|[2512.16307](http://arxiv.org/abs/2512.16307)|null|
 |**2025-12-18**|**Feature-Selective Representation Misdirection for Machine Unlearning**|Taozhao Chen et.al.|[2512.16297](http://arxiv.org/abs/2512.16297)|null|
 |**2025-12-18**|**Ein Typenrad auf der Überholspur: Die Kult-Schreibmaschine "Erika" trifft KI**|Karola Köpferl et.al.|[2512.16293](http://arxiv.org/abs/2512.16293)|null|
-|**2025-12-18**|**In-Context Probing for Membership Inference in Fine-Tuned Language Models**|Zhexi Lu et.al.|[2512.16292](http://arxiv.org/abs/2512.16292)|null|
+|**2025-12-18**|**In-Context Probing for Membership Inference in Fine-Tuned Language Models**|Zhexi Lu et.al.|[2512.16292](http://arxiv.org/abs/2512.16292)|**[link](https://github.com/RPI-DSPlab/ICP-MIA)**|
 |**2025-12-18**|**Evaluating OpenAI GPT Models for Translation of Endangered Uralic Languages: A Comparison of Reasoning and Non-Reasoning Architectures**|Yehor Tereshchenko et.al.|[2512.16287](http://arxiv.org/abs/2512.16287)|null|
 |**2025-12-18**|**CKA-Guided Modular Quantization: Beyond Bit-Width to Algorithmic Diversity**|Jinhao Zhang et.al.|[2512.16282](http://arxiv.org/abs/2512.16282)|null|
 |**2025-12-18**|**Love, Lies, and Language Models: Investigating AI's Role in Romance-Baiting Scams**|Gilad Gressel et.al.|[2512.16280](http://arxiv.org/abs/2512.16280)|null|
 |**2025-12-18**|**Fast Collaborative Inference via Distributed Speculative Decoding**|Ce Zheng et.al.|[2512.16273](http://arxiv.org/abs/2512.16273)|null|
-|**2025-12-18**|**Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls**|Ora Nova Fandina et.al.|[2512.16272](http://arxiv.org/abs/2512.16272)|null|
+|**2025-12-18**|**Beyond Blind Spots: Analytic Hints for Mitigating LLM-Based Evaluation Pitfalls**|Ora Nova Fandina et.al.|[2512.16272](http://arxiv.org/abs/2512.16272)|**[link](https://github.com/AlicePod1/analytic_hints_paper)**|
 |**2025-12-18**|**Learning to Wait: Synchronizing Agents with the Physical World**|Yifei She et.al.|[2512.16262](http://arxiv.org/abs/2512.16262)|null|
 |**2025-12-18**|**AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding**|Sanjoy Chowdhury et.al.|[2512.16250](http://arxiv.org/abs/2512.16250)|null|
 |**2025-12-18**|**AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints**|Aniruddha Roy et.al.|[2512.16245](http://arxiv.org/abs/2512.16245)|null|
@@ -3693,7 +3693,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
