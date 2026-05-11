@@ -250,7 +250,7 @@
 |**2026-04-30**|**In-Context Prompting Obsoletes Agent Orchestration for Procedural Tasks**|Simon Dennis et.al.|[2604.27891](http://arxiv.org/abs/2604.27891)|null|
 |**2026-04-30**|**Modeling Clinical Concern Trajectories in Language Model Agents**|Sukesh Subaharan et.al.|[2604.27872](http://arxiv.org/abs/2604.27872)|null|
 |**2026-04-30**|**TwinGate: Stateful Defense against Decompositional Jailbreaks in Untraceable Traffic via Asymmetric Contrastive Learning**|Bowen Sun et.al.|[2604.27861](http://arxiv.org/abs/2604.27861)|null|
-|**2026-04-30**|**Rethinking Agentic Reinforcement Learning In Large Language Models**|Fangming Cui et.al.|[2604.27859](http://arxiv.org/abs/2604.27859)|null|
+|**2026-04-30**|**Rethinking Agentic Reinforcement Learning In Large Language Models**|Fangming Cui et.al.|[2604.27859](http://arxiv.org/abs/2604.27859)|**[link](https://github.com/MiladInk/rethinkmarl)**|
 |**2026-04-30**|**Reasoning over Object Descriptions Improves Coreference Resolution in Task-Based Dialogue Systems**|Oier Ijurco et.al.|[2604.27850](http://arxiv.org/abs/2604.27850)|null|
 |**2026-04-30**|**Multi-Level Narrative Evaluation Outperforms Lexical Features for Mental Health**|Yuxi Ma et.al.|[2604.27846](http://arxiv.org/abs/2604.27846)|null|
 |**2026-04-30**|**ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training**|Wenxiang Lin et.al.|[2604.27844](http://arxiv.org/abs/2604.27844)|null|
@@ -949,7 +949,7 @@
 |**2026-03-25**|**Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model**|Kangxiang Xia et.al.|[2603.24144](http://arxiv.org/abs/2603.24144)|null|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
 |**2026-03-25**|**Alignment Reduces Expressed but Not Encoded Gender Bias: A Unified Framework and Study**|Nour Bouchouchi et.al.|[2603.24125](http://arxiv.org/abs/2603.24125)|null|
-|**2026-03-25**|**The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation**|Mingyi Liu et.al.|[2603.24124](http://arxiv.org/abs/2603.24124)|null|
+|**2026-03-25**|**The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation**|Mingyi Liu et.al.|[2603.24124](http://arxiv.org/abs/2603.24124)|**[link](https://github.com/DigitLion/ucbd-experiment)**|
 |**2026-03-25**|**Enhancing and Reporting Robustness Boundary of Neural Code Models for Intelligent Code Understanding**|Tingxu Han et.al.|[2603.24119](http://arxiv.org/abs/2603.24119)|null|
 |**2026-03-25**|**Towards Effective Experiential Learning: Dual Guidance for Utilization and Internalization**|Fei Bai et.al.|[2603.24093](http://arxiv.org/abs/2603.24093)|null|
 |**2026-03-25**|**LLMpedia: A Transparent Framework to Materialize an LLM's Encyclopedic Knowledge at Scale**|Muhammed Saeed et.al.|[2603.24080](http://arxiv.org/abs/2603.24080)|null|
@@ -1277,11 +1277,11 @@
 |**2026-03-10**|**Constructing a Portfolio Optimization Benchmark Framework for Evaluating Large Language Models**|Hanyong Cho et.al.|[2603.09301](http://arxiv.org/abs/2603.09301)|null|
 |**2026-03-10**|**TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA**|Mengwei Yuan et.al.|[2603.09297](http://arxiv.org/abs/2603.09297)|null|
 |**2026-03-10**|**ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization**|Shimin Di et.al.|[2603.09290](http://arxiv.org/abs/2603.09290)|null|
-|**2026-03-10**|**Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval**|Yingyi Zhang et.al.|[2603.09250](http://arxiv.org/abs/2603.09250)|null|
+|**2026-03-10**|**Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval**|Yingyi Zhang et.al.|[2603.09250](http://arxiv.org/abs/2603.09250)|**[link](https://github.com/Zhang-Yingyi/ICLR2026_RF-Mem)**|
 |**2026-03-10**|**Social-R1: Towards Human-like Social Reasoning in LLMs**|Jincenzi Wu et.al.|[2603.09249](http://arxiv.org/abs/2603.09249)|null|
 |**2026-03-10**|**Cognitively Layered Data Synthesis for Domain Adaptation of LLMs to Space Situational Awareness**|Ding Linghu et.al.|[2603.09231](http://arxiv.org/abs/2603.09231)|null|
 |**2026-03-10**|**LooComp: Leverage Leave-One-Out Strategy to Encoder-only Transformer for Efficient Query-aware Context Compression**|Thao Do et.al.|[2603.09222](http://arxiv.org/abs/2603.09222)|null|
-|**2026-03-10**|**Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control**|Peihao Wang et.al.|[2603.09221](http://arxiv.org/abs/2603.09221)|null|
+|**2026-03-10**|**Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control**|Peihao Wang et.al.|[2603.09221](http://arxiv.org/abs/2603.09221)|**[link](https://github.com/VITA-Group/TTC-Net)**|
 |**2026-03-10**|**PIM-SHERPA: Software Method for On-device LLM Inference by Resolving PIM Memory Attribute and Layout Inconsistencies**|Sunjung Lee et.al.|[2603.09216](http://arxiv.org/abs/2603.09216)|null|
 |**2026-03-10**|**SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models**|Hsiao-Ying Huang et.al.|[2603.09215](http://arxiv.org/abs/2603.09215)|null|
 |**2026-03-10**|**MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data**|Zongxia Li et.al.|[2603.09206](http://arxiv.org/abs/2603.09206)|null|
@@ -2222,8 +2222,8 @@
 |**2026-01-08**|**RelayLLM: Efficient Reasoning via Collaborative Decoding**|Chengsong Huang et.al.|[2601.05167](http://arxiv.org/abs/2601.05167)|null|
 |**2026-01-08**|**GenAI-DrawIO-Creator: A Framework for Automated Diagram Generation**|Jinze Yu et.al.|[2601.05162](http://arxiv.org/abs/2601.05162)|null|
 |**2026-01-08**|**Distilling the Thought, Watermarking the Answer: A Principle Semantic Guided Watermark for Large Reasoning Models**|Shuliang Liu et.al.|[2601.05144](http://arxiv.org/abs/2601.05144)|null|
-|**2026-01-08**|**Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior**|Wajid Nasser et.al.|[2601.05114](http://arxiv.org/abs/2601.05114)|null|
-|**2026-01-08**|**Agent-as-a-Judge**|Runyang You et.al.|[2601.05111](http://arxiv.org/abs/2601.05111)|null|
+|**2026-01-08**|**Evaluative Fingerprints: Stable and Systematic Differences in LLM Evaluator Behavior**|Wajid Nasser et.al.|[2601.05114](http://arxiv.org/abs/2601.05114)|**[link](https://github.com/wajid-nasser/evaluative-fingerprints)**|
+|**2026-01-08**|**Agent-as-a-Judge**|Runyang You et.al.|[2601.05111](http://arxiv.org/abs/2601.05111)|**[link](https://github.com/metauto-ai/agent-as-a-judge)**|
 |**2026-01-08**|**Nalar: An agent serving framework**|Marco Laju et.al.|[2601.05109](http://arxiv.org/abs/2601.05109)|null|
 |**2026-01-08**|**Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction**|Muzhao Tian et.al.|[2601.05107](http://arxiv.org/abs/2601.05107)|null|
 |**2026-01-08**|**Token-Level LLM Collaboration via FusionRoute**|Nuoya Xiong et.al.|[2601.05106](http://arxiv.org/abs/2601.05106)|null|
@@ -3044,7 +3044,7 @@
 |**2025-12-04**|**Large Speech Model Enabled Semantic Communication**|Yun Tian et.al.|[2512.04711](http://arxiv.org/abs/2512.04711)|null|
 |**2025-12-04**|**POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?**|Divyansh Pandey et.al.|[2512.04702](http://arxiv.org/abs/2512.04702)|null|
 |**2025-12-04**|**OmniScaleSR: Unleashing Scale-Controlled Diffusion Prior for Faithful and Realistic Arbitrary-Scale Image Super-Resolution**|Xinning Chai et.al.|[2512.04699](http://arxiv.org/abs/2512.04699)|null|
-|**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|null|
+|**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|**[link](https://github.com/nshkrdotcom/trinity_coordinator)**|
 |**2025-12-04**|**TimesNet-Gen: Deep Learning-based Site Specific Strong Motion Generation**|Baris Yilmaz et.al.|[2512.04694](http://arxiv.org/abs/2512.04694)|null|
 |**2025-12-04**|**Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective**|Jae Hee Lee et.al.|[2512.04691](http://arxiv.org/abs/2512.04691)|null|
 |**2025-12-04**|**Generative AI for Self-Adaptive Systems: State of the Art and Research Roadmap**|Jialong Li et.al.|[2512.04680](http://arxiv.org/abs/2512.04680)|null|

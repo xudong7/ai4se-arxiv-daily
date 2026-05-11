@@ -314,13 +314,13 @@ layout: default
 |**2026-04-23**|**MathDuels: Evaluating LLMs as Problem Posers and Solvers**|Zhiqiu Xu et.al.|[2604.21916](http://arxiv.org/abs/2604.21916)|null|
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|
 |**2026-04-23**|**Institutionalizing Best Practices in Research Computing: A Framework and Case Study for Improving User Onboarding**|Ayush Chaturvedi et.al.|[2604.21898](http://arxiv.org/abs/2604.21898)|null|
-|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|**[link](https://github.com/Arxiv-to-code/arxiv-260421896-nemobot-games-crafting-strategic-ai-gaming-agents-for-intera)**|
 |**2026-04-23**|**TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale**|Jun Wang et.al.|[2604.21889](http://arxiv.org/abs/2604.21889)|null|
 |**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
 |**2026-04-23**|**Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms**|Yuto Nishida et.al.|[2604.21882](http://arxiv.org/abs/2604.21882)|null|
 |**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
 |**2026-04-23**|**FAccT-Checked: A Narrative Review of Authority Reconfigurations and Retention in AI-Mediated Journalism**|Stefano Sorrentino et.al.|[2604.21864](http://arxiv.org/abs/2604.21864)|null|
-|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|**[link](https://github.com/Arxiv-to-code/arxiv-260421860-transient-turn-injection-exposing-stateless-multi-turn-vulne)**|
 |**2026-04-23**|**TraceScope: Interactive URL Triage via Decoupled Checklist Adjudication**|Haolin Zhang et.al.|[2604.21840](http://arxiv.org/abs/2604.21840)|null|
 |**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829](http://arxiv.org/abs/2604.21829)|null|
 |**2026-04-23**|**Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows**|Anuj Sadani et.al.|[2604.21816](http://arxiv.org/abs/2604.21816)|null|
@@ -1341,8 +1341,8 @@ layout: default
 |**2026-02-26**|**LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer**|Kunpeng Zhang et.al.|[2602.23065](http://arxiv.org/abs/2602.23065)|null|
 |**2026-02-26**|**Toward Automatic Filling of Case Report Forms: A Case Study on Data from an Italian Emergency Department**|Gabriela Anna Kaczmarek et.al.|[2602.23062](http://arxiv.org/abs/2602.23062)|null|
 |**2026-02-26**|**MoDora: Tree-Based Semi-Structured Document Analysis System**|Bangrui Xu et.al.|[2602.23061](http://arxiv.org/abs/2602.23061)|null|
-|**2026-02-26**|**CL4SE: A Context Learning Benchmark For Software Engineering Tasks**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|null|
-|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|null|
+|**2026-02-26**|**CL4SE: A Context Learning Benchmark For Software Engineering Tasks**|Haichuan Hu et.al.|[2602.23047](http://arxiv.org/abs/2602.23047)|**[link](https://github.com/Tomsawyerhu/CodeCL)**|
+|**2026-02-26**|**LLMServingSim 2.0: A Unified Simulator for Heterogeneous and Disaggregated LLM Serving Infrastructure**|Jaehong Cho et.al.|[2602.23036](http://arxiv.org/abs/2602.23036)|**[link](https://github.com/casys-kaist/LLMServingSim)**|
 |**2026-02-26**|**Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization**|Zeyuan Liu et.al.|[2602.23008](http://arxiv.org/abs/2602.23008)|null|
 |**2026-02-26**|**Managing Uncertainty in LLM-based Multi-Agent System Operation**|Man Zhang et.al.|[2602.23005](http://arxiv.org/abs/2602.23005)|null|
 |**2026-02-26**|**Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search**|Xun Huang et.al.|[2602.22983](http://arxiv.org/abs/2602.22983)|null|
@@ -2729,9 +2729,9 @@ layout: default
 |**2025-12-18**|**Introducing ORKG ASK: an AI-driven Scholarly Literature Search and Exploration System Taking a Neuro-Symbolic Approach**|Allard Oelen et.al.|[2512.16425](http://arxiv.org/abs/2512.16425)|null|
 |**2025-12-18**|**Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs**|Nguyen Xuan-Vu et.al.|[2512.16424](http://arxiv.org/abs/2512.16424)|null|
 |**2025-12-18**|**Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance**|Kaspar Rosager Ludvigsen et.al.|[2512.16419](http://arxiv.org/abs/2512.16419)|null|
-|**2025-12-18**|**BrepLLM: Native Boundary Representation Understanding with Large Language Models**|Liyuan Deng et.al.|[2512.16413](http://arxiv.org/abs/2512.16413)|null|
+|**2025-12-18**|**BrepLLM: Native Boundary Representation Understanding with Large Language Models**|Liyuan Deng et.al.|[2512.16413](http://arxiv.org/abs/2512.16413)|**[link](https://github.com/user-deng/BrepLLM)**|
 |**2025-12-18**|**Kascade: A Practical Sparse Attention Method for Long-Context LLM Inference**|Dhruv Deshmukh et.al.|[2512.16391](http://arxiv.org/abs/2512.16391)|null|
-|**2025-12-18**|**A Network Arena for Benchmarking AI Agents on Network Troubleshooting**|Zhihao Wang et.al.|[2512.16381](http://arxiv.org/abs/2512.16381)|null|
+|**2025-12-18**|**A Network Arena for Benchmarking AI Agents on Network Troubleshooting**|Zhihao Wang et.al.|[2512.16381](http://arxiv.org/abs/2512.16381)|**[link](https://github.com/sands-lab/nika)**|
 |**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|null|
 |**2025-12-18**|**Factorized Video Generation: Decoupling Scene Construction and Temporal Synthesis in Text-to-Video Diffusion Models**|Mariam Hassan et.al.|[2512.16371](http://arxiv.org/abs/2512.16371)|null|
 |**2025-12-18**|**Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation**|Yibiao Yang et.al.|[2512.16335](http://arxiv.org/abs/2512.16335)|null|
@@ -3760,7 +3760,7 @@ layout: default
 |**2025-10-23**|**RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling**|Bingjie Gao et.al.|[2510.20206](http://arxiv.org/abs/2510.20206)|null|
 |**2025-10-23**|**Merge and Conquer: Evolutionarily Optimizing AI for 2048**|Maggie Bai et.al.|[2510.20205](http://arxiv.org/abs/2510.20205)|null|
 |**2025-10-23**|**Stuck in the Matrix: Probing Spatial Reasoning in Large Language Models**|Maggie Bai et.al.|[2510.20198](http://arxiv.org/abs/2510.20198)|null|
-|**2025-10-23**|**The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI**|Marcelo Maciel Amaral et.al.|[2510.20190](http://arxiv.org/abs/2510.20190)|null|
+|**2025-10-23**|**The Lock-In Phase Hypothesis: Identity Consolidation as a Precursor to AGI**|Marcelo Maciel Amaral et.al.|[2510.20190](http://arxiv.org/abs/2510.20190)|**[link](https://github.com/gaugefreedom/persona-phase-transition)**|
 |**2025-10-23**|**TRUST: A Decentralized Framework for Auditing Large Language Model Reasoning**|Morris Yu-Chao Huang et.al.|[2510.20188](http://arxiv.org/abs/2510.20188)|null|
 |**2025-10-23**|**Every Question Has Its Own Value: Reinforcement Learning with Explicit Human Values**|Dian Yu et.al.|[2510.20187](http://arxiv.org/abs/2510.20187)|null|
 |**2025-10-23**|**Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**|Yuhang Zhou et.al.|[2510.20176](http://arxiv.org/abs/2510.20176)|null|
