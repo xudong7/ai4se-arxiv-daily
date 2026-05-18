@@ -1,4 +1,4 @@
-## Updated on 2026.05.16
+## Updated on 2026.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -476,7 +476,7 @@
 |**2026-04-23**|**A pragmatic classification of AI incident trajectories**|Isaak Mengesha et.al.|[2604.21412](http://arxiv.org/abs/2604.21412)|null|
 |**2026-04-23**|**A Task Decomposition and Planning Framework for Efficient LLM Inference in AI-Enabled WiFi-Offload Networks**|Mingqi Han et.al.|[2604.21399](http://arxiv.org/abs/2604.21399)|null|
 |**2026-04-23**|**Provably Secure Steganography Based on List Decoding**|Kaiyi Pang et.al.|[2604.21394](http://arxiv.org/abs/2604.21394)|null|
-|**2026-04-23**|**Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation**|Wang Shi Hai et.al.|[2604.21380](http://arxiv.org/abs/2604.21380)|null|
+|**2026-04-23**|**Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation**|Wang Shi Hai et.al.|[2604.21380](http://arxiv.org/abs/2604.21380)|**[link](https://github.com/ideas-labo/irap)**|
 |**2026-04-23**|**Active Inference of Extended Finite State Machine Models with Registers and Guards**|Roland Groz et.al.|[2604.21378](http://arxiv.org/abs/2604.21378)|null|
 |**2026-04-23**|**A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge**|S. A. Prieto et.al.|[2604.21377](http://arxiv.org/abs/2604.21377)|null|
 |**2026-04-23**|**VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation**|Qijun Han et.al.|[2604.21375](http://arxiv.org/abs/2604.21375)|null|
@@ -1912,13 +1912,13 @@
 |**2026-02-05**|**Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems**|Ziyuan Yang et.al.|[2602.05176](http://arxiv.org/abs/2602.05176)|**[link](https://github.com/Ziyuan-Yang/AmongUs)**|
 |**2026-02-05**|**EBPO: Empirical Bayes Shrinkage for Stabilizing Group-Relative Policy Optimization**|Kevin Han et.al.|[2602.05165](http://arxiv.org/abs/2602.05165)|null|
 |**2026-02-05**|**The Necessity of a Holistic Safety Evaluation Framework for AI-Based Automation Features**|Alireza Abbaspour et.al.|[2602.05157](http://arxiv.org/abs/2602.05157)|null|
-|**2026-01-29**|**RedSage: A Cybersecurity Generalist LLM**|Naufal Suryanto et.al.|[2601.22159](http://arxiv.org/abs/2601.22159)|null|
-|**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|null|
+|**2026-01-29**|**RedSage: A Cybersecurity Generalist LLM**|Naufal Suryanto et.al.|[2601.22159](http://arxiv.org/abs/2601.22159)|**[link](https://github.com/RISys-Lab/RedSage)**|
+|**2026-01-29**|**UEval: A Benchmark for Unified Multimodal Generation**|Bo Li et.al.|[2601.22155](http://arxiv.org/abs/2601.22155)|**[link](https://github.com/zlab-princeton/UEval)**|
 |**2026-01-29**|**DynaWeb: Model-Based Reinforcement Learning of Web Agents**|Hang Ding et.al.|[2601.22149](http://arxiv.org/abs/2601.22149)|null|
 |**2026-01-29**|**FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale**|Ajay Patel et.al.|[2601.22146](http://arxiv.org/abs/2601.22146)|null|
 |**2026-01-29**|**Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers**|Xin Chen et.al.|[2601.22139](http://arxiv.org/abs/2601.22139)|**[link](https://github.com/Chen-X666/Proactive-Interactive-R1)**|
 |**2026-01-29**|**StepShield: When, Not Whether to Intervene on Rogue Agents**|Gloria Felicia et.al.|[2601.22136](http://arxiv.org/abs/2601.22136)|null|
-|**2026-01-29**|**Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference**|Ziming Dong et.al.|[2601.22132](http://arxiv.org/abs/2601.22132)|null|
+|**2026-01-29**|**Pay for Hints, Not Answers: LLM Shepherding for Cost-Efficient Inference**|Ziming Dong et.al.|[2601.22132](http://arxiv.org/abs/2601.22132)|**[link](https://github.com/defalt-praxis/llm-shepherding-demo)**|
 |**2026-01-29**|**World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems**|Lakshya Gupta et.al.|[2601.22130](http://arxiv.org/abs/2601.22130)|**[link](https://github.com/Skyfall-Research/world-of-workflows)**|
 |**2026-01-29**|**SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents**|Yifeng Ding et.al.|[2601.22129](http://arxiv.org/abs/2601.22129)|null|
 |**2026-01-29**|**The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR**|Irsyad Adam et.al.|[2601.22128](http://arxiv.org/abs/2601.22128)|null|
@@ -2108,7 +2108,7 @@
 |**2026-01-22**|**Replicating Human Motivated Reasoning Studies with LLMs**|Neeley Pate et.al.|[2601.16130](http://arxiv.org/abs/2601.16130)|null|
 |**2026-01-23**|**Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging**|Alphaeus Dmonte et.al.|[2601.16127](http://arxiv.org/abs/2601.16127)|null|
 |**2026-01-22**|**SAMTok: Representing Any Mask with Two Words**|Yikang Zhou et.al.|[2601.16093](http://arxiv.org/abs/2601.16093)|null|
-|**2026-01-22**|**Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics**|Sukesh Subaharan et.al.|[2601.16087](http://arxiv.org/abs/2601.16087)|null|
+|**2026-01-22**|**Controlling Long-Horizon Behavior in Language Model Agents with Explicit State Dynamics**|Sukesh Subaharan et.al.|[2601.16087](http://arxiv.org/abs/2601.16087)|**[link](https://github.com/drsukeshs/agent-behavior-ext-dynamics)**|
 |**2026-01-22**|**Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design**|Oleksandr Kosenkov et.al.|[2601.16080](http://arxiv.org/abs/2601.16080)|null|
 |**2026-01-22**|**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**|Olga Bunkova et.al.|[2601.16038](http://arxiv.org/abs/2601.16038)|null|
 |**2026-01-22**|**Universal Refusal Circuits Across LLMs: Cross-Model Transfer via Trajectory Replay and Concept-Basis Reconstruction**|Tony Cristofano et.al.|[2601.16034](http://arxiv.org/abs/2601.16034)|null|
@@ -3993,7 +3993,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
