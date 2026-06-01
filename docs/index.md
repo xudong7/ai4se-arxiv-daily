@@ -213,8 +213,8 @@ layout: default
 |**2026-05-14**|**Is Grep All You Need? How Agent Harnesses Reshape Agentic Search**|Sahil Sen et.al.|[2605.15184](http://arxiv.org/abs/2605.15184)|null|
 |**2026-05-14**|**OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation**|Shang Zhou et.al.|[2605.15177](http://arxiv.org/abs/2605.15177)|null|
 |**2026-05-14**|**MetaBackdoor: Exploiting Positional Encoding as a Backdoor Attack Surface in LLMs**|Rui Wen et.al.|[2605.15172](http://arxiv.org/abs/2605.15172)|null|
-|**2026-05-14**|**MeMo: Memory as a Model**|Ryan Wei Heng Quek et.al.|[2605.15156](http://arxiv.org/abs/2605.15156)|null|
-|**2026-05-14**|**Self-Distilled Agentic Reinforcement Learning**|Zhengxi Lu et.al.|[2605.15155](http://arxiv.org/abs/2605.15155)|null|
+|**2026-05-14**|**MeMo: Memory as a Model**|Ryan Wei Heng Quek et.al.|[2605.15156](http://arxiv.org/abs/2605.15156)|**[link](https://github.com/arunv3rma/MeMo)**|
+|**2026-05-14**|**Self-Distilled Agentic Reinforcement Learning**|Zhengxi Lu et.al.|[2605.15155](http://arxiv.org/abs/2605.15155)|**[link](https://github.com/ZJU-REAL/SDAR)**|
 |**2026-05-14**|**Widening the Gap: Exploiting LLM Quantization via Outlier Injection**|Xiaohua Zhan et.al.|[2605.15152](http://arxiv.org/abs/2605.15152)|null|
 |**2026-05-14**|**APWA: A Distributed Architecture for Parallelizable Agentic Workflows**|Evan Rose et.al.|[2605.15132](http://arxiv.org/abs/2605.15132)|null|
 |**2026-05-14**|**Talk is (Not) Cheap: A Taxonomy and Benchmark Coverage Audit for LLM Attacks**|Karthik Raghu Iyer et.al.|[2605.15118](http://arxiv.org/abs/2605.15118)|null|
@@ -1082,7 +1082,7 @@ layout: default
 |**2026-04-03**|**Beyond the AI Tutor: Social Learning with LLM Agents**|Harsh Kumar et.al.|[2604.02677](http://arxiv.org/abs/2604.02677)|null|
 |**2026-04-03**|**Do Agent Societies Develop Intellectual Elites? The Hidden Power Laws of Collective Cognition in LLM Multi-Agent Systems**|Kavana Venkatesh et.al.|[2604.02674](http://arxiv.org/abs/2604.02674)|null|
 |**2026-04-03**|**Redirected, Not Removed: Task-Dependent Stereotyping Reveals the Limits of LLM Alignments**|Divyanshu Kumar et.al.|[2604.02669](http://arxiv.org/abs/2604.02669)|null|
-|**2026-04-03**|**Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems**|Vira Kasprova et.al.|[2604.02668](http://arxiv.org/abs/2604.02668)|null|
+|**2026-04-03**|**Too Polite to Disagree: Understanding Sycophancy Propagation in Multi-Agent Systems**|Vira Kasprova et.al.|[2604.02668](http://arxiv.org/abs/2604.02668)|**[link](https://github.com/0awesomeapples-dev/multiagent-discussion-sycophancy)**|
 |**2026-04-03**|**Let's Have a Conversation: Designing and Evaluating LLM Agents for Interactive Optimization**|Joshua Drossman et.al.|[2604.02666](http://arxiv.org/abs/2604.02666)|null|
 |**2026-04-03**|**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**|Yunbo Lyu et.al.|[2604.02665](http://arxiv.org/abs/2604.02665)|null|
 |**2026-04-03**|**SocioEval: A Template-Based Framework for Evaluating Socioeconomic Status Bias in Foundation Models**|Divyanshu Kumar et.al.|[2604.02660](http://arxiv.org/abs/2604.02660)|null|
@@ -1743,7 +1743,7 @@ layout: default
 |**2026-02-25**|**PPCR-IM: A System for Multi-layer DAG-based Public Policy Consequence Reasoning and Social Indicator Mapping**|Zichen Song et.al.|[2602.21650](http://arxiv.org/abs/2602.21650)|null|
 |**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-25**|**Uncertainty Modeling for SysML v2**|Man Zhang et.al.|[2602.21641](http://arxiv.org/abs/2602.21641)|null|
-|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|null|
+|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|**[link](https://github.com/AnqiLeee/SCORE-EVAL)**|
 |**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
 |**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
 |**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
@@ -2469,10 +2469,10 @@ layout: default
 |**2026-01-15**|**HUMANLLM: Benchmarking and Reinforcing LLM Anthropomorphism via Human Cognitive Patterns**|Xintao Wang et.al.|[2601.10198](http://arxiv.org/abs/2601.10198)|null|
 |**2026-01-15**|**Autonomous Quantum Simulation through Large Language Model Agents**|Weitang Li et.al.|[2601.10194](http://arxiv.org/abs/2601.10194)|null|
 |**2026-01-15**|**GFM4GA: Graph Foundation Model for Group Anomaly Detection**|Jiujiu Chen et.al.|[2601.10193](http://arxiv.org/abs/2601.10193)|null|
-|**2026-01-15**|**HOMURA: Taming the Sand-Glass for Time-Constrained LLM Translation via Reinforcement Learning**|Ziang Cui et.al.|[2601.10187](http://arxiv.org/abs/2601.10187)|null|
-|**2026-01-15**|**ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack**|Hao Li et.al.|[2601.10173](http://arxiv.org/abs/2601.10173)|null|
+|**2026-01-15**|**HOMURA: Taming the Sand-Glass for Time-Constrained LLM Translation via Reinforcement Learning**|Ziang Cui et.al.|[2601.10187](http://arxiv.org/abs/2601.10187)|**[link](https://github.com/InvokerStark/HOMURA)**|
+|**2026-01-15**|**ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack**|Hao Li et.al.|[2601.10173](http://arxiv.org/abs/2601.10173)|**[link](https://github.com/leolee99/ReasAlign)**|
 |**2026-01-15**|**Towards Online Malware Detection using Process Resource Utilization Metrics**|Themistoklis Diamantopoulos et.al.|[2601.10164](http://arxiv.org/abs/2601.10164)|null|
-|**2026-01-15**|**AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers**|Prachuryya Kaushik et.al.|[2601.10161](http://arxiv.org/abs/2601.10161)|null|
+|**2026-01-15**|**AWED-FiNER: Agents, Web applications, and Expert Detectors for Fine-grained Named Entity Recognition across 36 Languages for 6.6 Billion Speakers**|Prachuryya Kaushik et.al.|[2601.10161](http://arxiv.org/abs/2601.10161)|**[link](https://github.com/AWED-FiNER/awed-finer.github.io)**|
 |**2026-01-15**|**Alignment Pretraining: AI Discourse Causes Self-Fulfilling (Mis)alignment**|Cameron Tice et.al.|[2601.10160](http://arxiv.org/abs/2601.10160)|null|
 |**2026-01-15**|**What Gets Activated: Uncovering Domain and Driver Experts in MoE Language Models**|Guimin Hu et.al.|[2601.10159](http://arxiv.org/abs/2601.10159)|null|
 |**2026-01-15**|**ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback**|Yutao Mou et.al.|[2601.10156](http://arxiv.org/abs/2601.10156)|**[link](https://github.com/MurrayTom/ToolSafe)**|
@@ -3098,7 +3098,7 @@ layout: default
 |**2025-12-12**|**From Verification Burden to Trusted Collaboration: Design Goals for LLM-Assisted Literature Reviews**|Brenda Nogueira et.al.|[2512.11661](http://arxiv.org/abs/2512.11661)|null|
 |**2025-12-12**|**LLM tools in the prediction of the stability of perovskite solar cells**|S. Frenkel et.al.|[2512.11615](http://arxiv.org/abs/2512.11615)|null|
 |**2025-12-12**|**Bounding Hallucinations: Information-Theoretic Guarantees for RAG Systems via Merlin-Arthur Protocols**|Björn Deiseroth et.al.|[2512.11614](http://arxiv.org/abs/2512.11614)|null|
-|**2025-12-12**|**A Study of Library Usage in Agent-Authored Pull Requests**|Lukas Twist et.al.|[2512.11589](http://arxiv.org/abs/2512.11589)|null|
+|**2025-12-12**|**A Study of Library Usage in Agent-Authored Pull Requests**|Lukas Twist et.al.|[2512.11589](http://arxiv.org/abs/2512.11589)|**[link](https://github.com/itsluketwist/agent-library-usage)**|
 |**2025-12-12**|**Visualizing token importance for black-box language models**|Paulius Rauba et.al.|[2512.11573](http://arxiv.org/abs/2512.11573)|null|
 |**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
 |**2025-12-12**|**AI-MASLD Metabolic Dysfunction and Information Steatosis of Large Language Models in Unstructured Clinical Narratives**|Yuan Shen et.al.|[2512.11544](http://arxiv.org/abs/2512.11544)|null|
@@ -3961,12 +3961,12 @@ layout: default
 |**2025-10-29**|**KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA**|Zhuo Chen et.al.|[2510.25101](http://arxiv.org/abs/2510.25101)|null|
 |**2025-10-29**|**Continual Low-Rank Adapters for LLM-based Generative Recommender Systems**|Hyunsik Yoo et.al.|[2510.25093](http://arxiv.org/abs/2510.25093)|null|
 |**2025-10-29**|**SeeingEye: Agentic Information Flow Unlocks Multimodal Reasoning In Text-only LLMs**|Weijia Zhang et.al.|[2510.25092](http://arxiv.org/abs/2510.25092)|null|
-|**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|null|
+|**2025-10-29**|**H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**|Peilin Tan et.al.|[2510.25091](http://arxiv.org/abs/2510.25091)|**[link](https://github.com/PeilinTime/H3M-SSMoEs)**|
 |**2025-10-29**|**BioCoref: Benchmarking Biomedical Coreference Resolution with LLMs**|Nourah M Salem et.al.|[2510.25087](http://arxiv.org/abs/2510.25087)|null|
 |**2025-10-29**|**Can LLMs Estimate Cognitive Complexity of Reading Comprehension Items?**|Seonjeong Hwang et.al.|[2510.25064](http://arxiv.org/abs/2510.25064)|null|
 |**2025-10-29**|**Same Same But Different: Preventing Refactoring Attacks on Software Plagiarism Detection**|Robin Maisch et.al.|[2510.25057](http://arxiv.org/abs/2510.25057)|null|
-|**2025-10-29**|**GAPMAP: Mapping Scientific Knowledge Gaps in Biomedical Literature Using Large Language Models**|Nourah M Salem et.al.|[2510.25055](http://arxiv.org/abs/2510.25055)|null|
-|**2025-10-28**|**Automating Benchmark Design**|Amanda Dsouza et.al.|[2510.25039](http://arxiv.org/abs/2510.25039)|null|
+|**2025-10-29**|**GAPMAP: Mapping Scientific Knowledge Gaps in Biomedical Literature Using Large Language Models**|Nourah M Salem et.al.|[2510.25055](http://arxiv.org/abs/2510.25055)|**[link](https://github.com/lhunter-lab/GAPMAP)**|
+|**2025-10-28**|**Automating Benchmark Design**|Amanda Dsouza et.al.|[2510.25039](http://arxiv.org/abs/2510.25039)|**[link](https://github.com/MorganCThomas/MolScore)**|
 |**2025-10-28**|**Secure Retrieval-Augmented Generation against Poisoning Attacks**|Zirui Cheng et.al.|[2510.25025](http://arxiv.org/abs/2510.25025)|null|
 |**2025-10-28**|**StorageXTuner: An LLM Agent-Driven Automatic Tuning Framework for Heterogeneous Storage Systems**|Qi Lin et.al.|[2510.25017](http://arxiv.org/abs/2510.25017)|null|
 |**2025-10-28**|**Towards Human-AI Synergy in Requirements Engineering: A Framework and Preliminary Study**|Mateen Ahmed Abbasi et.al.|[2510.25016](http://arxiv.org/abs/2510.25016)|null|

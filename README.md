@@ -457,7 +457,7 @@
 |**2026-05-05**|**Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts**|Xing Zhang et.al.|[2605.03697](http://arxiv.org/abs/2605.03697)|null|
 |**2026-05-05**|**Deep Graph-Language Fusion for Structure-Aware Code Generation**|Mert Tiftikci et.al.|[2605.03689](http://arxiv.org/abs/2605.03689)|null|
 |**2026-05-05**|**From Code to Prediction: Fine-Tuning LLMs for Neural Network Performance Classification in NNGPT**|Mahmoud Hanouneh et.al.|[2605.03686](http://arxiv.org/abs/2605.03686)|null|
-|**2026-05-05**|**Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe**|Wenjin Hou et.al.|[2605.03677](http://arxiv.org/abs/2605.03677)|null|
+|**2026-05-05**|**Uni-OPD: Unifying On-Policy Distillation with a Dual-Perspective Recipe**|Wenjin Hou et.al.|[2605.03677](http://arxiv.org/abs/2605.03677)|**[link](https://github.com/WenjinHou/Uni-OPD)**|
 |**2026-05-05**|**Geographic Variation in Stack Overflow Code Quality: Evidence from a Cross-Regional Study of Coding Practices**|Elijah Zolduoarrati et.al.|[2605.03670](http://arxiv.org/abs/2605.03670)|null|
 |**2026-05-05**|**ELAS: Efficient Pre-Training of Low-Rank Large Language Models via 2:4 Activation Sparsity**|Jiaxi Li et.al.|[2605.03667](http://arxiv.org/abs/2605.03667)|null|
 |**2026-05-05**|**AdapShot: Adaptive Many-Shot In-Context Learning with Semantic-Aware KV Cache Reuse**|Jie Ou et.al.|[2605.03644](http://arxiv.org/abs/2605.03644)|null|
@@ -1130,7 +1130,7 @@
 |**2026-03-30**|**IsoQuant: Hardware-Aligned SO(4) Isoclinic Rotations for LLM KV Cache Compression**|Zhongping Ji et.al.|[2603.28430](http://arxiv.org/abs/2603.28430)|null|
 |**2026-03-30**|**Within the MDT Room: Situated in Multidisciplinary Team-Grounded Agent Debate for Clinical Diagnosis**|Peng Kuai et.al.|[2603.28393](http://arxiv.org/abs/2603.28393)|null|
 |**2026-03-30**|**COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game**|Alkis Sygkounas et.al.|[2603.28386](http://arxiv.org/abs/2603.28386)|null|
-|**2026-03-30**|**Using Games to Learn How Large Language Models Work**|Allison Chen et.al.|[2603.28374](http://arxiv.org/abs/2603.28374)|null|
+|**2026-03-30**|**Using Games to Learn How Large Language Models Work**|Allison Chen et.al.|[2603.28374](http://arxiv.org/abs/2603.28374)|**[link](https://github.com/jettbrains/-L-)**|
 |**2026-03-30**|**Coherent Without Grounding, Grounded Without Success: Observability and Epistemic Failure**|Camilo Chacón Sartori et.al.|[2603.28371](http://arxiv.org/abs/2603.28371)|null|
 |**2026-03-30**|**Deep Research of Deep Research: From Transformer to Agent, From AI to AI for Science**|Yipeng Yu et.al.|[2603.28361](http://arxiv.org/abs/2603.28361)|null|
 |**2026-03-30**|**CoE: Collaborative Entropy for Uncertainty Quantification in Agentic Multi-LLM Systems**|Kangkang Sun et.al.|[2603.28360](http://arxiv.org/abs/2603.28360)|null|
@@ -1997,7 +1997,7 @@
 |**2026-02-09**|**CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective**|Yichen Wu et.al.|[2602.09159](http://arxiv.org/abs/2602.09159)|null|
 |**2026-02-09**|**What do Geometric Hallucination Detection Metrics Actually Measure?**|Eric Yeats et.al.|[2602.09158](http://arxiv.org/abs/2602.09158)|null|
 |**2026-02-09**|**Overview of PAN 2026: Voight-Kampff Generative AI Detection, Text Watermarking, Multi-Author Writing Style Analysis, Generative Plagiarism Detection, and Reasoning Trajectory Detection**|Janek Bevendorff et.al.|[2602.09147](http://arxiv.org/abs/2602.09147)|null|
-|**2026-02-09**|**PABU: Progress-Aware Belief Update for Efficient LLM Agents**|Haitao Jiang et.al.|[2602.09138](http://arxiv.org/abs/2602.09138)|null|
+|**2026-02-09**|**PABU: Progress-Aware Belief Update for Efficient LLM Agents**|Haitao Jiang et.al.|[2602.09138](http://arxiv.org/abs/2602.09138)|**[link](https://github.com/Hunter-Jiang/Progress-Aware-Belief-Update)**|
 |**2026-02-09**|**UniComp: A Unified Evaluation of Large Language Model Compression via Pruning, Quantization and Distillation**|Jonathan von Rad et.al.|[2602.09130](http://arxiv.org/abs/2602.09130)|null|
 |**2026-02-09**|**Benchmarking the Energy Savings with Speculative Decoding Strategies**|Rohit Dutta et.al.|[2602.09113](http://arxiv.org/abs/2602.09113)|null|
 |**2026-02-09**|**A Small-Scale System for Autoregressive Program Synthesis Enabling Controlled Experimentation**|Russ Webb et.al.|[2602.09112](http://arxiv.org/abs/2602.09112)|null|
@@ -2643,7 +2643,7 @@
 |**2026-01-01**|**A Chain-of-Thought Approach to Semantic Query Categorization in e-Commerce Taxonomies**|Jetlir Duraj et.al.|[2601.00510](http://arxiv.org/abs/2601.00510)|null|
 |**2026-01-01**|**Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback**|Vidyut Sriram et.al.|[2601.00509](http://arxiv.org/abs/2601.00509)|null|
 |**2026-01-01**|**CPPO: Contrastive Perception for Vision Language Policy Optimization**|Ahmad Rezaei et.al.|[2601.00501](http://arxiv.org/abs/2601.00501)|null|
-|**2026-01-01**|**STELLAR: A Search-Based Testing Framework for Large Language Model Applications**|Lev Sorokin et.al.|[2601.00497](http://arxiv.org/abs/2601.00497)|null|
+|**2026-01-01**|**STELLAR: A Search-Based Testing Framework for Large Language Model Applications**|Lev Sorokin et.al.|[2601.00497](http://arxiv.org/abs/2601.00497)|**[link](https://github.com/ast-fortiss-tum/STELLAR)**|
 |**2026-01-01**|**Multi-Agent Coordinated Rename Refactoring**|Abhiram Bellur et.al.|[2601.00482](http://arxiv.org/abs/2601.00482)|null|
 |**2026-01-01**|**MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability**|Tie Ma et.al.|[2601.00481](http://arxiv.org/abs/2601.00481)|null|
 |**2026-01-01**|**Security in the Age of AI Teammates: An Empirical Study of Agentic Pull Requests on GitHub**|Mohammed Latif Siddiq et.al.|[2601.00477](http://arxiv.org/abs/2601.00477)|null|
@@ -3477,7 +3477,7 @@
 |**2025-11-27**|**When Are Reactive Notebooks Not Reactive?**|Megan Zheng et.al.|[2511.21994](http://arxiv.org/abs/2511.21994)|null|
 |**2025-11-27**|**A Safety and Security Framework for Real-World Agentic Systems**|Shaona Ghosh et.al.|[2511.21990](http://arxiv.org/abs/2511.21990)|null|
 |**2025-11-27**|**Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation**|Nachiket Subbaraman et.al.|[2511.21989](http://arxiv.org/abs/2511.21989)|null|
-|**2025-11-26**|**DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models**|Futian Wang et.al.|[2511.21982](http://arxiv.org/abs/2511.21982)|null|
+|**2025-11-26**|**DialBench: Towards Accurate Reading Recognition of Pointer Meter using Large Foundation Models**|Futian Wang et.al.|[2511.21982](http://arxiv.org/abs/2511.21982)|**[link](https://github.com/Event-AHU/DialBench)**|
 |**2025-11-26**|**PAT3D: Physics-Augmented Text-to-3D Scene Generation**|Guying Lin et.al.|[2511.21978](http://arxiv.org/abs/2511.21978)|null|
 |**2025-11-26**|**DRS-OSS: LLM-Driven Diff Risk Scoring Tool for PR Risk Prediction**|Ali Sayedsalehi et.al.|[2511.21964](http://arxiv.org/abs/2511.21964)|null|
 |**2025-11-26**|**Beyond Like-for-Like: A User-centered Approach to Modernizing Legacy Applications**|M. Polzin et.al.|[2511.21956](http://arxiv.org/abs/2511.21956)|null|
