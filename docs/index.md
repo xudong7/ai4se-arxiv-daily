@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.01
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -315,12 +315,12 @@ layout: default
 |**2026-05-08**|**Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning**|Manish Bhattarai et.al.|[2605.08061](http://arxiv.org/abs/2605.08061)|null|
 |**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060](http://arxiv.org/abs/2605.08060)|null|
 |**2026-05-08**|**CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation**|James Petullo et.al.|[2605.08057](http://arxiv.org/abs/2605.08057)|null|
-|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|null|
-|**2026-05-08**|**Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs**|Yi Yu et.al.|[2605.08045](http://arxiv.org/abs/2605.08045)|null|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|**[link](https://github.com/HanchaoLiu/RG-DNO)**|
+|**2026-05-08**|**Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs**|Yi Yu et.al.|[2605.08045](http://arxiv.org/abs/2605.08045)|**[link](https://github.com/yuyi1005/CMR-EXTR)**|
 |**2026-05-08**|**ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education**|Yizhou Zhou et.al.|[2605.08040](http://arxiv.org/abs/2605.08040)|null|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
 |**2026-05-08**|**Collaborator or Assistnat? How AI Coding Agents Partition Work Across Pull Request Lifecycles**|Young Jo et.al.|[2605.08017](http://arxiv.org/abs/2605.08017)|null|
-|**2026-05-08**|**Abductive Reasoning with Probabilistic Commonsense**|Joseph Cotnareanu et.al.|[2605.08011](http://arxiv.org/abs/2605.08011)|null|
+|**2026-05-08**|**Abductive Reasoning with Probabilistic Commonsense**|Joseph Cotnareanu et.al.|[2605.08011](http://arxiv.org/abs/2605.08011)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2026-05-08**|**Tool Calling is Linearly Readable and Steerable in Language Models**|Zekun Wu et.al.|[2605.07990](http://arxiv.org/abs/2605.07990)|null|
 |**2026-05-08**|**Towards Apples to Apples for AI Evaluations: From Real-World Use Cases to Evaluation Scenarios**|Yee-Yin Choong et.al.|[2605.07986](http://arxiv.org/abs/2605.07986)|null|
 |**2026-05-08**|**Dooly: Configuration-Agnostic, Redundancy-Aware Profiling for LLM Inference Simulation**|Joon Ha Kim et.al.|[2605.07985](http://arxiv.org/abs/2605.07985)|null|
@@ -1362,10 +1362,10 @@ layout: default
 |**2026-03-19**|**Automatic Configuration of LLM Post-Training Pipelines**|Channe Chwa et.al.|[2603.18773](http://arxiv.org/abs/2603.18773)|null|
 |**2026-03-19**|**Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks**|Rudra Jadhav et.al.|[2603.18765](http://arxiv.org/abs/2603.18765)|null|
 |**2026-03-19**|**Are complicated loss functions necessary for teaching LLMs to reason?**|Gabriele Carrino et.al.|[2603.18756](http://arxiv.org/abs/2603.18756)|null|
-|**2026-03-19**|**Memento-Skills: Let Agents Design Agents**|Huichi Zhou et.al.|[2603.18743](http://arxiv.org/abs/2603.18743)|null|
+|**2026-03-19**|**Memento-Skills: Let Agents Design Agents**|Huichi Zhou et.al.|[2603.18743](http://arxiv.org/abs/2603.18743)|**[link](https://github.com/Memento-Teams/Memento-Skills)**|
 |**2026-03-19**|**Beyond the Code: A Multi-Modal Assessment Strategy for Fostering Professional Competencies via Introductory Programming Projects**|Santiago Berrezueta-Guzman et.al.|[2603.18741](http://arxiv.org/abs/2603.18741)|null|
 |**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|
-|**2026-03-19**|**CausalRM: Causal-Theoretic Reward Modeling for RLHF from Observational User Feedbacks**|Hao Wang et.al.|[2603.18736](http://arxiv.org/abs/2603.18736)|null|
+|**2026-03-19**|**CausalRM: Causal-Theoretic Reward Modeling for RLHF from Observational User Feedbacks**|Hao Wang et.al.|[2603.18736](http://arxiv.org/abs/2603.18736)|**[link](https://github.com/Master-PLC/CausalRM)**|
 |**2026-03-19**|**SpaceTime Programming: Live and Omniscient Exploration of Code and Execution**|Jean-Baptiste Döderlein et.al.|[2603.18735](http://arxiv.org/abs/2603.18735)|null|
 |**2026-03-19**|**Green Architectural Tactics in ML-enabled Systems: An LLM-based Repository Mining Study**|Vincenzo De Martino et.al.|[2603.18734](http://arxiv.org/abs/2603.18734)|null|
 |**2026-03-19**|**Analysis Of Linguistic Stereotypes in Single and Multi-Agent Generative AI Architectures**|Martina Ullasci et.al.|[2603.18729](http://arxiv.org/abs/2603.18729)|null|
@@ -1533,8 +1533,8 @@ layout: default
 |**2026-03-10**|**AutoAgent: Evolving Cognition and Elastic Memory Orchestration for Adaptive Agents**|Xiaoxing Wang et.al.|[2603.09716](http://arxiv.org/abs/2603.09716)|null|
 |**2026-03-10**|**Evaluation of LLMs in retrieving food and nutritional context for RAG systems**|Maks Požarnik Vavken et.al.|[2603.09704](http://arxiv.org/abs/2603.09704)|null|
 |**2026-03-10**|**An Empirical Study of Interaction Smells in Multi-Turn Human-LLM Collaborative Code Generation**|Binquan Zhang et.al.|[2603.09701](http://arxiv.org/abs/2603.09701)|null|
-|**2026-03-10**|**ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning**|Davit Melikidze et.al.|[2603.09692](http://arxiv.org/abs/2603.09692)|null|
-|**2026-03-10**|**ESAinsTOD: A Unified End-to-End Schema-Aware Instruction-Tuning Framework for Task-Oriented Dialog Modeling**|Dechuan Teng et.al.|[2603.09691](http://arxiv.org/abs/2603.09691)|null|
+|**2026-03-10**|**ActiveUltraFeedback: Efficient Preference Data Generation using Active Learning**|Davit Melikidze et.al.|[2603.09692](http://arxiv.org/abs/2603.09692)|**[link](https://github.com/lasgroup/ActiveUltraFeedback)**|
+|**2026-03-10**|**ESAinsTOD: A Unified End-to-End Schema-Aware Instruction-Tuning Framework for Task-Oriented Dialog Modeling**|Dechuan Teng et.al.|[2603.09691](http://arxiv.org/abs/2603.09691)|**[link](https://github.com/AaronTengDeChuan/ESAinsTOD)**|
 |**2026-03-10**|**Automatic Cardiac Risk Management Classification using large-context Electronic Patients Health Records**|Jacopo Vitale et.al.|[2603.09685](http://arxiv.org/abs/2603.09685)|null|
 |**2026-03-10**|**EsoLang-Bench: Evaluating Genuine Reasoning in Large Language Models via Esoteric Programming Languages**|Aman Sharma et.al.|[2603.09678](http://arxiv.org/abs/2603.09678)|null|
 |**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
@@ -2224,7 +2224,7 @@ layout: default
 |**2026-01-23**|**AI builds, We Analyze: An Empirical Study of AI-Generated Build Code Quality**|Anwar Ghammam et.al.|[2601.16839](http://arxiv.org/abs/2601.16839)|null|
 |**2026-01-23**|**Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency**|Rongjun Ma et.al.|[2601.16824](http://arxiv.org/abs/2601.16824)|null|
 |**2026-01-23**|**Trapped in the past? Disentangling fluid and crystallized intelligence of large language models using chess**|Leonard S. Pleiss et.al.|[2601.16823](http://arxiv.org/abs/2601.16823)|null|
-|**2026-01-23**|**Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source**|Musfiqur Rahman et.al.|[2601.16809](http://arxiv.org/abs/2601.16809)|null|
+|**2026-01-23**|**Will It Survive? Deciphering the Fate of AI-Generated Code in Open Source**|Musfiqur Rahman et.al.|[2601.16809](http://arxiv.org/abs/2601.16809)|**[link](https://github.com/mrsumitbd/agentic-code-survival_replication_package)**|
 |**2026-01-23**|**Large Language Models as Automatic Annotators and Annotation Adjudicators for Fine-Grained Opinion Analysis**|Gaurav Negi et.al.|[2601.16800](http://arxiv.org/abs/2601.16800)|null|
 |**2026-01-23**|**Persuasion Tokens for Editing Factual Knowledge in LLMs**|Paul Youssef et.al.|[2601.16781](http://arxiv.org/abs/2601.16781)|null|
 |**2026-01-23**|**Investigating Retargetability Claims for Quantum Compilers**|Luke Southall et.al.|[2601.16779](http://arxiv.org/abs/2601.16779)|null|
@@ -3874,14 +3874,14 @@ layout: default
 |**2025-10-30**|**Exploring Dissatisfaction in Bus Route Reduction through LLM-Calibrated Agent-Based Modeling**|Qiumeng Li et.al.|[2510.26163](http://arxiv.org/abs/2510.26163)|null|
 |**2025-10-30**|**The FM Agent**|Annan Li et.al.|[2510.26144](http://arxiv.org/abs/2510.26144)|**[link](https://github.com/cirosantilli/china-dictatorship)**|
 |**2025-10-30**|**Reasoning Curriculum: Bootstrapping Broad LLM Reasoning from Math**|Bo Pang et.al.|[2510.26143](http://arxiv.org/abs/2510.26143)|null|
-|**2025-10-30**|**Kinodynamic Task and Motion Planning using VLM-guided and Interleaved Sampling**|Minseo Kwon et.al.|[2510.26139](http://arxiv.org/abs/2510.26139)|null|
+|**2025-10-30**|**Kinodynamic Task and Motion Planning using VLM-guided and Interleaved Sampling**|Minseo Kwon et.al.|[2510.26139](http://arxiv.org/abs/2510.26139)|**[link](https://github.com/Minseo10/VLM-KTAMP)**|
 |**2025-10-30**|**Beyond Benchmarks: The Economics of AI Inference**|Boqin Zhuang et.al.|[2510.26136](http://arxiv.org/abs/2510.26136)|null|
 |**2025-10-30**|**Beyond Synthetic Benchmarks: Evaluating LLM Performance on Real-World Class-Level Code Generation**|Musfiqur Rahman et.al.|[2510.26130](http://arxiv.org/abs/2510.26130)|null|
 |**2025-10-30**|**On the Influence of Discourse Relations in Persuasive Texts**|Nawar Turk et.al.|[2510.26124](http://arxiv.org/abs/2510.26124)|null|
-|**2025-10-30**|**Reasoning Path Divergence: A New Metric and Curation Strategy to Unlock LLM Diverse Thinking**|Feng Ju et.al.|[2510.26122](http://arxiv.org/abs/2510.26122)|null|
-|**2025-10-30**|**OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research**|Caoshuo Li et.al.|[2510.26114](http://arxiv.org/abs/2510.26114)|null|
-|**2025-10-30**|**EgoExo-Con: Exploring View-Invariant Video Temporal Understanding**|Minjoon Jung et.al.|[2510.26113](http://arxiv.org/abs/2510.26113)|null|
-|**2025-10-30**|**Do Not Step Into the Same River Twice: Learning to Reason from Trial and Error**|Chenming Tang et.al.|[2510.26109](http://arxiv.org/abs/2510.26109)|null|
+|**2025-10-30**|**Reasoning Path Divergence: A New Metric and Curation Strategy to Unlock LLM Diverse Thinking**|Feng Ju et.al.|[2510.26122](http://arxiv.org/abs/2510.26122)|**[link](https://github.com/fengjujf/Reasoning-Path-Divergence)**|
+|**2025-10-30**|**OracleAgent: A Multimodal Reasoning Agent for Oracle Bone Script Research**|Caoshuo Li et.al.|[2510.26114](http://arxiv.org/abs/2510.26114)|**[link](https://github.com/lcs0215/OralceAgent)**|
+|**2025-10-30**|**EgoExo-Con: Exploring View-Invariant Video Temporal Understanding**|Minjoon Jung et.al.|[2510.26113](http://arxiv.org/abs/2510.26113)|**[link](https://github.com/minjoong507/EgoExo-Con)**|
+|**2025-10-30**|**Do Not Step Into the Same River Twice: Learning to Reason from Trial and Error**|Chenming Tang et.al.|[2510.26109](http://arxiv.org/abs/2510.26109)|**[link](https://github.com/JamyDon/LTE)**|
 |**2025-10-30**|**QCoder Benchmark: Bridging Language Generation and Quantum Hardware through Simulator-Based Feedback**|Taku Mikuriya et.al.|[2510.26101](http://arxiv.org/abs/2510.26101)|null|
 |**2025-10-30**|**ALMGuard: Safety Shortcuts and Where to Find Them as Guardrails for Audio-Language Models**|Weifei Jin et.al.|[2510.26096](http://arxiv.org/abs/2510.26096)|null|
 |**2025-10-30**|**ORBIT -- Open Recommendation Benchmark for Reproducible Research with Hidden Tests**|Jingyuan He et.al.|[2510.26095](http://arxiv.org/abs/2510.26095)|null|

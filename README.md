@@ -1,4 +1,4 @@
-## Updated on 2026.06.01
+## Updated on 2026.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1176,7 +1176,7 @@
 |**2026-03-30**|**EnsemJudge: Enhancing Reliability in Chinese LLM-Generated Text Detection through Diverse Model Ensembles**|Zhuoshang Wang et.al.|[2603.27949](http://arxiv.org/abs/2603.27949)|null|
 |**2026-03-30**|**MGDIL: Multi-Granularity Summarization and Domain-Invariant Learning for Cross-Domain Social Bot Detection**|Boyu Qiao et.al.|[2603.27928](http://arxiv.org/abs/2603.27928)|null|
 |**2026-03-30**|**ITQ3_S: High-Fidelity 3-bit LLM Inference via Interleaved Ternary Quantization with Rotation-Domain Smoothing**|Edward J. Yoon et.al.|[2603.27914](http://arxiv.org/abs/2603.27914)|null|
-|**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|null|
+|**2026-03-29**|**GAAMA: Graph Augmented Associative Memory for Agents**|Swarna Kamal Paul et.al.|[2603.27910](http://arxiv.org/abs/2603.27910)|**[link](https://github.com/swarna-kpaul/gaama)**|
 |**2026-03-29**|**ATLAS-RTC: Closing the Loop on LLM Agent Output with Token-Level Runtime Control**|Christopher Cruz et.al.|[2603.27905](http://arxiv.org/abs/2603.27905)|null|
 |**2026-03-29**|**Large Language Models in Game Development: Implications for Gameplay, Playability, and Player Experience**|Keeryn Johnson et.al.|[2603.27896](http://arxiv.org/abs/2603.27896)|null|
 |**2026-03-29**|**Fairness Across Fields: Comparing Software Engineering and Human Sciences Perspectives**|Lucas Valenca et.al.|[2603.27895](http://arxiv.org/abs/2603.27895)|null|
@@ -1185,7 +1185,7 @@
 |**2026-03-29**|**EffiSkill: Agent Skill Based Automated Code Efficiency Optimization**|Zimu Wang et.al.|[2603.27850](http://arxiv.org/abs/2603.27850)|null|
 |**2026-03-29**|**Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3**|Natapong Nitarach et.al.|[2603.27844](http://arxiv.org/abs/2603.27844)|null|
 |**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|
-|**2026-03-29**|**Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**|Zhiwen You et.al.|[2603.27820](http://arxiv.org/abs/2603.27820)|null|
+|**2026-03-29**|**Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**|Zhiwen You et.al.|[2603.27820](http://arxiv.org/abs/2603.27820)|**[link](https://github.com/FAIRHealth/clinical-counterfactual-reasoning)**|
 |**2026-03-29**|**KVSculpt: KV Cache Compression as Distillation**|Bo Jiang et.al.|[2603.27819](http://arxiv.org/abs/2603.27819)|null|
 |**2026-03-29**|**Conversational Agents and the Understanding of Human Language: Reflections on AI, LLMs, and Cognitive Science**|Andrei Popescu-Belis et.al.|[2603.27809](http://arxiv.org/abs/2603.27809)|null|
 |**2026-03-29**|**Understanding Teacher Revisions of Large Language Model-Generated Feedback**|Conrad Borchers et.al.|[2603.27806](http://arxiv.org/abs/2603.27806)|null|
@@ -1834,7 +1834,7 @@
 |**2026-02-13**|**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**|Yujiong Shen et.al.|[2602.12984](http://arxiv.org/abs/2602.12984)|null|
 |**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|null|
 |**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
-|**2026-02-13**|**ProbeLLM: Automating Principled Diagnosis of LLM Failures**|Yue Huang et.al.|[2602.12966](http://arxiv.org/abs/2602.12966)|null|
+|**2026-02-13**|**ProbeLLM: Automating Principled Diagnosis of LLM Failures**|Yue Huang et.al.|[2602.12966](http://arxiv.org/abs/2602.12966)|**[link](https://github.com/HowieHwong/ProbeLLM)**|
 |**2026-02-13**|**TriGen: NPU Architecture for End-to-End Acceleration of Large Language Models based on SW-HW Co-Design**|Jonghun Lee et.al.|[2602.12962](http://arxiv.org/abs/2602.12962)|null|
 |**2026-02-13**|**Human Tool: An MCP-Style Framework for Human-Agent Collaboration**|Yuanrong Tang et.al.|[2602.12953](http://arxiv.org/abs/2602.12953)|null|
 |**2026-02-13**|**The Influence of Code Smells in Efferent Neighbors on Class Stability**|Zushuai Zhang et.al.|[2602.12950](http://arxiv.org/abs/2602.12950)|null|
@@ -1973,9 +1973,9 @@
 |**2026-02-10**|**Sparse Layer Sharpness-Aware Minimization for Efficient Fine-Tuning**|Yifei Cheng et.al.|[2602.09395](http://arxiv.org/abs/2602.09395)|null|
 |**2026-02-10**|**LLMAC: A Global and Explainable Access Control Framework with Large Language Model**|Sharif Noor Zisad et.al.|[2602.09392](http://arxiv.org/abs/2602.09392)|null|
 |**2026-02-10**|**Contractual Deepfakes: Can Large Language Models Generate Contracts?**|Eliza Mik et.al.|[2602.09384](http://arxiv.org/abs/2602.09384)|null|
-|**2026-02-10**|**BiasScope: Towards Automated Detection of Bias in LLM-as-a-Judge Evaluation**|Peng Lai et.al.|[2602.09383](http://arxiv.org/abs/2602.09383)|null|
+|**2026-02-10**|**BiasScope: Towards Automated Detection of Bias in LLM-as-a-Judge Evaluation**|Peng Lai et.al.|[2602.09383](http://arxiv.org/abs/2602.09383)|**[link](https://github.com/Laip11/BiasScope)**|
 |**2026-02-10**|**LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis**|Shihao Xu et.al.|[2602.09379](http://arxiv.org/abs/2602.09379)|null|
-|**2026-02-10**|**Latent Poincaré Shaping for Agentic Reinforcement Learning**|Hanchen Xia et.al.|[2602.09375](http://arxiv.org/abs/2602.09375)|null|
+|**2026-02-10**|**Latent Poincaré Shaping for Agentic Reinforcement Learning**|Hanchen Xia et.al.|[2602.09375](http://arxiv.org/abs/2602.09375)|**[link](https://github.com/fudan-generative-vision/LaPha)**|
 |**2026-02-10**|**Behavioral Economics of AI: LLM Biases and Corrections**|Pietro Bini et.al.|[2602.09362](http://arxiv.org/abs/2602.09362)|null|
 |**2026-02-10**|**Large Language Models for Designing Participatory Budgeting Rules**|Nguyen Thach et.al.|[2602.09349](http://arxiv.org/abs/2602.09349)|null|
 |**2026-02-10**|**Digital Linguistic Bias in Spanish: Evidence from Lexical Variation in LLMs**|Yoshifumi Kawasaki et.al.|[2602.09346](http://arxiv.org/abs/2602.09346)|null|
@@ -2623,7 +2623,7 @@
 |**2026-01-02**|**Human-like AI-based Auto-Field-in-Field Whole-Brain Radiotherapy Treatment Planning With Conversation Large Language Model Feedback**|Adnan Jafar et.al.|[2601.00685](http://arxiv.org/abs/2601.00685)|null|
 |**2026-01-02**|**QSLM: A Performance- and Memory-aware Quantization Framework with Tiered Search Strategy for Spike-driven Language Models**|Rachmad Vidya Wicaksana Putra et.al.|[2601.00679](http://arxiv.org/abs/2601.00679)|null|
 |**2026-01-02**|**FlexSpec: Frozen Drafts Meet Evolving Targets in Edge-Cloud Collaborative LLM Speculative Decoding**|Yuchen Li et.al.|[2601.00644](http://arxiv.org/abs/2601.00644)|null|
-|**2026-01-02**|**Probabilistic Guarantees for Reducing Contextual Hallucinations in LLMs**|Nils Rautenberg et.al.|[2601.00641](http://arxiv.org/abs/2601.00641)|null|
+|**2026-01-02**|**Probabilistic Guarantees for Reducing Contextual Hallucinations in LLMs**|Nils Rautenberg et.al.|[2601.00641](http://arxiv.org/abs/2601.00641)|**[link](https://github.com/schipp/hallucination_guarantees)**|
 |**2026-01-02**|**SEMODS: A Validated Dataset of Open-Source Software Engineering Models**|Alexandra González et.al.|[2601.00635](http://arxiv.org/abs/2601.00635)|null|
 |**2026-01-02**|**KELP: Robust Online Log Parsing Through Evolutionary Grouping Trees**|Satyam Singh et.al.|[2601.00633](http://arxiv.org/abs/2601.00633)|null|
 |**2026-01-02**|**Towards Understanding and Characterizing Vulnerabilities in Intelligent Connected Vehicles through Real-World Exploits**|Yuelin Wang et.al.|[2601.00627](http://arxiv.org/abs/2601.00627)|null|
@@ -3303,7 +3303,7 @@
 |**2025-12-04**|**Personalizing Agent Privacy Decisions via Logical Entailment**|James Flemings et.al.|[2512.05065](http://arxiv.org/abs/2512.05065)|null|
 |**2025-12-04**|**Configuration Defects in Kubernetes**|Yue Zhang et.al.|[2512.05062](http://arxiv.org/abs/2512.05062)|null|
 |**2025-12-04**|**4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer**|Xianfeng Wu et.al.|[2512.05060](http://arxiv.org/abs/2512.05060)|null|
-|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|null|
+|**2025-12-04**|**Joint 3D Geometry Reconstruction and Motion Generation for 4D Synthesis from a Single Image**|Yanran Zhang et.al.|[2512.05044](http://arxiv.org/abs/2512.05044)|**[link](https://github.com/Zhangyr2022/MoRe4D)**|
 |**2025-12-04**|**Efficient Decoders for Sensing Subspace Code**|Siva Aditya Gooty et.al.|[2512.05028](http://arxiv.org/abs/2512.05028)|null|
 |**2025-12-04**|**RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation**|Nicolas Houdré et.al.|[2512.05025](http://arxiv.org/abs/2512.05025)|null|
 |**2025-12-04**|**Model-Free Assessment of Simulator Fidelity via Quantile Curves**|Garud Iyengar et.al.|[2512.05024](http://arxiv.org/abs/2512.05024)|null|
@@ -4193,7 +4193,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260608>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
