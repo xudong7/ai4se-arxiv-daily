@@ -1,4 +1,4 @@
-## Updated on 2026.06.21
+## Updated on 2026.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1311,7 +1311,7 @@
 |**2026-04-09**|**Silencing the Guardrails: Inference-Time Jailbreaking via Dynamic Contextual Representation Ablation**|Wenpeng Xing et.al.|[2604.07835](http://arxiv.org/abs/2604.07835)|null|
 |**2026-04-09**|**Why Are We Lonely? Leveraging LLMs to Measure and Understand Loneliness in Caregivers and Non-caregivers**|Michelle Damin Kim et.al.|[2604.07834](http://arxiv.org/abs/2604.07834)|null|
 |**2026-04-09**|**To Copilot and Beyond: 22 AI Systems Developers Want Built**|Rudrajit Choudhuri et.al.|[2604.07830](http://arxiv.org/abs/2604.07830)|null|
-|**2026-04-09**|**Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders**|Jaehyun Lee et.al.|[2604.07825](http://arxiv.org/abs/2604.07825)|null|
+|**2026-04-09**|**Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders**|Jaehyun Lee et.al.|[2604.07825](http://arxiv.org/abs/2604.07825)|**[link](https://github.com/nowhyun/KnowSA_CKP)**|
 |**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|**[link](https://github.com/mbzuai-oryx/CoME-VL)**|
 |**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|
 |**2026-04-03**|**Prosocial Persuasion at Scale? Large Language Models Outperform Humans in Donation Appeals Across Levels of Personalization**|John Caffier et.al.|[2604.03202](http://arxiv.org/abs/2604.03202)|null|
@@ -3125,7 +3125,7 @@
 |**2025-12-29**|**Replay Failures as Successes: Sample-Efficient Reinforcement Learning for Instruction Following**|Kongcheng Zhang et.al.|[2512.23457](http://arxiv.org/abs/2512.23457)|null|
 |**2025-12-29**|**Automated river gauge plate reading using a hybrid object detection and generative AI framework in the Limpopo River Basin**|Kayathri Vigneswaran et.al.|[2512.23454](http://arxiv.org/abs/2512.23454)|null|
 |**2025-12-29**|**Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss**|Ang Lv et.al.|[2512.23447](http://arxiv.org/abs/2512.23447)|null|
-|**2025-12-29**|**ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning**|Yuqi Tang et.al.|[2512.23440](http://arxiv.org/abs/2512.23440)|null|
+|**2025-12-29**|**ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning**|Yuqi Tang et.al.|[2512.23440](http://arxiv.org/abs/2512.23440)|**[link](https://github.com/HICAI-ZJU/ClinDEF)**|
 |**2025-12-29**|**C2PO: Diagnosing and Disentangling Bias Shortcuts in LLMs**|Xuan Feng et.al.|[2512.23430](http://arxiv.org/abs/2512.23430)|null|
 |**2025-12-29**|**AKG kernel Agent: A Multi-Agent Framework for Cross-Platform Kernel Synthesis**|Jinye Du et.al.|[2512.23424](http://arxiv.org/abs/2512.23424)|null|
 |**2025-12-29**|**Entropy-Guided Token Dropout: Training Autoregressive Language Models with Limited Domain Data**|Jiapeng Wang et.al.|[2512.23422](http://arxiv.org/abs/2512.23422)|null|
@@ -4493,7 +4493,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
