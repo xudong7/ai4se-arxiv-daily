@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.06.26
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -2204,7 +2204,7 @@ layout: default
 |**2026-02-24**|**Generative Pseudo-Labeling for Pre-Ranking with LLMs**|Junyu Bi et.al.|[2602.20995](http://arxiv.org/abs/2602.20995)|null|
 |**2026-02-24**|**Toward an Agentic Infused Software Ecosystem**|Mark Marron et.al.|[2602.20979](http://arxiv.org/abs/2602.20979)|null|
 |**2026-02-24**|**Evaluating Proactive Risk Awareness of Large Language Models**|Xuan Luo et.al.|[2602.20976](http://arxiv.org/abs/2602.20976)|null|
-|**2026-02-24**|**Linear Reasoning vs. Proof by Cases: Obstacles for Large Language Models in FOL Problem Solving**|Yuliang Ji et.al.|[2602.20973](http://arxiv.org/abs/2602.20973)|null|
+|**2026-02-24**|**Linear Reasoning vs. Proof by Cases: Obstacles for Large Language Models in FOL Problem Solving**|Yuliang Ji et.al.|[2602.20973](http://arxiv.org/abs/2602.20973)|**[link](https://github.com/yizhidamiaomiao/PC-FOL_dataset)**|
 |**2026-02-24**|**Blackbird Language Matrices: A Framework to Investigate the Linguistic Competence of Language Models**|Paola Merlo et.al.|[2602.20966](http://arxiv.org/abs/2602.20966)|null|
 |**2026-02-25**|**The Art of Efficient Reasoning: Data, Reward, and Optimization**|Taiqiang Wu et.al.|[2602.20945](http://arxiv.org/abs/2602.20945)|null|
 |**2026-02-24**|**Architecting AgentOS: From Token-Level Context to Emergent System-Level Intelligence**|ChengYou Li et.al.|[2602.20934](http://arxiv.org/abs/2602.20934)|null|

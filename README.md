@@ -1,4 +1,4 @@
-## Updated on 2026.06.26
+## Updated on 2026.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2551,7 +2551,7 @@
 |**2026-01-29**|**SONIC: Segmented Optimized Nexus for Information Compression in Key-Value Caching**|Hong Chen et.al.|[2601.21927](http://arxiv.org/abs/2601.21927)|null|
 |**2026-01-29**|**From Future of Work to Future of Workers: Addressing Asymptomatic AI Harms for Dignified Human-AI Interaction**|Upol Ehsan et.al.|[2601.21920](http://arxiv.org/abs/2601.21920)|null|
 |**2026-01-29**|**From Meta-Thought to Execution: Cognitively Aligned Post-Training for Generalizable and Reliable LLM Reasoning**|Shaojie Wang et.al.|[2601.21909](http://arxiv.org/abs/2601.21909)|null|
-|**2026-01-29**|**Learn-to-Distance: Distance Learning for Detecting LLM-Generated Text**|Hongyi Zhou et.al.|[2601.21895](http://arxiv.org/abs/2601.21895)|null|
+|**2026-01-29**|**Learn-to-Distance: Distance Learning for Detecting LLM-Generated Text**|Hongyi Zhou et.al.|[2601.21895](http://arxiv.org/abs/2601.21895)|**[link](https://github.com/Mamba413/L2D)**|
 |**2026-01-29**|**Not All Code Is Equal: A Data-Centric Study of Code Complexity and LLM Reasoning**|Lukas Twist et.al.|[2601.21894](http://arxiv.org/abs/2601.21894)|null|
 |**2026-01-29**|**astra-langchain4j: Experiences Combining LLMs and Agent Programming**|Rem Collier et.al.|[2601.21879](http://arxiv.org/abs/2601.21879)|null|
 |**2026-01-29**|**Evolution of Benchmark: Black-Box Optimization Benchmark Design through Large Language Model**|Chen Wang et.al.|[2601.21877](http://arxiv.org/abs/2601.21877)|null|
@@ -4593,7 +4593,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260629>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
