@@ -89,7 +89,7 @@ layout: default
 |**2026-07-02**|**SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use**|Jiayin Zhu et.al.|[2607.01874](http://arxiv.org/abs/2607.01874)|null|
 |**2026-07-02**|**An Exploratory Study on LLM-Generated Code and Comments in Code Repositories**|Yongyi Ji et.al.|[2607.01867](http://arxiv.org/abs/2607.01867)|null|
 |**2026-07-02**|**Safety Targeted Embedding Exploit via Refinement**|Joshua Adrian Cahyono et.al.|[2607.01859](http://arxiv.org/abs/2607.01859)|null|
-|**2026-07-02**|**Regression Accumulation in Multi-Turn LLM Programming Conversations**| Yonghui et.al.|[2607.01855](http://arxiv.org/abs/2607.01855)|null|
+|**2026-07-02**|**Regression Accumulation in Multi-Turn LLM Programming Conversations**|Yonghui et.al.|[2607.01855](http://arxiv.org/abs/2607.01855)|null|
 |**2026-07-02**|**Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts**|Valentin J. J. Kreileder et.al.|[2607.01852](http://arxiv.org/abs/2607.01852)|null|
 |**2026-07-02**|**Technical Debt Friction for Maintenance Prioritization: An Industrial Multi-Case Study**|Simeon Tverdal et.al.|[2607.01850](http://arxiv.org/abs/2607.01850)|null|
 |**2026-07-02**|**Decomposer: Learning to Decompile Symbolic Music to Programs**|Yewon Kim et.al.|[2607.01849](http://arxiv.org/abs/2607.01849)|null|
@@ -443,7 +443,7 @@ layout: default
 |**2026-06-15**|**Tying the Loop -- Tied Expert Layers in Mixture-of-Experts Language Models**|Martin Jaggi et.al.|[2606.16825](http://arxiv.org/abs/2606.16825)|null|
 |**2026-06-15**|**CacheWise: Understanding Workloads and Optimizing KVCache Management for Efficiently Serving LLM Coding Agents**|Shubham Tiwari et.al.|[2606.16824](http://arxiv.org/abs/2606.16824)|null|
 |**2026-06-15**|**How Much Can We Trust LLM Search Agents? Measuring Endorsement Vulnerability to Web Content Manipulation**|Yimeng Chen et.al.|[2606.16821](http://arxiv.org/abs/2606.16821)|null|
-|**2026-06-15**|**Understanding the Behaviors of Environment-aware Information Retrieval**|Ruifeng Yuan et.al.|[2606.16817](http://arxiv.org/abs/2606.16817)|null|
+|**2026-06-15**|**Understanding the Behaviors of Environment-aware Information Retrieval**|Ruifeng Yuan et.al.|[2606.16817](http://arxiv.org/abs/2606.16817)|**[link](https://github.com/LCO-Embedding/Envs-aware-Information-Retrieval)**|
 |**2026-06-15**|**GIST-CMTF: Goal-State Inference for Causal Minimal Tool Filtering in LLM Agents**|Rahul Suresh Babu et.al.|[2606.16813](http://arxiv.org/abs/2606.16813)|null|
 |**2026-06-15**|**Scaling LLM Reasoning from Minimal Labels: A Semi-Supervised Framework with a Lightweight Verifier**|Keizo Kato et.al.|[2606.16811](http://arxiv.org/abs/2606.16811)|null|
 |**2026-06-15**|**LLM-based Visual Code Completion for Aerospace Geometric Design**|Hau Kit Yong et.al.|[2606.16806](http://arxiv.org/abs/2606.16806)|null|
@@ -1950,7 +1950,7 @@ layout: default
 |**2026-03-19**|**A Human-in/on-the-Loop Framework for Accessible Text Generation**|Lourdes Moreno et.al.|[2603.18879](http://arxiv.org/abs/2603.18879)|null|
 |**2026-03-19**|**Evaluating LLM-Generated Lessons from the Language Learning Students' Perspective: A Short Case Study on Duolingo**|Carlos Rafael Catalan et.al.|[2603.18873](http://arxiv.org/abs/2603.18873)|null|
 |**2026-03-19**|**Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs**|Gaoxiang Cao et.al.|[2603.18871](http://arxiv.org/abs/2603.18871)|null|
-|**2026-03-19**|**RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models**|Xiao Feng et.al.|[2603.18859](http://arxiv.org/abs/2603.18859)|null|
+|**2026-03-19**|**RewardFlow: Topology-Aware Reward Propagation on State Graphs for Agentic RL with Large Language Models**|Xiao Feng et.al.|[2603.18859](http://arxiv.org/abs/2603.18859)|**[link](https://github.com/tmlr-group/RewardFlow)**|
 |**2026-03-19**|**BeamAgent: LLM-Aided MIMO Beamforming with Decoupled Intent Parsing and Alternating Optimization for Joint Site Selection and Precoding**|Xiucheng Wang et.al.|[2603.18855](http://arxiv.org/abs/2603.18855)|null|
 |**2026-03-19**|**Tursio Database Search: How far are we from ChatGPT?**|Sulbha Jain et.al.|[2603.18835](http://arxiv.org/abs/2603.18835)|null|
 |**2026-03-19**|**Detecting Basic Values in A Noisy Russian Social Media Text Data: A Multi-Stage Classification Framework**|Maria Milkova et.al.|[2603.18822](http://arxiv.org/abs/2603.18822)|null|
@@ -3399,7 +3399,7 @@ layout: default
 |**2025-12-29**|**The Big Three in Marriage Talk: LLM-Assisted Analysis of Moral Ethics and Sentiment on Weibo and Xiaohongshu**|Frank Tian-Fang Ye et.al.|[2512.23609](http://arxiv.org/abs/2512.23609)|null|
 |**2025-12-29**|**Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes**|Kenshin Obi et.al.|[2512.23605](http://arxiv.org/abs/2512.23605)|null|
 |**2025-12-29**|**Divergent-Convergent Thinking in Large Language Models for Creative Problem Generation**|Manh Hung Nguyen et.al.|[2512.23601](http://arxiv.org/abs/2512.23601)|null|
-|**2025-12-29**|**Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education**|Christopher Burger et.al.|[2512.23587](http://arxiv.org/abs/2512.23587)|null|
+|**2025-12-29**|**Can AI Recognize Its Own Reflection? Self-Detection Performance of LLMs in Computing Education**|Christopher Burger et.al.|[2512.23587](http://arxiv.org/abs/2512.23587)|**[link](https://github.com/christopherburger/llm-self-detection-2026)**|
 |**2025-12-29**|**Model-based Development for Autonomous Driving Software Considering Parallelization**|Kenshin Obi et.al.|[2512.23575](http://arxiv.org/abs/2512.23575)|null|
 |**2025-12-29**|**Instruction-Following Evaluation of Large Vision-Language Models**|Daiki Shiono et.al.|[2512.23572](http://arxiv.org/abs/2512.23572)|null|
 |**2025-12-29**|**Toward Trustworthy Agentic AI: A Multimodal Framework for Preventing Prompt Injection Attacks**|Toqeer Ali Syed et.al.|[2512.23557](http://arxiv.org/abs/2512.23557)|null|

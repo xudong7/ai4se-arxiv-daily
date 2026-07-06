@@ -92,7 +92,7 @@
 |**2026-07-02**|**SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use**|Jiayin Zhu et.al.|[2607.01874](http://arxiv.org/abs/2607.01874)|null|
 |**2026-07-02**|**An Exploratory Study on LLM-Generated Code and Comments in Code Repositories**|Yongyi Ji et.al.|[2607.01867](http://arxiv.org/abs/2607.01867)|null|
 |**2026-07-02**|**Safety Targeted Embedding Exploit via Refinement**|Joshua Adrian Cahyono et.al.|[2607.01859](http://arxiv.org/abs/2607.01859)|null|
-|**2026-07-02**|**Regression Accumulation in Multi-Turn LLM Programming Conversations**| Yonghui et.al.|[2607.01855](http://arxiv.org/abs/2607.01855)|null|
+|**2026-07-02**|**Regression Accumulation in Multi-Turn LLM Programming Conversations**|Yonghui et.al.|[2607.01855](http://arxiv.org/abs/2607.01855)|null|
 |**2026-07-02**|**Evaluating Chunking Strategies for Retrieval-Augmented Generation on Academic Texts**|Valentin J. J. Kreileder et.al.|[2607.01852](http://arxiv.org/abs/2607.01852)|null|
 |**2026-07-02**|**Technical Debt Friction for Maintenance Prioritization: An Industrial Multi-Case Study**|Simeon Tverdal et.al.|[2607.01850](http://arxiv.org/abs/2607.01850)|null|
 |**2026-07-02**|**Decomposer: Learning to Decompile Symbolic Music to Programs**|Yewon Kim et.al.|[2607.01849](http://arxiv.org/abs/2607.01849)|null|
@@ -293,7 +293,7 @@
 |**2026-06-25**|**Simulating Unified Tensor Resharding in heterogeneous AI systems**|Sumit Kumar et.al.|[2606.26633](http://arxiv.org/abs/2606.26633)|null|
 |**2026-06-25**|**From Weights to Features: SAE-Guided Activation Regularization for LLM Continual Learning**|Evan Ning et.al.|[2606.26629](http://arxiv.org/abs/2606.26629)|null|
 |**2026-06-25**|**Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents**|Nada Lahjouji et.al.|[2606.26627](http://arxiv.org/abs/2606.26627)|null|
-|**2026-06-25**|**HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization**|Kuangshi Ai et.al.|[2606.26614](http://arxiv.org/abs/2606.26614)|null|
+|**2026-06-25**|**HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization**|Kuangshi Ai et.al.|[2606.26614](http://arxiv.org/abs/2606.26614)|**[link](https://github.com/KuangshiAi/HiLSVA)**|
 |**2026-06-25**|**EcoTable: Cost-effective Table Integration in Data Lakes for Natural Language Queries**|Yuhui Wang et.al.|[2606.26613](http://arxiv.org/abs/2606.26613)|null|
 |**2026-06-25**|**Moebius: Serving Mixture-of-Expert Models with Seamless Runtime Parallelism Switch**|Shaoyu Wang et.al.|[2606.26607](http://arxiv.org/abs/2606.26607)|null|
 |**2026-06-25**|**Quantum Mutant Equivalence via Transpilation**|José Campos et.al.|[2606.26604](http://arxiv.org/abs/2606.26604)|null|
@@ -3292,7 +3292,7 @@
 |**2025-12-31**|**PhysTalk: Language-driven Real-time Physics in 3D Gaussian Scenes**|Luca Collorone et.al.|[2512.24986](http://arxiv.org/abs/2512.24986)|null|
 |**2025-12-31**|**Large language models and the entropy of English**|Colin Scheibner et.al.|[2512.24969](http://arxiv.org/abs/2512.24969)|null|
 |**2025-12-31**|**The Impact of LLMs on Online News Consumption and Production**|Hangcheng Zhao et.al.|[2512.24968](http://arxiv.org/abs/2512.24968)|null|
-|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|null|
+|**2025-12-31**|**CPJ: Explainable Agricultural Pest Diagnosis via Caption-Prompt-Judge with LLM-Judged Refinement**|Wentao Zhang et.al.|[2512.24947](http://arxiv.org/abs/2512.24947)|**[link](https://github.com/sukyumee/AI-based-plant-diagnosis)**|
 |**2025-12-31**|**RAIR: A Rule-Aware Benchmark Uniting Challenging Long-Tail and Visual Salience Subset for E-commerce Relevance Assessment**|Chenji Lu et.al.|[2512.24943](http://arxiv.org/abs/2512.24943)|null|
 |**2025-12-31**|**Securing High-Concurrency Ticket Sales: A Framework Based on Microservice**|Zhiyong Zhang et.al.|[2512.24941](http://arxiv.org/abs/2512.24941)|null|
 |**2025-12-31**|**Iterative Deployment Improves Planning Skills in LLMs**|Augusto B. Corrêa et.al.|[2512.24940](http://arxiv.org/abs/2512.24940)|null|
