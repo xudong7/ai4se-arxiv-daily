@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -466,7 +466,7 @@ layout: default
 |**2026-06-15**|**Islamic Large Language Models: From Knowledge Acquisition to Trustworthy and Hallucination-Resistant AI**|Mohammed Amine Mouhoub et.al.|[2606.16629](http://arxiv.org/abs/2606.16629)|null|
 |**2026-06-15**|**Using AI in engineering education: a balancing act, driven by clear purpose**|Olya Kudina et.al.|[2606.16626](http://arxiv.org/abs/2606.16626)|null|
 |**2026-06-15**|**Sycophancy as Material Failure under Pushback Loading: A Multi-Axis Characterization Across Three Loading Cases and up to Seventeen Material Charges**|Ferdinand M. Schessl et.al.|[2606.16617](http://arxiv.org/abs/2606.16617)|null|
-|**2026-06-15**|**CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies**|Issa Sugiura et.al.|[2606.16613](http://arxiv.org/abs/2606.16613)|null|
+|**2026-06-15**|**CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies**|Issa Sugiura et.al.|[2606.16613](http://arxiv.org/abs/2606.16613)|**[link](https://github.com/SakanaAI/CoffeeBench)**|
 |**2026-06-15**|**VeriGraph: Towards Verifiable Data-Analytic Agents**|Jiajie Jin et.al.|[2606.16603](http://arxiv.org/abs/2606.16603)|null|
 |**2026-06-15**|**SING: Synthetic Intention Graph for Scalable Active Tool Discovery in LLM Agents**|Qiao Xiao et.al.|[2606.16591](http://arxiv.org/abs/2606.16591)|null|
 |**2026-06-15**|**Can LLM Agents Infer World Models? Evidence from Agentic Automata Learning**|Reef Menaged et.al.|[2606.16576](http://arxiv.org/abs/2606.16576)|null|
@@ -3471,10 +3471,10 @@ layout: default
 |**2025-12-28**|**Interpretable Gallbladder Ultrasound Diagnosis: A Lightweight Web-Mobile Software Platform with Real-Time XAI**|Fuyad Hasan Bhoyan et.al.|[2512.23033](http://arxiv.org/abs/2512.23033)|null|
 |**2025-12-28**|**Viability and Performance of a Private LLM Server for SMBs: A Benchmark Analysis of Qwen3-30B on Consumer-Grade Hardware**|Alex Khalil et.al.|[2512.23029](http://arxiv.org/abs/2512.23029)|null|
 |**2025-12-28**|**An Architecture-Led Hybrid Report on Body Language Detection Project**|Thomson Tong et.al.|[2512.23028](http://arxiv.org/abs/2512.23028)|null|
-|**2025-12-28**|**LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models**|Wenxuan Xu et.al.|[2512.23025](http://arxiv.org/abs/2512.23025)|null|
+|**2025-12-28**|**LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models**|Wenxuan Xu et.al.|[2512.23025](http://arxiv.org/abs/2512.23025)|**[link](https://github.com/Wen-xuan-Xu/LENS)**|
 |**2025-12-28**|**With Great Context Comes Great Prediction Power: Classifying Objects via Geo-Semantic Scene Graphs**|Ciprian Constantinescu et.al.|[2512.23024](http://arxiv.org/abs/2512.23024)|null|
 |**2025-12-28**|**Merge before Forget: A Single LoRA Continual Learning via Continual Merging**|Fuli Qiao et.al.|[2512.23017](http://arxiv.org/abs/2512.23017)|null|
-|**2025-12-28**|**Improving Generalization in LLM Structured Pruning via Function-Aware Neuron Grouping**|Tao Yu et.al.|[2512.23014](http://arxiv.org/abs/2512.23014)|null|
+|**2025-12-28**|**Improving Generalization in LLM Structured Pruning via Function-Aware Neuron Grouping**|Tao Yu et.al.|[2512.23014](http://arxiv.org/abs/2512.23014)|**[link](https://github.com/tianjinren/FANG)**|
 |**2025-12-28**|**Masgent: An AI-assisted Materials Simulation Agent**|Guanghen Liu et.al.|[2512.23010](http://arxiv.org/abs/2512.23010)|null|
 |**2025-12-28**|**Prompt engineering does not universally improve Large Language Model performance across clinical decision-making tasks**|Mengdi Chai et.al.|[2512.22966](http://arxiv.org/abs/2512.22966)|null|
 |**2025-12-28**|**Diversity or Precision? A Deep Dive into Next Token Prediction**|Haoyuan Wu et.al.|[2512.22955](http://arxiv.org/abs/2512.22955)|null|
@@ -4122,7 +4122,7 @@ layout: default
 |**2025-11-24**|**LLM-Based Agentic Negotiation for 6G: Addressing Uncertainty Neglect and Tail-Event Risk**|Hatim Chergui et.al.|[2511.19175](http://arxiv.org/abs/2511.19175)|null|
 |**2025-11-24**|**Can LLMs Threaten Human Survival? Benchmarking Potential Existential Threats from LLMs via Prefix Completion**|Yu Cui et.al.|[2511.19171](http://arxiv.org/abs/2511.19171)|null|
 |**2025-11-24**|**RAVEN++: Pinpointing Fine-Grained Violations in Advertisement Videos with Active Reinforcement Reasoning**|Deyi Ji et.al.|[2511.19168](http://arxiv.org/abs/2511.19168)|null|
-|**2025-11-24**|**Representational Stability of Truth in Large Language Models**|Samantha Dies et.al.|[2511.19166](http://arxiv.org/abs/2511.19166)|null|
+|**2025-11-24**|**Representational Stability of Truth in Large Language Models**|Samantha Dies et.al.|[2511.19166](http://arxiv.org/abs/2511.19166)|**[link](https://github.com/samanthadies/representational_stability)**|
 |**2025-11-24**|**From Pixels to Posts: Retrieval-Augmented Fashion Captioning and Hashtag Generation**|Moazzam Umer Gondal et.al.|[2511.19149](http://arxiv.org/abs/2511.19149)|null|
 |**2025-11-24**|**LLMs-Powered Real-Time Fault Injection: An Approach Toward Intelligent Fault Test Cases Generation**|Mohammad Abboush et.al.|[2511.19132](http://arxiv.org/abs/2511.19132)|null|
 |**2025-11-24**|**Eliciting Chain-of-Thought in Base LLMs via Gradient-Based Representation Optimization**|Zijian Wang et.al.|[2511.19131](http://arxiv.org/abs/2511.19131)|null|
