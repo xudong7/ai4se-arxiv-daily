@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.26
+## Updated on 2026.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -80,7 +80,7 @@ layout: default
 |**2026-07-23**|**Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development**|Jesse Phillips et.al.|[2607.20933](http://arxiv.org/abs/2607.20933)|null|
 |**2026-07-23**|**SciExplore: Evaluating Autonomous Agents from Scientific Navigation to Information Integration**|Yinhao Tang et.al.|[2607.20926](http://arxiv.org/abs/2607.20926)|null|
 |**2026-07-23**|**Scientific exploration, collaboration and labor division in the large language model era**|Xiang Zheng et.al.|[2607.20923](http://arxiv.org/abs/2607.20923)|null|
-|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**| Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
+|**2026-07-23**|**Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction**|Tencent WorkBuddy Bench Team et.al.|[2607.20911](http://arxiv.org/abs/2607.20911)|null|
 |**2026-07-23**|**Multi-turn RL with Structural and Performance Aware Rewards for CUDA Kernel Generation**|Quazi Ishtiaque Mahmud et.al.|[2607.20908](http://arxiv.org/abs/2607.20908)|null|
 |**2026-07-23**|**Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions**|Pengyu Zhu et.al.|[2607.20891](http://arxiv.org/abs/2607.20891)|null|
 |**2026-07-23**|**LegalCiteTrust: Benchmarking Citation Trustworthiness in Chinese Long-Form Legal Research Reports**|Yunhan Li et.al.|[2607.20872](http://arxiv.org/abs/2607.20872)|null|
@@ -129,7 +129,7 @@ layout: default
 |**2026-07-20**|**Enhancing Rubric-based RL via Self-Distillation**|Mingxuan Xia et.al.|[2607.18082](http://arxiv.org/abs/2607.18082)|null|
 |**2026-07-20**|**SelectInfer: Selective Neuron Loading and Computation for On-Device LLMs**|Huzaifa Shaaban Kabakibo et.al.|[2607.18081](http://arxiv.org/abs/2607.18081)|null|
 |**2026-07-20**|**Human Grounded Evaluation of Large Language Models for Optical Network Automation**|Kiarash Rezaei et.al.|[2607.18068](http://arxiv.org/abs/2607.18068)|null|
-|**2026-07-20**|**Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila**| Supryadi et.al.|[2607.18066](http://arxiv.org/abs/2607.18066)|null|
+|**2026-07-20**|**Pancasila-Dilemmas: Evaluating Large Language Models on Indonesian Human Value Dilemmas Grounded in Pancasila**|Supryadi et.al.|[2607.18066](http://arxiv.org/abs/2607.18066)|null|
 |**2026-07-20**|**Autoresearch with Coding Agents: Generalizers and Metric-Maximizers on Quran Recitation Data**|Nursultan Askarbekuly et.al.|[2607.18064](http://arxiv.org/abs/2607.18064)|null|
 |**2026-07-20**|**Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security**|Devina Jain et.al.|[2607.18063](http://arxiv.org/abs/2607.18063)|null|
 |**2026-07-20**|**Test Coverage Analysis of Agentic Pull Requests**|Atish Kumar Dipongkor et.al.|[2607.18057](http://arxiv.org/abs/2607.18057)|null|
@@ -485,7 +485,7 @@ layout: default
 |**2026-06-30**|**LOPA: Enhancing Spoken Language Assessment via Latent Ordinal Prototype Alignment**|Hong-Yun Lin et.al.|[2606.31310](http://arxiv.org/abs/2606.31310)|null|
 |**2026-06-30**|**CSO-LLM: Class Subspace Orthogonalization for Post-Training Backdoor Detection and Trigger Inversion in LLMs**|Zhengxing Li et.al.|[2606.31309](http://arxiv.org/abs/2606.31309)|null|
 |**2026-06-30**|**Benchmarking Large Language Models on Floating-Point Error Classification**|Lisa Taldir et.al.|[2606.31308](http://arxiv.org/abs/2606.31308)|null|
-|**2026-06-30**|**When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue**|Mohammad Alijanpour Shalmani et.al.|[2606.31307](http://arxiv.org/abs/2606.31307)|null|
+|**2026-06-30**|**When the Database Fails: Prompting LLM Dialogue Agents for Safe Recovery in Task-Oriented Dialogue**|Mohammad Alijanpour Shalmani et.al.|[2606.31307](http://arxiv.org/abs/2606.31307)|**[link](https://github.com/mohammad-AJP/llm-db-failure-recovery)**|
 |**2026-06-30**|**Spatial Reasoning via Modality Switching Between Language and Symbolic Representation**|Shreya Rajpal et.al.|[2606.31285](http://arxiv.org/abs/2606.31285)|null|
 |**2026-06-30**|**The Calibration Turn in AI-Assisted Research: A Conceptual and Methodological Framework for Evidence-Licensed Claims**|Hongmin Li et.al.|[2606.31273](http://arxiv.org/abs/2606.31273)|null|
 |**2026-06-30**|**Learning from Failure: Inference-Time Self-Improvement for Computer-Use Agents**|Xueqiao Sun et.al.|[2606.31270](http://arxiv.org/abs/2606.31270)|null|
@@ -1146,7 +1146,7 @@ layout: default
 |**2026-05-14**|**Beliefs and Misconceptions around Integrated Conversational AI**|William Seymour et.al.|[2605.14849](http://arxiv.org/abs/2605.14849)|null|
 |**2026-05-14**|**XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference**|Thomas Witt et.al.|[2605.14844](http://arxiv.org/abs/2605.14844)|null|
 |**2026-05-14**|**Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis**|Mor Ventura et.al.|[2605.14842](http://arxiv.org/abs/2605.14842)|null|
-|**2026-05-14**|**GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning**|Paolo Mandica et.al.|[2605.14841](http://arxiv.org/abs/2605.14841)|null|
+|**2026-05-14**|**GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning**|Paolo Mandica et.al.|[2605.14841](http://arxiv.org/abs/2605.14841)|**[link](https://github.com/SamsungLabs/GPart)**|
 |**2026-05-14**|**A Heterogeneous Temporal Memory Governance Framework for Long-Term LLM Persona Consistency**|Zhao Yang et.al.|[2605.14802](http://arxiv.org/abs/2605.14802)|null|
 |**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801](http://arxiv.org/abs/2605.14801)|null|
 |**2026-05-14**|**COAL: Counterfactual and Observation-Enhanced Alignment Learning for Discriminative Referring Multi-Object Tracking**|Shukun Jia et.al.|[2605.14795](http://arxiv.org/abs/2605.14795)|null|
@@ -2001,7 +2001,7 @@ layout: default
 |**2026-04-03**|**Making Written Theorems Explorable by Grounding Them in Formal Representations**|Hita Kambhamettu et.al.|[2604.02598](http://arxiv.org/abs/2604.02598)|null|
 |**2026-04-03**|**An Empirical Study of Many-Shot In-Context Learning for Machine Translation of Low-Resource Languages**|Yinhan Lu et.al.|[2604.02596](http://arxiv.org/abs/2604.02596)|null|
 |**2026-04-03**|**AI Fact-Checking in the Wild: A Field Evaluation of LLM-Written Community Notes on X**|Haiwen Li et.al.|[2604.02592](http://arxiv.org/abs/2604.02592)|null|
-|**2026-04-02**|**Mitigating LLM biases toward spurious social contexts using direct preference optimization**|Hyunji Nam et.al.|[2604.02585](http://arxiv.org/abs/2604.02585)|null|
+|**2026-04-02**|**Mitigating LLM biases toward spurious social contexts using direct preference optimization**|Hyunji Nam et.al.|[2604.02585](http://arxiv.org/abs/2604.02585)|**[link](https://github.com/nam630/debiasing_dpo)**|
 |**2026-04-02**|**VoxelCodeBench: Benchmarking 3D World Modeling Through Code Generation**|Yan Zheng et.al.|[2604.02580](http://arxiv.org/abs/2604.02580)|null|
 |**2026-04-02**|**High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination**|Sahaj Singh Maini et.al.|[2604.02578](http://arxiv.org/abs/2604.02578)|null|
 |**2026-04-02**|**Understanding the Effects of Safety Unalignment on Large Language Models**|John T. Halloran et.al.|[2604.02574](http://arxiv.org/abs/2604.02574)|null|
@@ -2648,7 +2648,7 @@ layout: default
 |**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
 |**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
 |**2026-02-25**|**Towards Autonomous Graph Data Analytics with Analytics-Augmented Generation**|Qiange Wang et.al.|[2602.21604](http://arxiv.org/abs/2602.21604)|null|
-|**2026-02-25**|**SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints**|Hyungmin Kim et.al.|[2602.21595](http://arxiv.org/abs/2602.21595)|null|
+|**2026-02-25**|**SPOC: Safety-Aware Planning Under Partial Observability And Physical Constraints**|Hyungmin Kim et.al.|[2602.21595](http://arxiv.org/abs/2602.21595)|**[link](https://github.com/khm159/SPOC)**|
 |**2026-02-25**|**Breaking Semantic-Aware Watermarks via LLM-Guided Coherence-Preserving Semantic Injection**|Zheng Gao et.al.|[2602.21593](http://arxiv.org/abs/2602.21593)|null|
 |**2026-02-25**|**Duel-Evolve: Reward-Free Test-Time Scaling via LLM Self-Preferences**|Sweta Karlekar et.al.|[2602.21585](http://arxiv.org/abs/2602.21585)|null|
 |**2026-02-25**|**From Ad-Hoc Scripts to Orchestrated Pipelines: Architecting a Resilient ELT Framework for Developer Productivity Metrics**|Yuvraj Agrawal et.al.|[2602.21568](http://arxiv.org/abs/2602.21568)|null|
@@ -3485,7 +3485,7 @@ layout: default
 |**2026-01-08**|**PRISM: A Unified Framework for Post-Training LLMs Without Verifiable Rewards**|Mukesh Ghimire et.al.|[2601.04700](http://arxiv.org/abs/2601.04700)|**[link](https://github.com/ghimiremukesh/PRISM)**|
 |**2026-01-08**|**A Method for Constructing a Digital Transformation Driving Mechanism Based on Semantic Understanding of Large Models**|Huayi Liu et.al.|[2601.04696](http://arxiv.org/abs/2601.04696)|null|
 |**2026-01-08**|**ResMAS: Resilience Optimization in LLM-based Multi-agent Systems**|Zhilun Zhou et.al.|[2601.04694](http://arxiv.org/abs/2601.04694)|null|
-|**2026-01-08**|**Thunder-KoNUBench: A Corpus-Aligned Benchmark for Korean Negation Understanding**|Sungmok Jung et.al.|[2601.04693](http://arxiv.org/abs/2601.04693)|null|
+|**2026-01-08**|**Thunder-KoNUBench: A Corpus-Aligned Benchmark for Korean Negation Understanding**|Sungmok Jung et.al.|[2601.04693](http://arxiv.org/abs/2601.04693)|**[link](https://github.com/mcrl/Thunder-KoNUBench)**|
 |**2026-01-08**|**Do LLMs Benefit from User and Item Embeddings in Recommendation Tasks?**|Mir Rayat Imtiaz Hossain et.al.|[2601.04690](http://arxiv.org/abs/2601.04690)|null|
 |**2026-01-08**|**Extending Delta Debugging Minimization for Spectrum-Based Fault Localization**|Charaka Geethal Kapugama et.al.|[2601.04689](http://arxiv.org/abs/2601.04689)|null|
 |**2026-01-08**|**ToolGate: Contract-Grounded and Verified Tool Execution for LLMs**|Yanming Liu et.al.|[2601.04688](http://arxiv.org/abs/2601.04688)|null|
@@ -4288,7 +4288,7 @@ layout: default
 |**2025-12-04**|**pHapCompass: Probabilistic Assembly and Uncertainty Quantification of Polyploid Haplotype Phase**|Marjan Hosseini et.al.|[2512.04393](http://arxiv.org/abs/2512.04393)|null|
 |**2025-12-04**|**Learning to Orchestrate Agents in Natural Language with the Conductor**|Stefan Nielsen et.al.|[2512.04388](http://arxiv.org/abs/2512.04388)|null|
 |**2025-12-04**|**AgentBay: A Hybrid Interaction Sandbox for Seamless Human-AI Intervention in Agentic Systems**|Yun Piao et.al.|[2512.04367](http://arxiv.org/abs/2512.04367)|null|
-|**2025-12-04**|**Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning**|Hongye Cao et.al.|[2512.04359](http://arxiv.org/abs/2512.04359)|null|
+|**2025-12-04**|**Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning**|Hongye Cao et.al.|[2512.04359](http://arxiv.org/abs/2512.04359)|**[link](https://github.com/zldscr0/SENT)**|
 |**2025-12-04**|**Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment**|Kai-Po Chang et.al.|[2512.04356](http://arxiv.org/abs/2512.04356)|null|
 |**2025-11-27**|**Solving Context Window Overflow in AI Agents**|Anton Bulle Labate et.al.|[2511.22729](http://arxiv.org/abs/2511.22729)|null|
 |**2025-11-27**|**The Repeat Offenders: Characterizing and Predicting Extremely Bug-Prone Source Methods**|Ethan Friesen et.al.|[2511.22726](http://arxiv.org/abs/2511.22726)|null|
