@@ -1,4 +1,4 @@
-## Updated on 2026.08.01
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -477,7 +477,7 @@
 |**2026-07-02**|**Epic-Organized vs. Requirement-Aligned Gherkin: An Empirical Evaluation of LLM-Based Acceptance Criteria Generation**|Shahbaz Siddeeq et.al.|[2607.01980](http://arxiv.org/abs/2607.01980)|null|
 |**2026-07-02**|**OntoLearner: A Modular Python Library for Ontology Learning with Large Language Models**|Hamed Babaei Giglou et.al.|[2607.01977](http://arxiv.org/abs/2607.01977)|null|
 |**2026-07-02**|**Object Aligner: A Configurable JSON Schema Similarity Score for Graphs, Applied to LLM Prompt Optimization**|Jan Drchal et.al.|[2607.01972](http://arxiv.org/abs/2607.01972)|null|
-|**2026-07-02**|**Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing**|Yiming Liu et.al.|[2607.01964](http://arxiv.org/abs/2607.01964)|null|
+|**2026-07-02**|**Beyond Supervised Clarification: Input Rewriting with LLMs for Dialogue Discourse Parsing**|Yiming Liu et.al.|[2607.01964](http://arxiv.org/abs/2607.01964)|**[link](https://github.com/ounlp/Clarification-for-DDP)**|
 |**2026-07-02**|**NAVER LABS Europe Submission to the Instruction-following 2026 Short Track**|Marcely Zanon Boito et.al.|[2607.01960](http://arxiv.org/abs/2607.01960)|null|
 |**2026-07-02**|**Underspecification does not imply Incoherence: The Risks of Semantic Collapse in Coding Models**|Cedric Richter et.al.|[2607.01953](http://arxiv.org/abs/2607.01953)|null|
 |**2026-07-02**|**Robust for the Wrong Reasons: The Representational Geometry of LLM Robustness to Science Skepticism**|Minjong Cheon et.al.|[2607.01951](http://arxiv.org/abs/2607.01951)|null|
@@ -1310,7 +1310,7 @@
 |**2026-05-14**|**GGBound: A Genome-Grounded Agent for Microbial Life-Boundary Prediction**|Hanbo Huang et.al.|[2605.14442](http://arxiv.org/abs/2605.14442)|null|
 |**2026-05-14**|**FuzzAgent: Multi-Agent System for Evolutionary Library Fuzzing**|Yunlong Lyu et.al.|[2605.14431](http://arxiv.org/abs/2605.14431)|null|
 |**2026-05-14**|**MemLineage: Lineage-Guided Enforcement for LLM Agent Memory**|Ciyan Ouyang et.al.|[2605.14421](http://arxiv.org/abs/2605.14421)|null|
-|**2026-05-14**|**DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping**|Pengyun Zhu et.al.|[2605.14420](http://arxiv.org/abs/2605.14420)|null|
+|**2026-05-14**|**DVMap: Fine-Grained Pluralistic Value Alignment via High-Consensus Demographic-Value Mapping**|Pengyun Zhu et.al.|[2605.14420](http://arxiv.org/abs/2605.14420)|**[link](https://github.com/EnlightenedAI/DVMap)**|
 |**2026-05-14**|**The Great Pretender: A Stochasticity Problem in LLM Jailbreak**|Jean-Philippe Monteuuis et.al.|[2605.14418](http://arxiv.org/abs/2605.14418)|null|
 |**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|**[link](https://github.com/zhengkid/AutoTTS)**|
 |**2026-05-08**|**VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection**|James Petullo et.al.|[2605.08070](http://arxiv.org/abs/2605.08070)|null|
@@ -1919,11 +1919,11 @@
 |**2026-04-09**|**sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing**|Sergey V Samsonau et.al.|[2604.08501](http://arxiv.org/abs/2604.08501)|null|
 |**2026-04-09**|**Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery**|Yifang Wang et.al.|[2604.08491](http://arxiv.org/abs/2604.08491)|null|
 |**2026-04-09**|**AI generates well-liked but templatic empathic responses**|Emma Gueorguieva et.al.|[2604.08479](http://arxiv.org/abs/2604.08479)|null|
-|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|null|
+|**2026-04-09**|**SUPERNOVA: Eliciting General Reasoning in LLMs with Reinforcement Learning on Natural Instructions**|Ashima Suvarna et.al.|[2604.08477](http://arxiv.org/abs/2604.08477)|**[link](https://github.com/Arxiv-to-code/arxiv-260408477-supernova-eliciting-general-reasoning-in-llms-with-reinforce)**|
 |**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475](http://arxiv.org/abs/2604.08475)|null|
-|**2026-04-09**|**From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis**|Juergen Dietrich et.al.|[2604.08465](http://arxiv.org/abs/2604.08465)|null|
-|**2026-04-09**|**KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation**|Tongbo Chen et.al.|[2604.08455](http://arxiv.org/abs/2604.08455)|null|
-|**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|null|
+|**2026-04-09**|**From Safety Risk to Design Principle: Peer-Preservation in Multi-Agent LLM Systems and Its Implications for Orchestrated Democratic Discourse Analysis**|Juergen Dietrich et.al.|[2604.08465](http://arxiv.org/abs/2604.08465)|**[link](https://github.com/Arxiv-to-code/arxiv-260408465-from-safety-risk-to-design-principle-peer-preservation-in-mu)**|
+|**2026-04-09**|**KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation**|Tongbo Chen et.al.|[2604.08455](http://arxiv.org/abs/2604.08455)|**[link](https://github.com/ZJU-REAL/KnowU-Bench)**|
+|**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|**[link](https://github.com/yandex-research/context-intensive-kv-offloading)**|
 |**2026-04-09**|**Learning Who Disagrees: Demographic Importance Weighting for Modeling Annotator Distributions with DiADEM**|Samay U. Shetty et.al.|[2604.08425](http://arxiv.org/abs/2604.08425)|null|
 |**2026-04-09**|**Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs**|Kevin Lira et.al.|[2604.08417](http://arxiv.org/abs/2604.08417)|null|
 |**2026-04-09**|**Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain**|Hanzhi Liu et.al.|[2604.08407](http://arxiv.org/abs/2604.08407)|null|
@@ -2746,7 +2746,7 @@
 |**2026-02-25**|**PPCR-IM: A System for Multi-layer DAG-based Public Policy Consequence Reasoning and Social Indicator Mapping**|Zichen Song et.al.|[2602.21650](http://arxiv.org/abs/2602.21650)|null|
 |**2026-02-25**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-25**|**Uncertainty Modeling for SysML v2**|Man Zhang et.al.|[2602.21641](http://arxiv.org/abs/2602.21641)|null|
-|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|null|
+|**2026-02-25**|**Multi-dimensional Assessment and Explainable Feedback for Counselor Responses to Client Resistance in Text-based Counseling with LLMs**|Anqi Li et.al.|[2602.21638](http://arxiv.org/abs/2602.21638)|**[link](https://github.com/AnqiLeee/SCORE-EVAL)**|
 |**2026-02-25**|**AgentLTV: An Agent-Based Unified Search-and-Evolution Framework for Automated Lifetime Value Prediction**|Chaowei Wu et.al.|[2602.21634](http://arxiv.org/abs/2602.21634)|null|
 |**2026-02-25**|**Multi-Layer Scheduling for MoE-Based LLM Reasoning**|Yifan Sun et.al.|[2602.21626](http://arxiv.org/abs/2602.21626)|null|
 |**2026-02-25**|**Structurally Aligned Subtask-Level Memory for Software Engineering Agents**|Kangning Shen et.al.|[2602.21611](http://arxiv.org/abs/2602.21611)|null|
@@ -3553,9 +3553,9 @@
 |**2026-01-08**|**DVD: A Robust Method for Detecting Variant Contamination in Large Language Model Evaluation**|Renzhao Liang et.al.|[2601.04895](http://arxiv.org/abs/2601.04895)|null|
 |**2026-01-08**|**Faithful Summarisation under Disagreement via Belief-Level Aggregation**|Favour Yahdii Aghaebe et.al.|[2601.04889](http://arxiv.org/abs/2601.04889)|null|
 |**2026-01-08**|**SmartSearch: Process Reward-Guided Query Refinement for Search Agents**|Tongyu Wen et.al.|[2601.04888](http://arxiv.org/abs/2601.04888)|null|
-|**2026-01-08**|**Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests**|Jingzhi Gong et.al.|[2601.04886](http://arxiv.org/abs/2601.04886)|null|
-|**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|null|
-|**2026-01-08**|**Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis**|Mingyue Cheng et.al.|[2601.04879](http://arxiv.org/abs/2601.04879)|null|
+|**2026-01-08**|**Analyzing Message-Code Inconsistency in AI Coding Agent-Authored Pull Requests**|Jingzhi Gong et.al.|[2601.04886](http://arxiv.org/abs/2601.04886)|**[link](https://github.com/gjz78910/PR-MCI)**|
+|**2026-01-08**|**CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters**|Ao Sun et.al.|[2601.04885](http://arxiv.org/abs/2601.04885)|**[link](https://github.com/Throll/CuMA)**|
+|**2026-01-08**|**Mind2Report: A Cognitive Deep Research Agent for Expert-Level Commercial Report Synthesis**|Mingyue Cheng et.al.|[2601.04879](http://arxiv.org/abs/2601.04879)|**[link](https://github.com/ustc-ai4science/Mind2Report)**|
 |**2026-01-08**|**Higher-Order Knowledge Representations for Agentic Scientific Reasoning**|Isabella A. Stewart et.al.|[2601.04878](http://arxiv.org/abs/2601.04878)|null|
 |**2026-01-08**|**EvolSQL: Structure-Aware Evolution for Scalable Text-to-SQL Data Synthesis**|Xuanguang Pan et.al.|[2601.04875](http://arxiv.org/abs/2601.04875)|null|
 |**2026-01-08**|**Orchestrating Intelligence: Confidence-Aware Routing for Efficient Multi-Agent Collaboration across Multi-Scale Models**|Jingbo Wang et.al.|[2601.04861](http://arxiv.org/abs/2601.04861)|null|
@@ -5193,7 +5193,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

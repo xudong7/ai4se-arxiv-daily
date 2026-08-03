@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.01
+## Updated on 2026.08.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -888,10 +888,10 @@ layout: default
 |**2026-06-15**|**RHO: Your Coding Agent is Secretly a Roboticist**|Karim Elmaaroufi et.al.|[2606.16458](http://arxiv.org/abs/2606.16458)|null|
 |**2026-06-15**|**ACCORD: Action-Conditioned Contextual Grounding for Language Agents**|Lai Jiang et.al.|[2606.16432](http://arxiv.org/abs/2606.16432)|null|
 |**2026-06-15**|**Transferable Self-Evolving Playbooks for Agentic Security Auditing**|Ziyue Wang et.al.|[2606.16420](http://arxiv.org/abs/2606.16420)|null|
-|**2026-06-15**|**MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation**|Kyeongmin Yeo et.al.|[2606.16408](http://arxiv.org/abs/2606.16408)|null|
+|**2026-06-15**|**MUNI: Multimodal Unified Latent Diffusion for Coherent Any-to-Any Generation**|Kyeongmin Yeo et.al.|[2606.16408](http://arxiv.org/abs/2606.16408)|**[link](https://github.com/MUNI-proj/muni-proj.github.io)**|
 |**2026-06-15**|**A Mechanistic Understanding of Pronoun Fidelity in LLMs**|Katharina Trinley et.al.|[2606.16407](http://arxiv.org/abs/2606.16407)|null|
 |**2026-06-15**|**Surpassing Scale by Efficiency: A Compact 135M Parameter Foundational LLM Natively Adapted for the Bangla Language**|Rabindra Nath Nandi et.al.|[2606.16383](http://arxiv.org/abs/2606.16383)|null|
-|**2026-06-15**|**Evaluating LLM Personalization via Semantic Constraint Verification**|Xuran Li et.al.|[2606.16368](http://arxiv.org/abs/2606.16368)|null|
+|**2026-06-15**|**Evaluating LLM Personalization via Semantic Constraint Verification**|Xuran Li et.al.|[2606.16368](http://arxiv.org/abs/2606.16368)|**[link](https://github.com/Xuran-LI/Evaluating-LLM-Personalization-via-Semantic-Constraint-Verification)**|
 |**2026-06-15**|**Looking Is Not Picking: An Attention-Segment Account of Tool-Selection Failures in LLM Agents**|Shiyang Chen et.al.|[2606.16364](http://arxiv.org/abs/2606.16364)|null|
 |**2026-06-15**|**Tyler: Typed Latent Reasoning for Language Models -- When to Think, What to Compute, and How Much to Allocate**|Hanyu Lin et.al.|[2606.16360](http://arxiv.org/abs/2606.16360)|null|
 |**2026-06-15**|**The Proxy Knows Too Much: Sealing LLM API Routers with Attested TEEs**|Sipeng Xie et.al.|[2606.16358](http://arxiv.org/abs/2606.16358)|null|
@@ -1695,7 +1695,7 @@ layout: default
 |**2026-04-23**|**Do LLM Decoders Listen Fairly? Benchmarking How Language Model Priors Shape Bias in Speech Recognition**|Srishti Ginjala et.al.|[2604.21276](http://arxiv.org/abs/2604.21276)|null|
 |**2026-04-23**|**Enhancing Online Recruitment with Category-Aware MoE and LLM-based Data Augmentation**|Minping Chen et.al.|[2604.21264](http://arxiv.org/abs/2604.21264)|null|
 |**2026-04-23**|**Trustworthy Clinical Decision Support Using Meta-Predicates and Domain-Specific Languages**|Michael Bouzinier et.al.|[2604.21263](http://arxiv.org/abs/2604.21263)|null|
-|**2026-04-23**|**When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**|Chenghao Yang et.al.|[2604.21255](http://arxiv.org/abs/2604.21255)|null|
+|**2026-04-23**|**When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**|Chenghao Yang et.al.|[2604.21255](http://arxiv.org/abs/2604.21255)|**[link](https://github.com/Syuchin/AgentEcho)**|
 |**2026-04-23**|**Hyperloop Transformers**|Abbas Zeitoun et.al.|[2604.21254](http://arxiv.org/abs/2604.21254)|null|
 |**2026-04-23**|**Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation**|Hanwen Gu et.al.|[2604.21253](http://arxiv.org/abs/2604.21253)|null|
 |**2026-04-23**|**CAP: Controllable Alignment Prompting for Unlearning in LLMs**|Zhaokun Wang et.al.|[2604.21251](http://arxiv.org/abs/2604.21251)|null|
@@ -2325,7 +2325,7 @@ layout: default
 |**2026-03-19**|**DaPT: A Dual-Path Framework for Multilingual Multi-hop Question Answering**|Yilin Wang et.al.|[2603.19097](http://arxiv.org/abs/2603.19097)|null|
 |**2026-03-19**|**Follow the Rules (or Not): Community Norms and AI-Generated Support in Online Health Communities**|Shravika Mittal et.al.|[2603.19093](http://arxiv.org/abs/2603.19093)|null|
 |**2026-03-19**|**Serendipity by Design: Evaluating the Impact of Cross-domain Mappings on Human and LLM Creativity**|Qiawen Ella Liu et.al.|[2603.19087](http://arxiv.org/abs/2603.19087)|null|
-|**2026-03-19**|**A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes**|Madeline Bittner et.al.|[2603.19082](http://arxiv.org/abs/2603.19082)|null|
+|**2026-03-19**|**A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes**|Madeline Bittner et.al.|[2603.19082](http://arxiv.org/abs/2603.19082)|**[link](https://github.com/MaddieBitt/HEALIX)**|
 |**2026-03-19**|**Parallelograms Strike Back: LLMs Generate Better Analogies than People**|Qiawen Ella Liu et.al.|[2603.19066](http://arxiv.org/abs/2603.19066)|null|
 |**2026-03-19**|**SignAgent: Agentic LLMs for Linguistically-Grounded Sign Language Annotation and Dataset Curation**|Oliver Cory et.al.|[2603.19059](http://arxiv.org/abs/2603.19059)|null|
 |**2026-03-19**|**MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models**|Chenyang Gu et.al.|[2603.19044](http://arxiv.org/abs/2603.19044)|null|
@@ -4055,7 +4055,7 @@ layout: default
 |**2025-12-18**|**An Information-Theoretic Framework for Robust Large Language Model Editing**|Qizhou Chen et.al.|[2512.16227](http://arxiv.org/abs/2512.16227)|null|
 |**2025-12-18**|**PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving**|Jianming Liu et.al.|[2512.16214](http://arxiv.org/abs/2512.16214)|null|
 |**2025-12-18**|**Mitigating Hallucinations in Healthcare LLMs with Granular Fact-Checking and Domain-Specific Adaptation**|Musarrat Zeba et.al.|[2512.16189](http://arxiv.org/abs/2512.16189)|null|
-|**2025-12-18**|**DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack**|Hao Li et.al.|[2512.16182](http://arxiv.org/abs/2512.16182)|null|
+|**2025-12-18**|**DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack**|Hao Li et.al.|[2512.16182](http://arxiv.org/abs/2512.16182)|**[link](https://github.com/hlee-top/DualGuard)**|
 |**2025-12-18**|**Ev-Trust: A Strategy Equilibrium Trust Mechanism for Evolutionary Games in LLM-Based Multi-Agent Services**|Shiduo Yang et.al.|[2512.16167](http://arxiv.org/abs/2512.16167)|null|
 |**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|**[link](https://github.com/Buycar-arb/ToolForge)**|
 |**2025-12-18**|**Analysis of Design Patterns and Benchmark Practices in Apache Kafka Event-Streaming Systems**|Muzeeb Mohammad et.al.|[2512.16146](http://arxiv.org/abs/2512.16146)|null|
@@ -4839,7 +4839,7 @@ layout: default
 |**2025-10-30**|**Theta as a Horn Solver**|Levente Bajczi et.al.|[2510.26430](http://arxiv.org/abs/2510.26430)|null|
 |**2025-10-30**|**Nexus: Execution-Grounded Multi-Agent Test Oracle Synthesis**|Dong Huang et.al.|[2510.26423](http://arxiv.org/abs/2510.26423)|null|
 |**2025-10-30**|**OmniEduBench: A Comprehensive Chinese Benchmark for Evaluating Large Language Models in Education**|Min Zhang et.al.|[2510.26422](http://arxiv.org/abs/2510.26422)|null|
-|**2025-10-30**|**Environmental Impact of CI/CD Pipelines**|Nuno Saavedra et.al.|[2510.26413](http://arxiv.org/abs/2510.26413)|null|
+|**2025-10-30**|**Environmental Impact of CI/CD Pipelines**|Nuno Saavedra et.al.|[2510.26413](http://arxiv.org/abs/2510.26413)|**[link](https://github.com/FulbertDev-AI/Zitro-CLI)**|
 |**2025-10-30**|**Scales++: Compute Efficient Evaluation Subset Selection with Cognitive Scales Embeddings**|Andrew M. Bean et.al.|[2510.26384](http://arxiv.org/abs/2510.26384)|null|
 |**2025-10-30**|**BOTS: A Unified Framework for Bayesian Online Task Selection in LLM Reinforcement Finetuning**|Qianli Shen et.al.|[2510.26374](http://arxiv.org/abs/2510.26374)|null|
 |**2025-10-30**|**On the Role of Context for Discourse Relation Classification in Scientific Writing**|Stephen Wan et.al.|[2510.26354](http://arxiv.org/abs/2510.26354)|null|
