@@ -1,4 +1,4 @@
-## Updated on 2026.08.06
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1285,10 +1285,10 @@
 |**2026-05-28**|**Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation**|Haoyue Yang et.al.|[2605.30000](http://arxiv.org/abs/2605.30000)|null|
 |**2026-05-28**|**Accelerating Constrained Decoding with Token Space Compression**|Michael Sullivan et.al.|[2605.29986](http://arxiv.org/abs/2605.29986)|null|
 |**2026-05-28**|**Fingerprinting Inference Systems of Large Language Models**|Anna Wimbauer et.al.|[2605.29979](http://arxiv.org/abs/2605.29979)|null|
-|**2026-05-28**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966](http://arxiv.org/abs/2605.29966)|null|
+|**2026-05-28**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966](http://arxiv.org/abs/2605.29966)|**[link](https://github.com/liuyiming01/COMPASS)**|
 |**2026-05-28**|**Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots**|Mark Vero et.al.|[2605.29963](http://arxiv.org/abs/2605.29963)|null|
 |**2026-05-28**|**Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction**|Hongtao Wang et.al.|[2605.29960](http://arxiv.org/abs/2605.29960)|null|
-|**2026-05-28**|**Uncertainty Quantification for Multimodal Retrieval Augmented Generation**|Simon Binz et.al.|[2605.29956](http://arxiv.org/abs/2605.29956)|null|
+|**2026-05-28**|**Uncertainty Quantification for Multimodal Retrieval Augmented Generation**|Simon Binz et.al.|[2605.29956](http://arxiv.org/abs/2605.29956)|**[link](https://github.com/informagi/LeMUQ)**|
 |**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|null|
 |**2026-05-28**|**Make LLM Learn to Synthesize from Streaming Experiences through Feedback**|Zhenlin Hu et.al.|[2605.29940](http://arxiv.org/abs/2605.29940)|null|
 |**2026-05-28**|**Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs**|Mahjabin Nahar et.al.|[2605.29928](http://arxiv.org/abs/2605.29928)|null|
@@ -2365,7 +2365,7 @@
 |**2026-03-25**|**Understanding the Challenges in Iterative Generative Optimization with LLMs**|Allen Nie et.al.|[2603.23994](http://arxiv.org/abs/2603.23994)|null|
 |**2026-03-25**|**From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring**|Nizam Kadir et.al.|[2603.23990](http://arxiv.org/abs/2603.23990)|null|
 |**2026-03-25**|**CoCR-RAG: Enhancing Retrieval-Augmented Generation in Web Q&A via Concept-oriented Context Reconstruction**|Kaize Shi et.al.|[2603.23989](http://arxiv.org/abs/2603.23989)|null|
-|**2026-03-25**|**Can we generate portable representations for clinical time series data using LLMs?**|Zongliang Ji et.al.|[2603.23987](http://arxiv.org/abs/2603.23987)|null|
+|**2026-03-25**|**Can we generate portable representations for clinical time series data using LLMs?**|Zongliang Ji et.al.|[2603.23987](http://arxiv.org/abs/2603.23987)|**[link](https://github.com/Jerryji007/Record2Vec-ICLR2026)**|
 |**2026-03-25**|**Diet Your LLM: Dimension-wise Global Pruning of LLMs via Merging Task-specific Importance Score**|Jimyung Hong et.al.|[2603.23985](http://arxiv.org/abs/2603.23985)|null|
 |**2026-03-25**|**BRIDG-Q: Barren-Plateau-Resilient Initialisation with Data-Aware LLM-Generated Quantum Circuits**|Ngoc Nhi Nguyen et.al.|[2603.23979](http://arxiv.org/abs/2603.23979)|null|
 |**2026-03-25**|**SilLang: Improving Gait Recognition with Silhouette Language Encoding**|Ruiyi Zhan et.al.|[2603.23976](http://arxiv.org/abs/2603.23976)|null|
@@ -3079,10 +3079,10 @@
 |**2026-02-10**|**Behavioral Economics of AI: LLM Biases and Corrections**|Pietro Bini et.al.|[2602.09362](http://arxiv.org/abs/2602.09362)|null|
 |**2026-02-10**|**Large Language Models for Designing Participatory Budgeting Rules**|Nguyen Thach et.al.|[2602.09349](http://arxiv.org/abs/2602.09349)|null|
 |**2026-02-10**|**Digital Linguistic Bias in Spanish: Evidence from Lexical Variation in LLMs**|Yoshifumi Kawasaki et.al.|[2602.09346](http://arxiv.org/abs/2602.09346)|null|
-|**2026-02-10**|**AgentCgroup: Understanding and Controlling OS Resources of AI Agents**|Yusheng Zheng et.al.|[2602.09345](http://arxiv.org/abs/2602.09345)|null|
+|**2026-02-10**|**AgentCgroup: Understanding and Controlling OS Resources of AI Agents**|Yusheng Zheng et.al.|[2602.09345](http://arxiv.org/abs/2602.09345)|**[link](https://github.com/eunomia-bpf/agentcgroup)**|
 |**2026-02-10**|**Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge**|Wei Yang et.al.|[2602.09341](http://arxiv.org/abs/2602.09341)|null|
 |**2026-02-10**|**Understanding Risk and Dependency in AI Chatbot Use from User Discourse**|Jianfeng Zhu et.al.|[2602.09339](http://arxiv.org/abs/2602.09339)|null|
-|**2026-02-10**|**In-Hospital Stroke Prediction from PPG-Derived Hemodynamic Features**|Jiaming Liu et.al.|[2602.09328](http://arxiv.org/abs/2602.09328)|null|
+|**2026-02-10**|**In-Hospital Stroke Prediction from PPG-Derived Hemodynamic Features**|Jiaming Liu et.al.|[2602.09328](http://arxiv.org/abs/2602.09328)|**[link](https://github.com/6jm233333/HemoStroke-PPG)**|
 |**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
 |**2026-02-10**|**Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density**|Zhendong Mi et.al.|[2602.09316](http://arxiv.org/abs/2602.09316)|null|
 |**2026-02-10**|**Don't Shoot The Breeze: Topic Continuity Model Using Nonlinear Naive Bayes With Attention**|Shu-Ting Pi et.al.|[2602.09312](http://arxiv.org/abs/2602.09312)|null|
@@ -4956,9 +4956,9 @@
 |**2025-10-30**|**Unravelling the Mechanisms of Manipulating Numbers in Language Models**|Michal Štefánik et.al.|[2510.26285](http://arxiv.org/abs/2510.26285)|null|
 |**2025-10-30**|**Do LLMs Signal When They're Right? Evidence from Neuron Agreement**|Kang Chen et.al.|[2510.26277](http://arxiv.org/abs/2510.26277)|null|
 |**2025-10-30**|**A Research Roadmap for Augmenting Software Engineering Processes and Software Products with Generative AI**|Domenico Amalfitano et.al.|[2510.26275](http://arxiv.org/abs/2510.26275)|null|
-|**2025-10-30**|**PVMark: Enabling Public Verifiability for LLM Watermarking Schemes**|Haohua Duan et.al.|[2510.26274](http://arxiv.org/abs/2510.26274)|null|
+|**2025-10-30**|**PVMark: Enabling Public Verifiability for LLM Watermarking Schemes**|Haohua Duan et.al.|[2510.26274](http://arxiv.org/abs/2510.26274)|**[link](https://github.com/ashleyxly/PVMark)**|
 |**2025-10-30**|**Graph-Enhanced Policy Optimization in LLM Agent Training**|Jiazhen Yuan et.al.|[2510.26270](http://arxiv.org/abs/2510.26270)|null|
-|**2025-10-30**|**Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs**|Takuma Sato et.al.|[2510.26253](http://arxiv.org/abs/2510.26253)|null|
+|**2025-10-30**|**Pragmatic Theories Enhance Understanding of Implied Meanings in LLMs**|Takuma Sato et.al.|[2510.26253](http://arxiv.org/abs/2510.26253)|**[link](https://github.com/takuma1229/pragmatic-theories-enhance)**|
 |**2025-10-30**|**Retrieval Augmented Generation-Enhanced Distributed LLM Agents for Generalizable Traffic Signal Control with Emergency Vehicles**|Xinhang Li et.al.|[2510.26242](http://arxiv.org/abs/2510.26242)|null|
 |**2025-10-30**|**Questionnaire meets LLM: A Benchmark and Empirical Study of Structural Skills for Understanding Questions and Responses**|Duc-Hai Nguyen et.al.|[2510.26238](http://arxiv.org/abs/2510.26238)|null|
 |**2025-10-30**|**ChatGPT in Systematic Investing -- Enhancing Risk-Adjusted Returns with LLMs**|Nikolas Anic et.al.|[2510.26228](http://arxiv.org/abs/2510.26228)|null|
@@ -5293,7 +5293,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260810>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

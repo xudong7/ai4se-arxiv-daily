@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -1280,12 +1280,12 @@ layout: default
 |**2026-05-28**|**KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning**|Kun Feng et.al.|[2605.30002](http://arxiv.org/abs/2605.30002)|null|
 |**2026-05-28**|**The Rise of the Software-Defined Vehicle: Architectures, Enabling Technologies, and Future Opportunities**|Eirini Liotou et.al.|[2605.30001](http://arxiv.org/abs/2605.30001)|null|
 |**2026-05-28**|**Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation**|Haoyue Yang et.al.|[2605.30000](http://arxiv.org/abs/2605.30000)|null|
-|**2026-05-28**|**Accelerating Constrained Decoding with Token Space Compression**|Michael Sullivan et.al.|[2605.29986](http://arxiv.org/abs/2605.29986)|null|
+|**2026-05-28**|**Accelerating Constrained Decoding with Token Space Compression**|Michael Sullivan et.al.|[2605.29986](http://arxiv.org/abs/2605.29986)|**[link](https://github.com/coli-saar/cfgzip-experiments)**|
 |**2026-05-28**|**Fingerprinting Inference Systems of Large Language Models**|Anna Wimbauer et.al.|[2605.29979](http://arxiv.org/abs/2605.29979)|null|
-|**2026-05-28**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966](http://arxiv.org/abs/2605.29966)|null|
+|**2026-05-28**|**Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent**|Yiming Liu et.al.|[2605.29966](http://arxiv.org/abs/2605.29966)|**[link](https://github.com/liuyiming01/COMPASS)**|
 |**2026-05-28**|**Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots**|Mark Vero et.al.|[2605.29963](http://arxiv.org/abs/2605.29963)|null|
 |**2026-05-28**|**Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction**|Hongtao Wang et.al.|[2605.29960](http://arxiv.org/abs/2605.29960)|null|
-|**2026-05-28**|**Uncertainty Quantification for Multimodal Retrieval Augmented Generation**|Simon Binz et.al.|[2605.29956](http://arxiv.org/abs/2605.29956)|null|
+|**2026-05-28**|**Uncertainty Quantification for Multimodal Retrieval Augmented Generation**|Simon Binz et.al.|[2605.29956](http://arxiv.org/abs/2605.29956)|**[link](https://github.com/informagi/LeMUQ)**|
 |**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|null|
 |**2026-05-28**|**Make LLM Learn to Synthesize from Streaming Experiences through Feedback**|Zhenlin Hu et.al.|[2605.29940](http://arxiv.org/abs/2605.29940)|null|
 |**2026-05-28**|**Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs**|Mahjabin Nahar et.al.|[2605.29928](http://arxiv.org/abs/2605.29928)|null|
@@ -2927,11 +2927,11 @@ layout: default
 |**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
 |**2026-02-13**|**Buy versus Build an LLM: A Decision Framework for Governments**|Jiahao Lu et.al.|[2602.13033](http://arxiv.org/abs/2602.13033)|null|
 |**2026-02-13**|**Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications**|David Dietrich et.al.|[2602.13029](http://arxiv.org/abs/2602.13029)|null|
-|**2026-02-13**|**Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models**|Hao Chen et.al.|[2602.12996](http://arxiv.org/abs/2602.12996)|null|
+|**2026-02-13**|**Know More, Know Clearer: A Meta-Cognitive Framework for Knowledge Augmentation in Large Language Models**|Hao Chen et.al.|[2602.12996](http://arxiv.org/abs/2602.12996)|**[link](https://github.com/AI9Stars/Know-More-Know-Clearer)**|
 |**2026-02-13**|**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**|Yujiong Shen et.al.|[2602.12984](http://arxiv.org/abs/2602.12984)|null|
 |**2026-02-13**|**INHerit-SG: Incremental Hierarchical Semantic Scene Graphs with RAG-Style Retrieval**|YukTungSamuel Fang et.al.|[2602.12971](http://arxiv.org/abs/2602.12971)|null|
 |**2026-02-13**|**RGAlign-Rec: Ranking-Guided Alignment for Latent Query Reasoning in Recommendation Systems**|Junhua Liu et.al.|[2602.12968](http://arxiv.org/abs/2602.12968)|null|
-|**2026-02-13**|**ProbeLLM: Automating Principled Diagnosis of LLM Failures**|Yue Huang et.al.|[2602.12966](http://arxiv.org/abs/2602.12966)|null|
+|**2026-02-13**|**ProbeLLM: Automating Principled Diagnosis of LLM Failures**|Yue Huang et.al.|[2602.12966](http://arxiv.org/abs/2602.12966)|**[link](https://github.com/HowieHwong/ProbeLLM)**|
 |**2026-02-13**|**TriGen: NPU Architecture for End-to-End Acceleration of Large Language Models based on SW-HW Co-Design**|Jonghun Lee et.al.|[2602.12962](http://arxiv.org/abs/2602.12962)|null|
 |**2026-02-13**|**Human Tool: An MCP-Style Framework for Human-Agent Collaboration**|Yuanrong Tang et.al.|[2602.12953](http://arxiv.org/abs/2602.12953)|null|
 |**2026-02-13**|**The Influence of Code Smells in Efferent Neighbors on Class Stability**|Zushuai Zhang et.al.|[2602.12950](http://arxiv.org/abs/2602.12950)|null|
@@ -3319,7 +3319,7 @@ layout: default
 |**2026-01-23**|**Assessing the Feasibility of Selective Instrumentation for Runtime Code Coverage in Large C++ Game Engines**|Ian Gauk et.al.|[2601.16881](http://arxiv.org/abs/2601.16881)|null|
 |**2026-01-23**|**From Atom to Community: Structured and Evolving Agent Memory for User Behavior Modeling**|Yuxin Liao et.al.|[2601.16872](http://arxiv.org/abs/2601.16872)|null|
 |**2026-01-23**|**Navigating the Shift: A Comparative Analysis of Web Search and Generative AI Response Generation**|Mahe Chen et.al.|[2601.16858](http://arxiv.org/abs/2601.16858)|null|
-|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|null|
+|**2026-01-23**|**Reasoning Promotes Robustness in Theory of Mind Tasks**|Ian B. de Haan et.al.|[2601.16853](http://arxiv.org/abs/2601.16853)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2026-01-23**|**The Art of Being Difficult: Combining Human and AI Strengths to Find Adversarial Instances for Heuristics**|Henri Nikoleit et.al.|[2601.16849](http://arxiv.org/abs/2601.16849)|null|
 |**2026-01-23**|**AI builds, We Analyze: An Empirical Study of AI-Generated Build Code Quality**|Anwar Ghammam et.al.|[2601.16839](http://arxiv.org/abs/2601.16839)|null|
 |**2026-01-23**|**Privacy in Human-AI Romantic Relationships: Concerns, Boundaries, and Agency**|Rongjun Ma et.al.|[2601.16824](http://arxiv.org/abs/2601.16824)|null|
