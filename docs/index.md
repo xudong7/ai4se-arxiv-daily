@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -5027,12 +5027,12 @@ layout: default
 |**2025-10-29**|**Implicature in Interaction: Understanding Implicature Improves Alignment in Human-LLM Interaction**|Asutosh Hota et.al.|[2510.25426](http://arxiv.org/abs/2510.25426)|null|
 |**2025-10-29**|**What Challenges Do Developers Face in AI Agent Systems? An Empirical Study on Stack Overflow**|Ali Asgari et.al.|[2510.25423](http://arxiv.org/abs/2510.25423)|null|
 |**2025-10-29**|**Small Talk, Big Impact? LLM-based Conversational Agents to Mitigate Passive Fatigue in Conditional Automated Driving**|Lewis Cockram et.al.|[2510.25421](http://arxiv.org/abs/2510.25421)|null|
-|**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|null|
+|**2025-10-29**|**Serve Programs, Not Prompts**|In Gim et.al.|[2510.25412](http://arxiv.org/abs/2510.25412)|**[link](https://github.com/chrisneagu/FTC-Skystone-Dark-Angels-Romania-2020)**|
 |**2025-10-30**|**BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic Domains**|Vijay Devane et.al.|[2510.25409](http://arxiv.org/abs/2510.25409)|null|
 |**2025-10-30**|**Dissect-and-Restore: AI-based Code Verification with Transient Refactoring**|Changjie Wang et.al.|[2510.25406](http://arxiv.org/abs/2510.25406)|null|
 |**2025-10-29**|**GPTOpt: Towards Efficient LLM-Based Black-Box Optimization**|Jamison Meindl et.al.|[2510.25404](http://arxiv.org/abs/2510.25404)|null|
 |**2025-10-30**|**Towards Automated Quality Assurance of Patent Specifications: A Multi-Dimensional LLM Framework**|Yuqian Chai et.al.|[2510.25402](http://arxiv.org/abs/2510.25402)|null|
-|**2025-10-29**|**Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires**|Doan Nam Long Vu et.al.|[2510.25384](http://arxiv.org/abs/2510.25384)|null|
+|**2025-10-29**|**Roleplaying with Structure: Synthetic Therapist-Client Conversation Generation from Questionnaires**|Doan Nam Long Vu et.al.|[2510.25384](http://arxiv.org/abs/2510.25384)|**[link](https://github.com/AI-MH/questionnaire2dialogue)**|
 |**2025-10-29**|**CGM-Led Multimodal Tracking with Chatbot Support: An Autoethnography in Sub-Health**|Dongyijie Primo Pan et.al.|[2510.25381](http://arxiv.org/abs/2510.25381)|null|
 |**2025-10-29**|**Hallucinations in Bibliographic Recommendation: Citation Frequency as a Proxy for Training Data Redundancy**|Junichiro Niimi et.al.|[2510.25378](http://arxiv.org/abs/2510.25378)|null|
 |**2025-10-29**|**Monitoring Transformative Technological Convergence Through LLM-Extracted Semantic Entity Triple Graphs**|Alexander Sternfeld et.al.|[2510.25370](http://arxiv.org/abs/2510.25370)|null|
