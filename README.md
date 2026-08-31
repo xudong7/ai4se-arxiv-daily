@@ -2284,10 +2284,10 @@
 |**2026-04-09**|**Are we still able to recognize pearls? Machine-driven peer review and the risk to creativity: An explainable RAG-XAI detection framework with markers extraction**|Alin-Gabriel Văduva et.al.|[2604.07964](http://arxiv.org/abs/2604.07964)|null|
 |**2026-04-09**|**Rethinking Data Mixing from the Perspective of Large Language Models**|Yuanjian Xu et.al.|[2604.07963](http://arxiv.org/abs/2604.07963)|null|
 |**2026-04-09**|**TOOLCAD: Exploring Tool-Using Large Language Models in Text-to-CAD Generation with Reinforcement Learning**|Yifei Gong et.al.|[2604.07960](http://arxiv.org/abs/2604.07960)|null|
-|**2026-04-09**|**Rethinking Residual Errors in Compensation-based LLM Quantization**|Shuaiting Li et.al.|[2604.07955](http://arxiv.org/abs/2604.07955)|null|
+|**2026-04-09**|**Rethinking Residual Errors in Compensation-based LLM Quantization**|Shuaiting Li et.al.|[2604.07955](http://arxiv.org/abs/2604.07955)|**[link](https://github.com/list0830/ResComp)**|
 |**2026-04-09**|**On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**|Amirhossein Afsharrad et.al.|[2604.07944](http://arxiv.org/abs/2604.07944)|null|
 |**2026-04-09**|**Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning**|Shiwan Zhao et.al.|[2604.07941](http://arxiv.org/abs/2604.07941)|null|
-|**2026-04-09**|**HCRE: LLM-based Hierarchical Classification for Cross-Document Relation Extraction with a Prediction-then-Verification Strategy**|Guoqi Ma et.al.|[2604.07937](http://arxiv.org/abs/2604.07937)|null|
+|**2026-04-09**|**HCRE: LLM-based Hierarchical Classification for Cross-Document Relation Extraction with a Prediction-then-Verification Strategy**|Guoqi Ma et.al.|[2604.07937](http://arxiv.org/abs/2604.07937)|**[link](https://github.com/XMUDeepLIT/HCRE)**|
 |**2026-04-09**|**Top Management Journal Portal: A Real-Source Search and Research Analytics Artifact for UTD-24 and FT50 Journals**|Chuang Zhao et.al.|[2604.07934](http://arxiv.org/abs/2604.07934)|null|
 |**2026-04-09**|**Robust Length Prediction: A Perspective from Heavy-Tailed Prompt-Conditioned Distributions**|Jing Wang et.al.|[2604.07931](http://arxiv.org/abs/2604.07931)|null|
 |**2026-04-09**|**Same Outcomes, Different Journeys: A Trace-Level Framework for Comparing Human and GUI-Agent Behavior in Production Search Systems**|Maria Movin et.al.|[2604.07929](http://arxiv.org/abs/2604.07929)|**[link](https://github.com/spotify-research/trace-level-human-agent-framework)**|
@@ -2887,7 +2887,7 @@
 |**2026-03-10**|**MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data**|Zongxia Li et.al.|[2603.09206](http://arxiv.org/abs/2603.09206)|null|
 |**2026-03-10**|**Emotion is Not Just a Label: Latent Emotional Factors in LLM Processing**|Benjamin Reichman et.al.|[2603.09205](http://arxiv.org/abs/2603.09205)|null|
 |**2026-03-10**|**The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness**|Subramanyam Sahoo et.al.|[2603.09200](http://arxiv.org/abs/2603.09200)|null|
-|**2026-03-10**|**DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval**|Taegyeong Lee et.al.|[2603.09185](http://arxiv.org/abs/2603.09185)|null|
+|**2026-03-10**|**DEO: Training-Free Direct Embedding Optimization for Negation-Aware Retrieval**|Taegyeong Lee et.al.|[2603.09185](http://arxiv.org/abs/2603.09185)|**[link](https://github.com/taegyeong-lee/DEO-negation-aware-retrieval)**|
 |**2026-03-10**|**Evaluating the Practical Effectiveness of LLM-Driven Index Tuning with Microsoft Database Tuning Advisor**|Xiaoying Wang et.al.|[2603.09181](http://arxiv.org/abs/2603.09181)|null|
 |**2026-03-10**|**DuplexCascade: Full-Duplex Speech-to-Speech Dialogue with VAD-Free Cascaded ASR-LLM-TTS Pipeline and Micro-Turn Optimization**|Jianing Yang et.al.|[2603.09180](http://arxiv.org/abs/2603.09180)|null|
 |**2026-03-10**|**Point Cloud as a Foreign Language for Multi-modal Large Language Model**|Sneha Paul et.al.|[2603.09173](http://arxiv.org/abs/2603.09173)|null|
