@@ -1,4 +1,4 @@
-## Updated on 2026.09.11
+## Updated on 2026.09.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -2846,7 +2846,7 @@
 |**2026-03-25**|**The First Generation of AI-Assisted Programming Learners: Gendered Patterns in Critical Thinking and AI Ethics of German Secondary School Students**|Isabella Graßl et.al.|[2603.24197](http://arxiv.org/abs/2603.24197)|null|
 |**2026-03-25**|**Integrating Mental Health, Well-Being, and Sustainability into Software Engineering Education**|Isabella Graßl et.al.|[2603.24191](http://arxiv.org/abs/2603.24191)|null|
 |**2026-03-25**|**Towards Automated Crowdsourced Testing via Personified-LLM**|Shengcheng Yu et.al.|[2603.24160](http://arxiv.org/abs/2603.24160)|null|
-|**2026-03-25**|**Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model**|Kangxiang Xia et.al.|[2603.24144](http://arxiv.org/abs/2603.24144)|null|
+|**2026-03-25**|**Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model**|Kangxiang Xia et.al.|[2603.24144](http://arxiv.org/abs/2603.24144)|**[link](https://github.com/xkx-hub/SID-bench)**|
 |**2026-03-25**|**Sequence-aware Large Language Models for Explainable Recommendation**|Gangyi Zhang et.al.|[2603.24136](http://arxiv.org/abs/2603.24136)|null|
 |**2026-03-25**|**Alignment Reduces Expressed but Not Encoded Gender Bias: A Unified Framework and Study**|Nour Bouchouchi et.al.|[2603.24125](http://arxiv.org/abs/2603.24125)|null|
 |**2026-03-25**|**The Alignment Tax: Response Homogenization in Aligned LLMs and Its Implications for Uncertainty Estimation**|Mingyi Liu et.al.|[2603.24124](http://arxiv.org/abs/2603.24124)|**[link](https://github.com/DigitLion/ucbd-experiment)**|
@@ -4838,11 +4838,11 @@
 |**2025-12-09**|**Ontology-Based Knowledge Graph Framework for Industrial Standard Documents via Hierarchical and Propositional Structuring**|Jiin Park et.al.|[2512.08398](http://arxiv.org/abs/2512.08398)|null|
 |**2025-12-09**|**DeepFeature: Iterative Context-aware Feature Generation for Wearable Biosignals**|Kaiwei Liu et.al.|[2512.08379](http://arxiv.org/abs/2512.08379)|null|
 |**2025-12-09**|**Reflecting with Two Voices: A Co-Adaptive Dual-Strategy Framework for LLM-Based Agent Decision Making**|Wentao Zhang et.al.|[2512.08366](http://arxiv.org/abs/2512.08366)|null|
-|**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|null|
+|**2025-12-09**|**Magneton: Optimizing Energy Efficiency of ML Systems via Differential Energy Debugging**|Yi Pan et.al.|[2512.08365](http://arxiv.org/abs/2512.08365)|**[link](https://github.com/uw-syfi/Magneton)**|
 |**2025-12-09**|**The High Cost of Incivility: Quantifying Interaction Inefficiency via Multi-Agent Monte Carlo Simulations**|Benedikt Mangold et.al.|[2512.08345](http://arxiv.org/abs/2512.08345)|null|
-|**2025-12-09**|**Argus: A Multi-Agent Sensitive Information Leakage Detection Framework Based on Hierarchical Reference Relationships**|Bin Wang et.al.|[2512.08326](http://arxiv.org/abs/2512.08326)|null|
+|**2025-12-09**|**Argus: A Multi-Agent Sensitive Information Leakage Detection Framework Based on Hierarchical Reference Relationships**|Bin Wang et.al.|[2512.08326](http://arxiv.org/abs/2512.08326)|**[link](https://github.com/TheBinKing/Argus-Guard)**|
 |**2025-12-09**|**rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection**|Sijia Chen et.al.|[2512.08300](http://arxiv.org/abs/2512.08300)|null|
-|**2025-12-09**|**Towards a Science of Scaling Agent Systems**|Yubin Kim et.al.|[2512.08296](http://arxiv.org/abs/2512.08296)|null|
+|**2025-12-09**|**Towards a Science of Scaling Agent Systems**|Yubin Kim et.al.|[2512.08296](http://arxiv.org/abs/2512.08296)|**[link](https://github.com/danderfer/Comp_Sci_Sem_2)**|
 |**2025-12-09**|**Exposing and Defending Membership Leakage in Vulnerability Prediction Models**|Yihan Liao et.al.|[2512.08291](http://arxiv.org/abs/2512.08291)|null|
 |**2025-12-09**|**Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem**|Shiva Gaire et.al.|[2512.08290](http://arxiv.org/abs/2512.08290)|null|
 |**2025-12-09**|**MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks**|Tailun Chen et.al.|[2512.08289](http://arxiv.org/abs/2512.08289)|null|
@@ -5793,7 +5793,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260914>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
