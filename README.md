@@ -103,7 +103,7 @@
 |**2026-09-17**|**Do Quantum Models Scale Like LLMs?**|David S. Berman et.al.|[2609.20912](http://arxiv.org/abs/2609.20912)|null|
 |**2026-09-17**|**Quantifying Overclaiming Propensity in Frontier LLM Agents**|Nolan Smyth et.al.|[2609.20812](http://arxiv.org/abs/2609.20812)|null|
 |**2026-09-17**|**An Empirical Study of Harness Design for Coding Agents**|Run-Ze Fan et.al.|[2609.20804](http://arxiv.org/abs/2609.20804)|null|
-|**2026-09-17**|**Large Language Models as Falsifiers for Cyber-Physical Systems**|Ali ArjomandBigdeli et.al.|[2609.20752](http://arxiv.org/abs/2609.20752)|null|
+|**2026-09-17**|**Large Language Models as Falsifiers for Cyber-Physical Systems**|Ali ArjomandBigdeli et.al.|[2609.20752](http://arxiv.org/abs/2609.20752)|**[link](https://github.com/aliabigdeli/llm-falsifier)**|
 |**2026-09-17**|**Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure**|Zofia Smoleń et.al.|[2609.20732](http://arxiv.org/abs/2609.20732)|null|
 |**2026-09-17**|**Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models**|Frank E. Bobe et.al.|[2609.20722](http://arxiv.org/abs/2609.20722)|null|
 |**2026-09-17**|**What Parents Can See: Divergent Accounts of Youth AI Companion Use in Parenting and Teenager Subreddits**|Thomas Berkane et.al.|[2609.20720](http://arxiv.org/abs/2609.20720)|null|
@@ -2843,7 +2843,7 @@
 |**2026-04-03**|**Querying Structured Data Through Natural Language Using Language Models**|Hontan Valentin-Micu et.al.|[2604.03057](http://arxiv.org/abs/2604.03057)|null|
 |**2026-04-03**|**Proceedings of the 7th Workshop on Models for Formal Analysis of Real Systems**|Maurice H. ter Beek et.al.|[2604.03053](http://arxiv.org/abs/2604.03053)|null|
 |**2026-04-03**|**Combining Static Code Analysis and Large Language Models Improves Correctness and Performance of Algorithm Recognition**|Denis Neumüller et.al.|[2604.03048](http://arxiv.org/abs/2604.03048)|null|
-|**2026-04-03**|**STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models**|Linfeng Fan et.al.|[2604.03045](http://arxiv.org/abs/2604.03045)|null|
+|**2026-04-03**|**STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models**|Linfeng Fan et.al.|[2604.03045](http://arxiv.org/abs/2604.03045)|**[link](https://github.com/Fanlinfeng23/STEAR)**|
 |**2026-04-03**|**JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency**|Aichen Cai et.al.|[2604.03044](http://arxiv.org/abs/2604.03044)|null|
 |**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)|null|
 |**2026-04-03**|**Beyond Isolated Tasks: A Framework for Evaluating Coding Agents on Sequential Software Evolution**|KN Ajay Shastry et.al.|[2604.03035](http://arxiv.org/abs/2604.03035)|null|
@@ -4372,7 +4372,7 @@
 |**2026-01-08**|**CounterVid: Counterfactual Video Generation for Mitigating Action and Temporal Hallucinations in Video-Language Models**|Tobia Poppi et.al.|[2601.04778](http://arxiv.org/abs/2601.04778)|null|
 |**2026-01-08**|**SciIF: Benchmarking Scientific Instruction Following Towards Rigorous Scientific Intelligence**|Encheng Su et.al.|[2601.04770](http://arxiv.org/abs/2601.04770)|null|
 |**2026-01-08**|**AT $^2$ PO: Agentic Turn-based Policy Optimization via Tree Search**|Zefang Zong et.al.|[2601.04767](http://arxiv.org/abs/2601.04767)|null|
-|**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|null|
+|**2026-01-08**|**Revisiting Judge Decoding from First Principles via Training-Free Distributional Divergence**|Shengyin Sun et.al.|[2601.04766](http://arxiv.org/abs/2601.04766)|**[link](https://github.com/sunshy-1/JuDi)**|
 |**2026-01-08**|**Differential syntactic and semantic encoding in LLMs**|Santiago Acevedo et.al.|[2601.04765](http://arxiv.org/abs/2601.04765)|null|
 |**2026-01-08**|**PILOT-Bench: A Benchmark for Legal Reasoning in the Patent Domain with IRAC-Aligned Classification Tasks**|Yehoon Jang et.al.|[2601.04758](http://arxiv.org/abs/2601.04758)|null|
 |**2026-01-08**|**When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail**|Xiaoxiao Li et.al.|[2601.04748](http://arxiv.org/abs/2601.04748)|null|
@@ -5827,7 +5827,7 @@
 |**2025-10-23**|**Toward Practical Deductive Verification: Insights from a Qualitative Survey in Industry and Academia**|Lea Salome Brugger et.al.|[2510.20514](http://arxiv.org/abs/2510.20514)|null|
 |**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|null|
 |**2025-10-23**|**Robust Preference Alignment via Directional Neighborhood Consensus**|Ruochen Mao et.al.|[2510.20498](http://arxiv.org/abs/2510.20498)|null|
-|**2025-10-23**|**Steering Evaluation-Aware Language Models To Act Like They Are Deployed**|Tim Tian Hua et.al.|[2510.20487](http://arxiv.org/abs/2510.20487)|null|
+|**2025-10-23**|**Steering Evaluation-Aware Language Models To Act Like They Are Deployed**|Tim Tian Hua et.al.|[2510.20487](http://arxiv.org/abs/2510.20487)|**[link](https://github.com/farzana0/Evaluation-Awareness-demo)**|
 |**2025-10-23**|**RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging**|Bowen Wang et.al.|[2510.20479](http://arxiv.org/abs/2510.20479)|null|
 |**2025-10-23**|**Systematic Evaluation of Uncertainty Estimation Methods in Large Language Models**|Christian Hobelsberger et.al.|[2510.20460](http://arxiv.org/abs/2510.20460)|null|
 |**2025-10-23**|**Rotate Both Ways: Time-and-Order RoPE for Generative Recommendation**|Xiaokai Wei et.al.|[2510.20455](http://arxiv.org/abs/2510.20455)|null|

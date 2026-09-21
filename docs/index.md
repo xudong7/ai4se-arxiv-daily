@@ -531,7 +531,7 @@ layout: default
 |**2026-08-28**|**Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning for Robot Task Specification**|Haofei Hou et.al.|[2608.28435](http://arxiv.org/abs/2608.28435)|null|
 |**2026-08-28**|**Program Learning with Verifiable Rewards: Symbolic Backpropagation for Post-Training LLMs**|Vishvesh Bhat et.al.|[2608.28421](http://arxiv.org/abs/2608.28421)|null|
 |**2026-08-28**|**SymboLLM-FE: LLM-Accelerated Symbolic Regression for Automated Feature Engineering on Tabular Data**|Zi-Jian Cheng et.al.|[2608.28408](http://arxiv.org/abs/2608.28408)|null|
-|**2026-08-28**|**A Unified Framework to Elicit Structured Feedback for Interpretable Multi-Trait Essay Scoring**|Shihang Yang et.al.|[2608.28407](http://arxiv.org/abs/2608.28407)|null|
+|**2026-08-28**|**A Unified Framework to Elicit Structured Feedback for Interpretable Multi-Trait Essay Scoring**|Shihang Yang et.al.|[2608.28407](http://arxiv.org/abs/2608.28407)|**[link](https://github.com/Atiyahsama/HiFTS)**|
 |**2026-08-28**|**CultureConverse: A Multilingual Multi-turn Simulation Harness for Culturally Grounded Assistance in East and Southeast Asia**|Bryan Chen Zhengyu Tan et.al.|[2608.28405](http://arxiv.org/abs/2608.28405)|null|
 |**2026-08-28**|**Recovering Software Architecture Intent from Historical Work Items using Generative AI: A Mixed-Methods Industry Case Study**|Dominik Storck et.al.|[2608.28403](http://arxiv.org/abs/2608.28403)|null|
 |**2026-08-28**|**When Verified Source Becomes Attack Input: Defending Smart Contracts Against LLM-Based Vulnerability Scanning**|Mingyuan Huang et.al.|[2608.28400](http://arxiv.org/abs/2608.28400)|null|
@@ -1943,12 +1943,12 @@ layout: default
 |**2026-05-28**|**Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance**|Julius Gabelmann et.al.|[2605.30187](http://arxiv.org/abs/2605.30187)|null|
 |**2026-05-28**|**iLoRA: Bayesian Low-Rank Adaptation with Latent Interaction Graphs for Microbiome Diagnosis**|Yang Song et.al.|[2605.30179](http://arxiv.org/abs/2605.30179)|null|
 |**2026-05-28**|**LiveSVG: Zero-Shot SVG Animation via Video Generation**|Matan Levy et.al.|[2605.30174](http://arxiv.org/abs/2605.30174)|null|
-|**2026-05-28**|**SAHG: Sector-Anisotropic Hyperbolic Graph Model for Social Bot Detection**|Hanning Lu et.al.|[2605.30166](http://arxiv.org/abs/2605.30166)|null|
+|**2026-05-28**|**SAHG: Sector-Anisotropic Hyperbolic Graph Model for Social Bot Detection**|Hanning Lu et.al.|[2605.30166](http://arxiv.org/abs/2605.30166)|**[link](https://github.com/lhnjames/SAHG)**|
 |**2026-05-28**|**Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents**|Ziyan Liu et.al.|[2605.30159](http://arxiv.org/abs/2605.30159)|null|
-|**2026-05-28**|**Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials**|Jaylin Lowe et.al.|[2605.30157](http://arxiv.org/abs/2605.30157)|null|
-|**2026-05-28**|**Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?**|Xiaoze Liu et.al.|[2605.30152](http://arxiv.org/abs/2605.30152)|null|
-|**2026-05-28**|**Anchorless Diversification for Parallel LLM Ideation**|Fares Nabil Ibrahim et.al.|[2605.30150](http://arxiv.org/abs/2605.30150)|null|
-|**2026-05-28**|**Overcoming Forgetting in LLM Fine-Tuning with Evolution Strategies**|Kajetan Schweighofer et.al.|[2605.30148](http://arxiv.org/abs/2605.30148)|null|
+|**2026-05-28**|**Leveraging Large Language Models to Improve Precision in Randomized Controlled Trials**|Jaylin Lowe et.al.|[2605.30157](http://arxiv.org/abs/2605.30157)|**[link](https://github.com/jaylinlowe/llm-rct)**|
+|**2026-05-28**|**Do Proactive Agents Really Need an LLM to Decide When to Wake and What to Anchor?**|Xiaoze Liu et.al.|[2605.30152](http://arxiv.org/abs/2605.30152)|**[link](https://github.com/xz-liu/tgl)**|
+|**2026-05-28**|**Anchorless Diversification for Parallel LLM Ideation**|Fares Nabil Ibrahim et.al.|[2605.30150](http://arxiv.org/abs/2605.30150)|**[link](https://github.com/cssai-research/anchorless-diversification)**|
+|**2026-05-28**|**Overcoming Forgetting in LLM Fine-Tuning with Evolution Strategies**|Kajetan Schweighofer et.al.|[2605.30148](http://arxiv.org/abs/2605.30148)|**[link](https://github.com/kschweig/es-awd)**|
 |**2026-05-28**|**AgentSchool: An LLM-Powered Multi-Agent Simulation for Education**|Yulei Ye et.al.|[2605.30144](http://arxiv.org/abs/2605.30144)|null|
 |**2026-05-28**|**Enhancing Multi-Agent Communication through Attention Steering with Context Relevance**|Hongxiang Zhang et.al.|[2605.30136](http://arxiv.org/abs/2605.30136)|null|
 |**2026-05-28**|**CorPipe at CRAC 2026: Empty Nodes and Cross-Lingual Transfer in Multilingual Coreference Resolution**|Milan Straka et.al.|[2605.30133](http://arxiv.org/abs/2605.30133)|null|
@@ -3418,14 +3418,14 @@ layout: default
 |**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312](http://arxiv.org/abs/2602.23312)|null|
 |**2026-02-26**|**A Mixture-of-Experts Model for Multimodal Emotion Recognition in Conversations**|Soumya Dutta et.al.|[2602.23300](http://arxiv.org/abs/2602.23300)|null|
 |**2026-02-26**|**PRIMA: Pre-training with Risk-integrated Image-Metadata Alignment for Medical Diagnosis via LLM**|Yiqing Wang et.al.|[2602.23297](http://arxiv.org/abs/2602.23297)|null|
-|**2026-02-26**|**Impacts of Aggregation on Model Diversity and Consumer Utility**|Kate Donahue et.al.|[2602.23293](http://arxiv.org/abs/2602.23293)|null|
+|**2026-02-26**|**Impacts of Aggregation on Model Diversity and Consumer Utility**|Kate Donahue et.al.|[2602.23293](http://arxiv.org/abs/2602.23293)|**[link](https://github.com/kpdonahue/aggregation)**|
 |**2026-02-26**|**CXReasonAgent: Evidence-Grounded Diagnostic Reasoning Agent for Chest X-rays**|Hyungyung Lee et.al.|[2602.23276](http://arxiv.org/abs/2602.23276)|null|
 |**2026-02-26**|**Discourse-Aware Dual-Track Streaming Response for Low-Latency Spoken Dialogue Systems**|Siyuan Liu et.al.|[2602.23266](http://arxiv.org/abs/2602.23266)|null|
 |**2026-02-26**|**Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments**|Evangelia Christakopoulou et.al.|[2602.23234](http://arxiv.org/abs/2602.23234)|null|
 |**2026-02-26**|**STELLAR: Storage Tuning Engine Leveraging LLM Autonomous Reasoning for High Performance Parallel File Systems**|Chris Egersdoerfer et.al.|[2602.23220](http://arxiv.org/abs/2602.23220)|null|
 |**2026-02-26**|**Array-Carrying Symbolic Execution for Function Contract Generation**|Weijie Lu et.al.|[2602.23216](http://arxiv.org/abs/2602.23216)|null|
 |**2026-02-26**|**InnerQ: Hardware-aware Tuning-free Quantization of KV Cache for Large Language Models**|Sayed Mohammadreza Tayaranian Hosseini et.al.|[2602.23200](http://arxiv.org/abs/2602.23200)|null|
-|**2026-02-26**|**SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation**|Jiahao Zhao et.al.|[2602.23199](http://arxiv.org/abs/2602.23199)|null|
+|**2026-02-26**|**SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation**|Jiahao Zhao et.al.|[2602.23199](http://arxiv.org/abs/2602.23199)|**[link](https://github.com/SUAT-AIRI/SC-Arena)**|
 |**2026-02-26**|**ESAA: Event Sourcing for Autonomous Agents in LLM-Based Software Engineering**|Elzo Brito dos Santos Filho et.al.|[2602.23193](http://arxiv.org/abs/2602.23193)|null|
 |**2026-02-26**|**A Decision-Theoretic Formalisation of Steganography With Applications to LLM Monitoring**|Usman Anwar et.al.|[2602.23163](http://arxiv.org/abs/2602.23163)|null|
 |**2026-02-26**|**PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering**|Junkai Lu et.al.|[2602.23161](http://arxiv.org/abs/2602.23161)|null|
@@ -4988,7 +4988,7 @@ layout: default
 |**2025-12-12**|**Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation**|Lim Chien Her et.al.|[2512.10501](http://arxiv.org/abs/2512.10501)|null|
 |**2025-12-12**|**Decoding Human-LLM Collaboration in Coding: An Empirical Study of Multi-Turn Conversations in the Wild**|Binquan Zhang et.al.|[2512.10493](http://arxiv.org/abs/2512.10493)|null|
 |**2025-12-11**|**LLM-Assisted AHP for Explainable Cyber Range Evaluation**|Vyron Kampourakis et.al.|[2512.10487](http://arxiv.org/abs/2512.10487)|null|
-|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|null|
+|**2025-12-11**|**From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection**|Chaomeng Lu et.al.|[2512.10485](http://arxiv.org/abs/2512.10485)|**[link](https://github.com/Chaomeng-Lu/A-Practical-Evaluation-of-Deep-Learning-Models-and-LLMs-for-Vulnerability-Detection)**|
 |**2025-12-11**|**Grammaticality Judgments in Humans and Language Models: Revisiting Generative Grammar with LLMs**|Lars G. B. Johnsen et.al.|[2512.10453](http://arxiv.org/abs/2512.10453)|null|
 |**2025-12-09**|**Improved Pseudorandom Codes from Permuted Puzzles**|Miranda Christ et.al.|[2512.08918](http://arxiv.org/abs/2512.08918)|null|
 |**2025-12-09**|**Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis**|Nathan Cassee et.al.|[2512.08910](http://arxiv.org/abs/2512.08910)|null|
