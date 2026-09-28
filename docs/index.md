@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.09.26
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -993,7 +993,7 @@ layout: default
 |**2026-07-30**|**The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development**|Shalini Chakraborty et.al.|[2607.27923](http://arxiv.org/abs/2607.27923)|null|
 |**2026-07-30**|**OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation**|Xianchao Xiu et.al.|[2607.27918](http://arxiv.org/abs/2607.27918)|null|
 |**2026-07-30**|**Exact Action Values Are Not Enough: Rollout-Verified Reinforcement Fine-Tuning of a Reasoning Model for Multi-Zone VAV Control**|Takumi Shioda et.al.|[2607.27914](http://arxiv.org/abs/2607.27914)|null|
-|**2026-07-30**|**IFHierBench: Hierarchical Instruction Following for Large Language Models**|Yuetian Mao et.al.|[2607.27912](http://arxiv.org/abs/2607.27912)|null|
+|**2026-07-30**|**IFHierBench: Hierarchical Instruction Following for Large Language Models**|Yuetian Mao et.al.|[2607.27912](http://arxiv.org/abs/2607.27912)|**[link](https://github.com/RedSmallPanda/IFHierBench)**|
 |**2026-07-30**|**A comparative analysis of automated techniques for security bug report identification**|Muhammad Laiq et.al.|[2607.27893](http://arxiv.org/abs/2607.27893)|null|
 |**2026-07-30**|**ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents**|Stef Cuyckens et.al.|[2607.27879](http://arxiv.org/abs/2607.27879)|null|
 |**2026-07-30**|**FinanceHarness: Autonomous Financial Deep Research Framework**|Yijia Xiao et.al.|[2607.27853](http://arxiv.org/abs/2607.27853)|null|
@@ -1170,7 +1170,7 @@ layout: default
 |**2026-07-20**|**SR-Agent: An Experience-Driven Agentic Framework for Post-Ranking Strategies Refinement in E-Commerce Recommendation**|Hanchen Yang et.al.|[2607.17719](http://arxiv.org/abs/2607.17719)|null|
 |**2026-07-20**|**C $^2$ KV: Compressed and Composable KV Cache Reuse for Efficient LLM Inference**|Chuheng Du et.al.|[2607.17715](http://arxiv.org/abs/2607.17715)|null|
 |**2026-07-20**|**Planning with Transformers: Chain of Computation and Structured Context Windows**|Ehsan Futuhi et.al.|[2607.17710](http://arxiv.org/abs/2607.17710)|null|
-|**2026-07-20**|**LaT: LLM-as-Trainer for Multi-Task Vehicle Routing Solvers**|Yang Wang et.al.|[2607.17708](http://arxiv.org/abs/2607.17708)|null|
+|**2026-07-20**|**LaT: LLM-as-Trainer for Multi-Task Vehicle Routing Solvers**|Yang Wang et.al.|[2607.17708](http://arxiv.org/abs/2607.17708)|**[link](https://github.com/ftwangyang/LaT)**|
 |**2026-07-20**|**ProEvent: An Event-centric Benchmark for Proactive Agents**|Guanzhen Li et.al.|[2607.17701](http://arxiv.org/abs/2607.17701)|null|
 |**2026-07-20**|**Integrating High-Level Requirements to Low-Level Tests with Machine-Readable V&V Specifications**|Mansur Arief et.al.|[2607.17686](http://arxiv.org/abs/2607.17686)|null|
 |**2026-07-20**|**Informal Learning Emerges in Everyday Human-LLM Interaction**|Zixin Chen et.al.|[2607.17643](http://arxiv.org/abs/2607.17643)|null|
@@ -4069,7 +4069,7 @@ layout: default
 |**2026-01-29**|**RAG-E: Quantifying Retriever-Generator Alignment and Failure Modes**|Korbinian Randl et.al.|[2601.21803](http://arxiv.org/abs/2601.21803)|null|
 |**2026-01-29**|**A Unified XAI-LLM Approach for EndotrachealSuctioning Activity Recognition**|Hoang Khang Phan et.al.|[2601.21802](http://arxiv.org/abs/2601.21802)|null|
 |**2026-01-29**|**BioAgent Bench: An AI Agent Evaluation Suite for Bioinformatics**|Dionizije Fa et.al.|[2601.21800](http://arxiv.org/abs/2601.21800)|null|
-|**2026-01-29**|**CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models**|Junming Huang et.al.|[2601.21798](http://arxiv.org/abs/2601.21798)|null|
+|**2026-01-29**|**CG-MLLM: Captioning and Generating 3D content via Multi-modal Large Language Models**|Junming Huang et.al.|[2601.21798](http://arxiv.org/abs/2601.21798)|**[link](https://github.com/dreaming-huang/CG-MLLM)**|
 |**2026-01-29**|**Effective LoRA Adapter Routing using Task Representations**|Akash Dhasade et.al.|[2601.21795](http://arxiv.org/abs/2601.21795)|null|
 |**2026-01-29**|**Assessing the Business Process Modeling Competences of Large Language Models**|Chantale Lauer et.al.|[2601.21787](http://arxiv.org/abs/2601.21787)|null|
 |**2026-01-29**|**OneMall: One Model, More Scenarios -- End-to-End Generative Recommender Family at Kuaishou E-Commerce**|Kun Zhang et.al.|[2601.21770](http://arxiv.org/abs/2601.21770)|null|

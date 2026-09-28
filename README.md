@@ -1,4 +1,4 @@
-## Updated on 2026.09.26
+## Updated on 2026.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -996,7 +996,7 @@
 |**2026-07-30**|**The Case for Vibe Modeling: A Missing Step in AI-Based Trustworthy Software Development**|Shalini Chakraborty et.al.|[2607.27923](http://arxiv.org/abs/2607.27923)|null|
 |**2026-07-30**|**OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation**|Xianchao Xiu et.al.|[2607.27918](http://arxiv.org/abs/2607.27918)|null|
 |**2026-07-30**|**Exact Action Values Are Not Enough: Rollout-Verified Reinforcement Fine-Tuning of a Reasoning Model for Multi-Zone VAV Control**|Takumi Shioda et.al.|[2607.27914](http://arxiv.org/abs/2607.27914)|null|
-|**2026-07-30**|**IFHierBench: Hierarchical Instruction Following for Large Language Models**|Yuetian Mao et.al.|[2607.27912](http://arxiv.org/abs/2607.27912)|null|
+|**2026-07-30**|**IFHierBench: Hierarchical Instruction Following for Large Language Models**|Yuetian Mao et.al.|[2607.27912](http://arxiv.org/abs/2607.27912)|**[link](https://github.com/RedSmallPanda/IFHierBench)**|
 |**2026-07-30**|**A comparative analysis of automated techniques for security bug report identification**|Muhammad Laiq et.al.|[2607.27893](http://arxiv.org/abs/2607.27893)|null|
 |**2026-07-30**|**ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents**|Stef Cuyckens et.al.|[2607.27879](http://arxiv.org/abs/2607.27879)|null|
 |**2026-07-30**|**FinanceHarness: Autonomous Financial Deep Research Framework**|Yijia Xiao et.al.|[2607.27853](http://arxiv.org/abs/2607.27853)|null|
@@ -6093,7 +6093,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20260926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
