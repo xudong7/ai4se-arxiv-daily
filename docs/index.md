@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.01
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -2844,10 +2844,10 @@ layout: default
 |**2026-04-15**|**RPS: Information Elicitation with Reinforcement Prompt Selection**|Tao Wang et.al.|[2604.13817](http://arxiv.org/abs/2604.13817)|null|
 |**2026-04-15**|**A Universal Textual Merge Strategy Based on Tokens for Version Control Systems**|Qiqi Jason Gu et.al.|[2604.13813](http://arxiv.org/abs/2604.13813)|null|
 |**2026-04-15**|**Robust Ultra Low-Bit Post-Training Quantization via Stable Diagonal Curvature Estimate**|Jaemin Kim et.al.|[2604.13806](http://arxiv.org/abs/2604.13806)|null|
-|**2026-04-15**|**Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning**|Dongjie Fu et.al.|[2604.13804](http://arxiv.org/abs/2604.13804)|null|
+|**2026-04-15**|**Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning**|Dongjie Fu et.al.|[2604.13804](http://arxiv.org/abs/2604.13804)|**[link](https://github.com/MM-Speech/RoleJudge)**|
 |**2026-04-15**|**DUET: Joint Exploration of User Item Profiles in Recommendation System**|Yue Chen et.al.|[2604.13801](http://arxiv.org/abs/2604.13801)|null|
 |**2026-04-15**|**ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution**|Shouzheng Huang et.al.|[2604.13787](http://arxiv.org/abs/2604.13787)|null|
-|**2026-04-15**|**QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs**|Junlin Zhu et.al.|[2604.13786](http://arxiv.org/abs/2604.13786)|null|
+|**2026-04-15**|**QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs**|Junlin Zhu et.al.|[2604.13786](http://arxiv.org/abs/2604.13786)|**[link](https://github.com/zzzjunlin/QuantileMark)**|
 |**2026-04-15**|**Zero-shot Evaluation of Deep Learning for Java Code Clone Detection**|Thomas S. Heinze et.al.|[2604.13783](http://arxiv.org/abs/2604.13783)|null|
 |**2026-04-15**|**From Anchors to Supervision: Memory-Graph Guided Corpus-Free Unlearning for Large Language Models**|Wenxuan Li et.al.|[2604.13777](http://arxiv.org/abs/2604.13777)|null|
 |**2026-04-15**|**RealVuln: Benchmarking Rule-Based, General-Purpose LLM, and Security-Specialized Scanners on Real-World Code**|John Pellew et.al.|[2604.13764](http://arxiv.org/abs/2604.13764)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -741,8 +741,8 @@
 |**2026-08-28**|**RetailAgent: Structured Adverse Timing in Self-Conditioned Multimodal LLM Trading Agents**|Yupeng Zhang et.al.|[2608.28399](http://arxiv.org/abs/2608.28399)|null|
 |**2026-08-28**|**Sustainability of Open-Source Machine Learning Robustness Assessment Tools: A Repository Mining Study**|Joshua Owotogbe et.al.|[2608.28396](http://arxiv.org/abs/2608.28396)|null|
 |**2026-08-28**|**BEACON: Behavior-Anchored Cross-Source Knowledge Graph Construction for Cyber Threat Intelligence**|Changze Li et.al.|[2608.28394](http://arxiv.org/abs/2608.28394)|null|
-|**2026-08-28**|**CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents**|Jaewon Jung et.al.|[2608.28389](http://arxiv.org/abs/2608.28389)|null|
-|**2026-08-28**|**Semantic Head Specialization Guides Hybrid ViT Attention for Multimodal LLMs**|Chenhong He et.al.|[2608.28383](http://arxiv.org/abs/2608.28383)|null|
+|**2026-08-28**|**CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents**|Jaewon Jung et.al.|[2608.28389](http://arxiv.org/abs/2608.28389)|**[link](https://github.com/jaewonalive/CamoDocs)**|
+|**2026-08-28**|**Semantic Head Specialization Guides Hybrid ViT Attention for Multimodal LLMs**|Chenhong He et.al.|[2608.28383](http://arxiv.org/abs/2608.28383)|**[link](https://github.com/hyphee16363/shs-slides)**|
 |**2026-08-28**|**When Linguistic and Internal Confidence Diverge in Large Language Models**|Hefan Zhang et.al.|[2608.28382](http://arxiv.org/abs/2608.28382)|null|
 |**2026-08-28**|**Where Does Balance Break? Boundary Discovery for Game Balance Testing under a Finite Simulation Budget**|Hiroki Mukai et.al.|[2608.28364](http://arxiv.org/abs/2608.28364)|null|
 |**2026-08-28**|**EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses**|Tanmay Sah et.al.|[2608.28363](http://arxiv.org/abs/2608.28363)|null|
@@ -2642,7 +2642,7 @@
 |**2026-04-23**|**AEL: Agent Evolving Learning for Open-Ended Environments**|Wujiang Xu et.al.|[2604.21725](http://arxiv.org/abs/2604.21725)|null|
 |**2026-04-23**|**From If-Statements to ML Pipelines: Revisiting Bias in Code-Generation**|Minh Duc Bui et.al.|[2604.21716](http://arxiv.org/abs/2604.21716)|null|
 |**2026-04-23**|**Stealthy Backdoor Attacks against LLMs Based on Natural Style Triggers**|Jiali Wei et.al.|[2604.21700](http://arxiv.org/abs/2604.21700)|null|
-|**2026-04-23**|**Can Large Language Models Assist the Comprehension of ROS2 Software Architectures?**|Laura Duits et.al.|[2604.21699](http://arxiv.org/abs/2604.21699)|null|
+|**2026-04-23**|**Can Large Language Models Assist the Comprehension of ROS2 Software Architectures?**|Laura Duits et.al.|[2604.21699](http://arxiv.org/abs/2604.21699)|**[link](https://github.com/S2-group/ease-2026-sa-ros-llms-rep-pkg)**|
 |**2026-04-23**|**A Sociotechnical, Practitioner-Centered Approach to Technology Adoption in Cybersecurity Operations: An LLM Case**|Francis Hahn et.al.|[2604.21679](http://arxiv.org/abs/2604.21679)|null|
 |**2026-04-23**|**Encoder-Free Human Motion Understanding via Structured Motion Descriptions**|Yao Zhang et.al.|[2604.21668](http://arxiv.org/abs/2604.21668)|null|
 |**2026-04-23**|**GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion**|Qizhuo Xie et.al.|[2604.21649](http://arxiv.org/abs/2604.21649)|null|
@@ -3793,7 +3793,7 @@
 |**2026-02-24**|**SparkMe: Adaptive Semi-Structured Interviewing for Qualitative Insight Discovery**|David Anugraha et.al.|[2602.21136](http://arxiv.org/abs/2602.21136)|null|
 |**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|
-|**2026-02-24**|**Can Interest-Bearing Positions Solve the Long-Horizon Problem in Prediction Markets?**|Caleb Maresca et.al.|[2602.21091](http://arxiv.org/abs/2602.21091)|null|
+|**2026-02-24**|**Can Interest-Bearing Positions Solve the Long-Horizon Problem in Prediction Markets?**|Caleb Maresca et.al.|[2602.21091](http://arxiv.org/abs/2602.21091)|**[link](https://github.com/CalebMaresca/prediction-market-experiments)**|
 |**2026-02-24**|**Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification**|Vishal Patil et.al.|[2602.21082](http://arxiv.org/abs/2602.21082)|null|
 |**2026-02-24**|**Validation of an analyzability model for quantum software: a family of experiments**|Ana Díaz-Muñoz et.al.|[2602.21074](http://arxiv.org/abs/2602.21074)|null|
 |**2026-02-24**|**Tool Building as a Path to "Superintelligence"**|David Koplow et.al.|[2602.21061](http://arxiv.org/abs/2602.21061)|null|
@@ -6193,7 +6193,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
