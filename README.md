@@ -1,4 +1,4 @@
-## Updated on 2026.10.06
+## Updated on 2026.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,106 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
+|**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|null|
+|**2026-10-08**|**ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI**|Shihab Ahmed et.al.|[2610.12415](http://arxiv.org/abs/2610.12415)|null|
+|**2026-10-08**|**Predicting Alignment Generalization with Value Representations**|Andy Liu et.al.|[2610.12410](http://arxiv.org/abs/2610.12410)|null|
+|**2026-10-08**|**Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search**|Ziming Dai et.al.|[2610.12390](http://arxiv.org/abs/2610.12390)|null|
+|**2026-10-08**|**OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport**|Babak Barazandeh et.al.|[2610.12375](http://arxiv.org/abs/2610.12375)|null|
+|**2026-10-08**|**Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution**|Yuhan Liu et.al.|[2610.12367](http://arxiv.org/abs/2610.12367)|null|
+|**2026-10-08**|**Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict**|Kaiser Sun et.al.|[2610.12360](http://arxiv.org/abs/2610.12360)|null|
+|**2026-10-08**|**Overcoming Prior Barriers: Supervised Fine-Tuning under Long-Tail Distribution**|Haohui Wang et.al.|[2610.12345](http://arxiv.org/abs/2610.12345)|null|
+|**2026-10-08**|**VFold: Symmetry-Aware Cross-Layer Value Cache Compression**|Neha Verma et.al.|[2610.12338](http://arxiv.org/abs/2610.12338)|null|
+|**2026-10-08**|**SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference**|Qitong Wang et.al.|[2610.12327](http://arxiv.org/abs/2610.12327)|null|
+|**2026-10-08**|**Prior or Feedback? What an LLM Uses When Adapting Neural Operators**|Julian Chan et.al.|[2610.12325](http://arxiv.org/abs/2610.12325)|null|
+|**2026-10-08**|**Verdict Without the Rule: Diagnosing and Auditing Regulatory Rule Sensitivity in LLM Compliance Systems**|Saisab Sadhu et.al.|[2610.12313](http://arxiv.org/abs/2610.12313)|null|
+|**2026-10-08**|**Looking Inside LLMs: Small-World Connectivity as a Signature of Reasoning Performance**|Zheng Huang et.al.|[2610.12304](http://arxiv.org/abs/2610.12304)|null|
+|**2026-10-08**|**Learning Probabilistic Logic Programs with Functional Gradient Guided Language Models**|Saurabh Mathur et.al.|[2610.12303](http://arxiv.org/abs/2610.12303)|null|
+|**2026-10-08**|**TestPrism: Rethinking Test Evaluation Beyond a Single Reference**|Han Li et.al.|[2610.12289](http://arxiv.org/abs/2610.12289)|null|
+|**2026-10-08**|**Unlocking the Regulatory Genome by ARGUS: An Evidence-Constrained Agentic Framework for Interpreting Single Nucleotide Variants**|Pratik Dutta et.al.|[2610.12281](http://arxiv.org/abs/2610.12281)|null|
+|**2026-10-08**|**Cadence: Strategic Guidance for Coding Agents**|Minxing Wang et.al.|[2610.12269](http://arxiv.org/abs/2610.12269)|null|
+|**2026-10-08**|**EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams**|Heeseung Kim et.al.|[2610.12248](http://arxiv.org/abs/2610.12248)|null|
+|**2026-10-08**|**TokenRouter: Efficient Serving System for Token-Level LLM Routing**|Tianyu Fu et.al.|[2610.12242](http://arxiv.org/abs/2610.12242)|null|
+|**2026-10-08**|**DataSense-Bench: The First Step Toward an AI Scientist**|Yudi Zhang et.al.|[2610.12190](http://arxiv.org/abs/2610.12190)|null|
+|**2026-10-08**|**A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization**|Ming Chen et.al.|[2610.12183](http://arxiv.org/abs/2610.12183)|null|
+|**2026-10-08**|**Reliability Characterization for N-version Object Detection**|Shunsuke Nagao et.al.|[2610.12149](http://arxiv.org/abs/2610.12149)|null|
+|**2026-10-08**|**Poster: A Preliminary Study of LLM Distillation Inference**|Edward Chen et.al.|[2610.12137](http://arxiv.org/abs/2610.12137)|null|
+|**2026-10-08**|**The learner who does not learn: when optimizing a pedagogical metric degrades LLM tutoring**|Daniel Domínguez Figaredo et.al.|[2610.12125](http://arxiv.org/abs/2610.12125)|null|
+|**2026-10-08**|**Use and Disuse: Intent-Structured Experience Consolidation for Memory and Learning in LLM Agents**|Xiangyi Zeng et.al.|[2610.12124](http://arxiv.org/abs/2610.12124)|null|
+|**2026-10-08**|**Universal Textual Teaching for LLMs**|Zhanyi Lu et.al.|[2610.12114](http://arxiv.org/abs/2610.12114)|null|
+|**2026-10-08**|**Could LLM Watermark Detection be Public?**|Georgios Milis et.al.|[2610.12106](http://arxiv.org/abs/2610.12106)|null|
+|**2026-10-08**|**EvoAlloc: A Self-Evolving Resource Allocation Agent for Efficient Program Evolution**|Yanning Dai et.al.|[2610.12086](http://arxiv.org/abs/2610.12086)|null|
+|**2026-10-08**|**Is Memorization Context-Sensitive? Prefix-Based Extraction Beyond Isolated Prefixes**|Ali Satvaty et.al.|[2610.12085](http://arxiv.org/abs/2610.12085)|null|
+|**2026-10-08**|**All Verdicts are Not Equal: Rethinking LLM Judge Reliability**|Vineet Kumar et.al.|[2610.12083](http://arxiv.org/abs/2610.12083)|null|
+|**2026-10-08**|**ILM: An AI-Powered Storytelling Educational Tool**|Suhaila Mohammed et.al.|[2610.12064](http://arxiv.org/abs/2610.12064)|null|
+|**2026-10-08**|**When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation**|Yiruo Cheng et.al.|[2610.12061](http://arxiv.org/abs/2610.12061)|null|
+|**2026-10-08**|**Structure Tax: How Structured Output affects LLMs Performance**|Vineet Kumar et.al.|[2610.12056](http://arxiv.org/abs/2610.12056)|null|
+|**2026-10-08**|**Protecting CPU AI On Edge TEEs: WebAssembly's Promise and Practical Challenges**|Friedrich Vandenberghe et.al.|[2610.12050](http://arxiv.org/abs/2610.12050)|null|
+|**2026-10-08**|**Traceable World State: A Provenance-Aware State Representation and Deterministic Replay Framework for Robotic Systems**|Zoe Li et.al.|[2610.12033](http://arxiv.org/abs/2610.12033)|null|
+|**2026-10-08**|**Natural Language to First-Order Logic LLM-based Autoformalization**|Andrea Brunello et.al.|[2610.12030](http://arxiv.org/abs/2610.12030)|null|
+|**2026-10-08**|**Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology**|Zhaoxin Yu et.al.|[2610.12022](http://arxiv.org/abs/2610.12022)|null|
+|**2026-10-08**|**Agentic-TTT: Training test-time policy for test-time training**|Jiahao Lu et.al.|[2610.12002](http://arxiv.org/abs/2610.12002)|null|
+|**2026-10-08**|**Neural Network Verification for Deep Joint Source-Channel Coding**|Thanh Le et.al.|[2610.11994](http://arxiv.org/abs/2610.11994)|null|
+|**2026-10-08**|**DataVista: Diagnosing Multimodal LLMs on Data Video Understanding**|Yupeng Xie et.al.|[2610.11993](http://arxiv.org/abs/2610.11993)|null|
+|**2026-10-08**|**Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks**|Xing Li et.al.|[2610.11978](http://arxiv.org/abs/2610.11978)|null|
+|**2026-10-08**|**MindFlow: Mind Supernet Powered Thinking Flows for Research Idea Innovation**|Mengdi Liu et.al.|[2610.11966](http://arxiv.org/abs/2610.11966)|null|
+|**2026-10-08**|**Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes**|Utku Boran Torun et.al.|[2610.11963](http://arxiv.org/abs/2610.11963)|null|
+|**2026-10-08**|**MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**|Xiaomi LLM-Core Team et.al.|[2610.11959](http://arxiv.org/abs/2610.11959)|null|
+|**2026-10-08**|**"Hot-Blooded" vs "Cold-Blooded": Simulating the Behavioral Phenotypes of Childhood Aggression via Generative Agents**|Liping Fu et.al.|[2610.11951](http://arxiv.org/abs/2610.11951)|null|
+|**2026-10-08**|**Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents**|Yichen Liu et.al.|[2610.11920](http://arxiv.org/abs/2610.11920)|null|
+|**2026-10-08**|**Can Decision Models Understand Stance? Evaluating Jev Against General-Purpose LLMs**|Xing Li et.al.|[2610.11901](http://arxiv.org/abs/2610.11901)|null|
+|**2026-10-08**|**Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System**|Irene Weber et.al.|[2610.11899](http://arxiv.org/abs/2610.11899)|null|
+|**2026-10-08**|**A Security Meta-Model for Retrieval-Augmented Generation Systems**|Steve Nouyep et.al.|[2610.11893](http://arxiv.org/abs/2610.11893)|null|
+|**2026-10-08**|**Evaluating Exact Output and Checkpoint-State Prediction in Real Programs**|Xiaohong Chen et.al.|[2610.11889](http://arxiv.org/abs/2610.11889)|null|
+|**2026-10-08**|**NosRacer: Dynamic Detection of Race Conditions in On-Device Network Operating Systems**|Runze Wu et.al.|[2610.11875](http://arxiv.org/abs/2610.11875)|null|
+|**2026-10-08**|**LEVER: Adaptive Cost-Aware Proof Search Over AND/OR Graphs**|Nihal Jain et.al.|[2610.11862](http://arxiv.org/abs/2610.11862)|null|
+|**2026-10-08**|**Trajectory-Guided Fault Localization for Agent Skill Evolution**|Yu Ge et.al.|[2610.11858](http://arxiv.org/abs/2610.11858)|null|
+|**2026-10-08**|**SemField: A Simple, Linear, Continuous, yet Robust Semantic Watermark**|Varun Gumma et.al.|[2610.11848](http://arxiv.org/abs/2610.11848)|null|
+|**2026-10-08**|**Detecting Spin in Clinical Trials with Large Language Models**|Tjaš Ajdovec et.al.|[2610.11845](http://arxiv.org/abs/2610.11845)|null|
+|**2026-10-08**|**Anytime-valid detection of LLM weight exfiltration**|Ines Ortega-Fernandez et.al.|[2610.11843](http://arxiv.org/abs/2610.11843)|null|
+|**2026-10-08**|**On the Risks of using LLM-Generated Tests for Regression Testing**|Mohammadali Charoosaei et.al.|[2610.11835](http://arxiv.org/abs/2610.11835)|null|
+|**2026-10-08**|**ObliVul: Alert-Conditioned Safety Obligation Modeling and Bidirectional Counterfactual Validation for Code Vulnerability Detection**|Heyang Tan et.al.|[2610.11801](http://arxiv.org/abs/2610.11801)|null|
+|**2026-10-08**|**Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks**|Haoyu Zhao et.al.|[2610.11794](http://arxiv.org/abs/2610.11794)|null|
+|**2026-10-08**|**Safe Actions Alone Do Not Ensure Safe Agents: Identifying Unfulfilled Obligations with Guard Models**|Youwei Feng et.al.|[2610.11773](http://arxiv.org/abs/2610.11773)|null|
+|**2026-10-08**|**Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System**|Younghwan Joo et.al.|[2610.11768](http://arxiv.org/abs/2610.11768)|null|
+|**2026-10-08**|**Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation**|Haitong Jiang et.al.|[2610.11766](http://arxiv.org/abs/2610.11766)|null|
+|**2026-10-08**|**Thinking Inertia: LLMs Keep Thinking When Told Not To**|Dianqiao Lei et.al.|[2610.11765](http://arxiv.org/abs/2610.11765)|null|
+|**2026-10-08**|**MemTrial: Learning When to Trust Memory in LLM Portfolio Agents**|Guanghao Wu et.al.|[2610.11732](http://arxiv.org/abs/2610.11732)|null|
+|**2026-10-08**|**Spectral Weight Decay: Inducing Low-Rank Structure in Neural Network Weights**|Dmitrii Andriianov et.al.|[2610.11730](http://arxiv.org/abs/2610.11730)|null|
+|**2026-10-08**|**MAP4CS: A Multi-dimensional Data Pruning Framework for Efficient Code Retriever Fine-tuning**|Yuxuan Chen et.al.|[2610.11727](http://arxiv.org/abs/2610.11727)|null|
+|**2026-10-08**|**Implementing the Spec Growth Engine: Preventing Spec-Code Divergence, and Growing the Spec with Agents**|Hartwig Grabowski et.al.|[2610.11725](http://arxiv.org/abs/2610.11725)|null|
+|**2026-10-08**|**A 3D Characterization Framework for Intelligent Sequential Decision Making**|Sadig Gojayev et.al.|[2610.11696](http://arxiv.org/abs/2610.11696)|null|
+|**2026-10-08**|**TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation**|Radhika Gaonkar et.al.|[2610.11678](http://arxiv.org/abs/2610.11678)|null|
+|**2026-10-08**|**Perceptually Grounded and Semantics-Aware Evaluation for Holistic Co-Speech Gesture Generation**|Nick Milkin et.al.|[2610.11669](http://arxiv.org/abs/2610.11669)|null|
+|**2026-10-08**|**Harness Evolution Hits a Ceiling: When Weight Training Should Begin**|Yuan Tian et.al.|[2610.11655](http://arxiv.org/abs/2610.11655)|null|
+|**2026-10-08**|**Evidence-Traceable Dynamic Interviewer Architecture for Expertise-Adaptive Qualitative Interviews Using Local LLMs**|Aisvarya Adeseye et.al.|[2610.11651](http://arxiv.org/abs/2610.11651)|null|
+|**2026-10-08**|**One Skill Too Many: How Co-Installed Skills Conflict in Coding Agents**|Chaoliang Yan et.al.|[2610.11647](http://arxiv.org/abs/2610.11647)|null|
+|**2026-10-08**|**LTBD: Learnable Trust-Boundary Delimiters for Prompt Injection Defense**|Luman Zhao et.al.|[2610.11634](http://arxiv.org/abs/2610.11634)|null|
+|**2026-10-08**|**Where to Adapt Matters: Layer-Selective Fine-Tuning for Capability Retention**|Zhiqiang Pang et.al.|[2610.11620](http://arxiv.org/abs/2610.11620)|null|
+|**2026-10-08**|**PolyCodeEval: Benchmarking Multilingual Code Generation from Functions to Repositories**|Bowen Yang et.al.|[2610.11618](http://arxiv.org/abs/2610.11618)|null|
+|**2026-10-08**|**Where Do the Tokens Go? Understanding and Reducing Costs in LLM Agents for Vulnerability Discovery**|Li Lu et.al.|[2610.11602](http://arxiv.org/abs/2610.11602)|null|
+|**2026-10-08**|**Error-Propagation Modeling for Failure Attribution in LLM-Based Multi-Agent Systems**|Jiaqi Liao et.al.|[2610.11600](http://arxiv.org/abs/2610.11600)|null|
+|**2026-10-08**|**Large Language Model Turnover Undermines Screening for Artificial Intelligence-Assisted Scientific Writing**|Kazuki Nakajima et.al.|[2610.11599](http://arxiv.org/abs/2610.11599)|null|
+|**2026-10-08**|**Overview of the NTCIR-19 Automatic Evaluation of LLMs 2 (AEOLLM-2) Task**|Junjie Chen et.al.|[2610.11598](http://arxiv.org/abs/2610.11598)|null|
+|**2026-10-08**|**Runnable Commit Untangling for Coding Agents**|Jinfeng Jiang et.al.|[2610.11593](http://arxiv.org/abs/2610.11593)|null|
+|**2026-10-08**|**Probing for Long-Horizon Deductive Reasoning Capabilities in Language Models with Prolog**|Hadeel Al-Negheimish et.al.|[2610.11592](http://arxiv.org/abs/2610.11592)|null|
+|**2026-10-08**|**NeuroDivSim: An Interactive Tool for Model-Based Reflection on Cognitive Diversity in Interface Design**|Eske Beckefeld et.al.|[2610.11590](http://arxiv.org/abs/2610.11590)|null|
+|**2026-10-08**|**Measuring Cultural Alignment Beyond the Average: A Framework for Evaluating Maternal-Health LLM Interactions in Indian Contexts**|Umaira Izhar et.al.|[2610.11586](http://arxiv.org/abs/2610.11586)|null|
+|**2026-10-08**|**Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection**|Vinko Sabolčec et.al.|[2610.11585](http://arxiv.org/abs/2610.11585)|null|
+|**2026-10-08**|**Chronos Enables Code Agents to Reason over Software Evolution**|Xin Yin et.al.|[2610.11578](http://arxiv.org/abs/2610.11578)|null|
+|**2026-10-08**|**Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies**|Yi Wen et.al.|[2610.11573](http://arxiv.org/abs/2610.11573)|null|
+|**2026-10-08**|**Sera: Semantic Representation Aggregation for Reliable and Interpretable Battery Health Forecasting**|Jiawei Li et.al.|[2610.11567](http://arxiv.org/abs/2610.11567)|null|
+|**2026-10-08**|**Workerville: Towards an Organizational Behavior Account of Agent Safety**|Hanjun Luo et.al.|[2610.11561](http://arxiv.org/abs/2610.11561)|null|
+|**2026-10-08**|**SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction**|Hexuan Deng et.al.|[2610.11559](http://arxiv.org/abs/2610.11559)|null|
+|**2026-10-08**|**SoK: Are LLMs Reliable at Source Code Recovery? A Taxonomy and Empirical Evaluation**|Varun Kohli et.al.|[2610.11556](http://arxiv.org/abs/2610.11556)|null|
+|**2026-10-08**|**Safe, Persistent, and Evolving Agent Harness for Understanding Partially Observable Worlds**|Yisen Gao et.al.|[2610.11552](http://arxiv.org/abs/2610.11552)|null|
+|**2026-10-08**|**Prosody-to-Text: Predicting text from low-pass filtered speech**|David Porteš et.al.|[2610.11544](http://arxiv.org/abs/2610.11544)|null|
+|**2026-10-08**|**Constitutional Gating and Deterministic Recovery for Multi-Agent LLM Negotiation: Ablations Against a Stateful Adversarial Gatekeeper**|Masaaki Nakatsu et.al.|[2610.11542](http://arxiv.org/abs/2610.11542)|null|
+|**2026-10-08**|**Design Creativity Bench: Measuring creativity in LLM-Generated UI**|Aman Rusia et.al.|[2610.11539](http://arxiv.org/abs/2610.11539)|null|
+|**2026-10-08**|**SSCBench: Evaluating the Evidential Validity of Fault-Injection Tests for Tool-Using LLM Agents**|Xincheng He et.al.|[2610.11514](http://arxiv.org/abs/2610.11514)|null|
+|**2026-10-08**|**Does Modern Standard Arabic (MSA) Dominate Arabic Dialects in LLMs? A Representation-Level Analysis**|Abdu Sallouh et.al.|[2610.11510](http://arxiv.org/abs/2610.11510)|null|
+|**2026-10-08**|**Fed-GRPO: Reward-Signal-Driven Federated Group Relative Policy Optimization**|Pengxin Guo et.al.|[2610.11502](http://arxiv.org/abs/2610.11502)|null|
 |**2026-10-05**|**TranScope: What the Software Hides About LLM Training Data, the Hardware Reveals at Scale, and Accelerators Magnify**|Joshua Kalyanapu et.al.|[2610.06848](http://arxiv.org/abs/2610.06848)|null|
 |**2026-10-05**|**Learning to Read the Contextual Tokens in Diffusion Transformers**|Omer Dahary et.al.|[2610.06844](http://arxiv.org/abs/2610.06844)|null|
 |**2026-10-05**|**Recursive Video In-Context Learning for Agentic Robot**|Wenrui Bao et.al.|[2610.06843](http://arxiv.org/abs/2610.06843)|null|
@@ -6293,7 +6393,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
