@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ai4se
@@ -190,7 +190,7 @@ layout: default
 |**2026-10-05**|**MATE: Adaptive Long- and Short-Term User Memory for LLM-Based Recommendation**|Yu Hou et.al.|[2610.06050](http://arxiv.org/abs/2610.06050)|null|
 |**2026-10-05**|**Backdooring Sparse Autoencoders**|Enrico Ahlers et.al.|[2610.06049](http://arxiv.org/abs/2610.06049)|null|
 |**2026-10-05**|**Let the Agent Do It? How Software Practitioners Understand and Make Permission Decisions in Agentic AI Assistants**|Larissa Salerno et.al.|[2610.06047](http://arxiv.org/abs/2610.06047)|null|
-|**2026-10-05**|**Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression**|Hankyul Kang et.al.|[2610.06026](http://arxiv.org/abs/2610.06026)|null|
+|**2026-10-05**|**Differentiable Bit-Widths: Co-optimizing Pruning and Quantization via SVD for Ultra-Efficient LLM Compression**|Hankyul Kang et.al.|[2610.06026](http://arxiv.org/abs/2610.06026)|**[link](https://github.com/MMAI-Laboratory/DBW)**|
 |**2026-10-05**|**Experimentation Practices in Indie Game Startups**|Elizabeth Bjarnason et.al.|[2610.06004](http://arxiv.org/abs/2610.06004)|null|
 |**2026-10-05**|**AgentSpy: Making AI Agent Behavior Observable**|Christoph Bühler et.al.|[2610.06001](http://arxiv.org/abs/2610.06001)|null|
 |**2026-10-05**|**No More Translation at Runtime: LLM-Empowered Static Binary Translation**|Zhibo Liu et.al.|[2610.05999](http://arxiv.org/abs/2610.05999)|null|
@@ -198,7 +198,7 @@ layout: default
 |**2026-10-05**|**Breaking the Tie: A Cluster-Aware Routing Framework for Large Language Models**|Yao Lu et.al.|[2610.05982](http://arxiv.org/abs/2610.05982)|null|
 |**2026-10-05**|**Mechanizing the User's Eye: Pre-Registered Deployment of a Sabotage-Validated Fail-Plausible Observer in a Production LLM Agent Runtime**|Wei Wu et.al.|[2610.05981](http://arxiv.org/abs/2610.05981)|null|
 |**2026-10-05**|**StagQ: Constraint-Driven Multi-Precision Weight Quantization for LLMs**|Zhe Wei et.al.|[2610.05977](http://arxiv.org/abs/2610.05977)|null|
-|**2026-10-05**|**HuatuoGPT-3: RL-Only Domain Adaptation from Base Models**|Junying Chen et.al.|[2610.05966](http://arxiv.org/abs/2610.05966)|null|
+|**2026-10-05**|**HuatuoGPT-3: RL-Only Domain Adaptation from Base Models**|Junying Chen et.al.|[2610.05966](http://arxiv.org/abs/2610.05966)|**[link](https://github.com/FreedomIntelligence/HuatuoGPT-3)**|
 |**2026-10-05**|**Discovered, Not Designed: Population Evolution for Collaborative and Compute-Intensive Model Discovery**|Bo Peng et.al.|[2610.05950](http://arxiv.org/abs/2610.05950)|null|
 |**2026-10-05**|**Technical Report on the Turba Fertilizer Machine Learning Stack in Morocco**|Abdelghani Belgaid et.al.|[2610.05949](http://arxiv.org/abs/2610.05949)|null|
 |**2026-10-05**|**Adopting InnerSource in a Public Sector Organization: A Case Study**|Muhammad Usman et.al.|[2610.05947](http://arxiv.org/abs/2610.05947)|null|
@@ -1720,8 +1720,8 @@ layout: default
 |**2026-06-30**|**CoCoMUT: A Tool for Code-Context Mining and Automated Dataset Generation**|Alessandro Botta et.al.|[2606.31971](http://arxiv.org/abs/2606.31971)|null|
 |**2026-06-30**|**Signed-Permutation Coordinate Transport for RMSNorm Transformers**|John Sweeney et.al.|[2606.31963](http://arxiv.org/abs/2606.31963)|null|
 |**2026-06-30**|**Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**|Ben Slater et.al.|[2606.31916](http://arxiv.org/abs/2606.31916)|null|
-|**2026-06-30**|**Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference**|Zhaoyang Luo et.al.|[2606.31903](http://arxiv.org/abs/2606.31903)|null|
-|**2026-06-30**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|null|
+|**2026-06-30**|**Attend, Transform, or Silence: Operator-Level Visual Skipping for Efficient Multimodal LLM Inference**|Zhaoyang Luo et.al.|[2606.31903](http://arxiv.org/abs/2606.31903)|**[link](https://github.com/zayan-l/OpSkip)**|
+|**2026-06-30**|**Harnessing Textual Refusal Directions for Multimodal Safety**|Moreno D'Incà et.al.|[2606.31876](http://arxiv.org/abs/2606.31876)|**[link](https://github.com/Moreno98/MARS)**|
 |**2026-06-30**|**Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning**|Junha Jung et.al.|[2606.31825](http://arxiv.org/abs/2606.31825)|null|
 |**2026-06-30**|**Adaptive Cluster-First Route-Second Decomposition for Industrial-Scale Vehicle Routing**|Oguzhan Karaahmetoglu et.al.|[2606.31820](http://arxiv.org/abs/2606.31820)|null|
 |**2026-06-30**|**Interface-Variant Dynamics in Software Ecosystems: Resolver-Induced Selection and Adoption in Package Graphs**|Faruk Alpay et.al.|[2606.31817](http://arxiv.org/abs/2606.31817)|null|
@@ -3421,14 +3421,14 @@ layout: default
 |**2026-03-25**|**Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes**|Matteo Vaccargiu et.al.|[2603.24501](http://arxiv.org/abs/2603.24501)|null|
 |**2026-03-25**|**Video-Only ToM: Enhancing Theory of Mind in Multimodal Large Language Models**|Siqi Liu et.al.|[2603.24484](http://arxiv.org/abs/2603.24484)|null|
 |**2026-03-25**|**Composer 2 Technical Report**|Cursor Reseach et.al.|[2603.24477](http://arxiv.org/abs/2603.24477)|null|
-|**2026-03-25**|**Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**|Jeonghye Kim et.al.|[2603.24472](http://arxiv.org/abs/2603.24472)|null|
+|**2026-03-25**|**Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**|Jeonghye Kim et.al.|[2603.24472](http://arxiv.org/abs/2603.24472)|**[link](https://github.com/beanie00/self-distillation-analysis)**|
 |**2026-03-25**|**Mechanic: Sorrifier-Driven Formal Decomposition Workflow for Automated Theorem Proving**|Ruichen Qiu et.al.|[2603.24465](http://arxiv.org/abs/2603.24465)|null|
 |**2026-03-25**|**When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools**|Xingming Li et.al.|[2603.24389](http://arxiv.org/abs/2603.24389)|null|
 |**2026-03-25**|**MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization**|Xiangsen Chen et.al.|[2603.24382](http://arxiv.org/abs/2603.24382)|null|
 |**2026-03-25**|**LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24361](http://arxiv.org/abs/2603.24361)|null|
 |**2026-03-25**|**Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation**|Lynn Janzen et.al.|[2603.24359](http://arxiv.org/abs/2603.24359)|null|
 |**2026-03-25**|**Enhancing Efficiency and Performance in Deepfake Audio Detection through Neuron-level dropin & Neuroplasticity Mechanisms**|Yupei Li et.al.|[2603.24343](http://arxiv.org/abs/2603.24343)|null|
-|**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Yunzhe Wang et.al.|[2603.24329](http://arxiv.org/abs/2603.24329)|null|
+|**2026-03-25**|**GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**|Yunzhe Wang et.al.|[2603.24329](http://arxiv.org/abs/2603.24329)|**[link](https://github.com/HATS-ICT/GameplayQA)**|
 |**2026-03-25**|**The Specification Gap: Coordination Failure Under Partial Knowledge in Code Agents**|Camilo Chacón Sartori et.al.|[2603.24284](http://arxiv.org/abs/2603.24284)|null|
 |**2026-03-25**|**Software Supply Chain Smells: Lightweight Analysis for Secure Dependency Management**|Larissa Schmid et.al.|[2603.24282](http://arxiv.org/abs/2603.24282)|null|
 |**2026-03-25**|**Functional Requirements for Decentralized and Self-Sovereign Identities**|Daria Schumm et.al.|[2603.24250](http://arxiv.org/abs/2603.24250)|null|

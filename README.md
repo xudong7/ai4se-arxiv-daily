@@ -1,4 +1,4 @@
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -100,9 +100,9 @@
 |**2026-10-08**|**Measuring Cultural Alignment Beyond the Average: A Framework for Evaluating Maternal-Health LLM Interactions in Indian Contexts**|Umaira Izhar et.al.|[2610.11586](http://arxiv.org/abs/2610.11586)|null|
 |**2026-10-08**|**Adapting English Quality Classifiers for Multilingual LLM Pretraining Data Selection**|Vinko Sabolčec et.al.|[2610.11585](http://arxiv.org/abs/2610.11585)|null|
 |**2026-10-08**|**Chronos Enables Code Agents to Reason over Software Evolution**|Xin Yin et.al.|[2610.11578](http://arxiv.org/abs/2610.11578)|null|
-|**2026-10-08**|**Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies**|Yi Wen et.al.|[2610.11573](http://arxiv.org/abs/2610.11573)|null|
+|**2026-10-08**|**Memory Type Varies: Empowering LLM Agents for Long-Term Memory with Diverse Strategies**|Yi Wen et.al.|[2610.11573](http://arxiv.org/abs/2610.11573)|**[link](https://github.com/wenyiwy99/MemoType)**|
 |**2026-10-08**|**Sera: Semantic Representation Aggregation for Reliable and Interpretable Battery Health Forecasting**|Jiawei Li et.al.|[2610.11567](http://arxiv.org/abs/2610.11567)|null|
-|**2026-10-08**|**Workerville: Towards an Organizational Behavior Account of Agent Safety**|Hanjun Luo et.al.|[2610.11561](http://arxiv.org/abs/2610.11561)|null|
+|**2026-10-08**|**Workerville: Towards an Organizational Behavior Account of Agent Safety**|Hanjun Luo et.al.|[2610.11561](http://arxiv.org/abs/2610.11561)|**[link](https://github.com/Astarojth/Workerville)**|
 |**2026-10-08**|**SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction**|Hexuan Deng et.al.|[2610.11559](http://arxiv.org/abs/2610.11559)|null|
 |**2026-10-08**|**SoK: Are LLMs Reliable at Source Code Recovery? A Taxonomy and Empirical Evaluation**|Varun Kohli et.al.|[2610.11556](http://arxiv.org/abs/2610.11556)|null|
 |**2026-10-08**|**Safe, Persistent, and Evolving Agent Harness for Understanding Partially Observable Worlds**|Yisen Gao et.al.|[2610.11552](http://arxiv.org/abs/2610.11552)|null|
@@ -1319,7 +1319,7 @@
 |**2026-07-23**|**Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims**|Nowshin Tabassum et.al.|[2607.21549](http://arxiv.org/abs/2607.21549)|null|
 |**2026-07-23**|**Generative AI Availability, Grades, and Student Satisfaction at a Large University**|James M. Zumel Dumlao et.al.|[2607.21534](http://arxiv.org/abs/2607.21534)|null|
 |**2026-07-23**|**From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs**|Kaiwen Zhang et.al.|[2607.21530](http://arxiv.org/abs/2607.21530)|null|
-|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|null|
+|**2026-07-23**|**Diffusion Language Model for Recommendation**|Chengyi Liu et.al.|[2607.21519](http://arxiv.org/abs/2607.21519)|**[link](https://github.com/ChengyiLIU-cs/DLMRec)**|
 |**2026-07-23**|**Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation**|Linjun Li et.al.|[2607.21518](http://arxiv.org/abs/2607.21518)|null|
 |**2026-07-23**|**Improved lower bounds for the Shannon capacity of odd cycles**|Nathaniel Itty et.al.|[2607.21517](http://arxiv.org/abs/2607.21517)|null|
 |**2026-07-23**|**Toward Generalizable Cognitive Impairment Detection with Speech-Based Multimodal Large Language Models**|Yingchao Huang et.al.|[2607.21496](http://arxiv.org/abs/2607.21496)|null|
@@ -2733,7 +2733,7 @@
 |**2026-04-30**|**Collaborative Agent Reasoning Engineering (CARE): A Three-Party Design Methodology for Systematically Engineering AI Agents with Subject Matter Experts, Developers, and Helper Agents**|Rahul Ramachandran et.al.|[2604.28043](http://arxiv.org/abs/2604.28043)|null|
 |**2026-04-30**|**Models Recall What They Violate: Constraint Adherence in Multi-Turn LLM Ideation**|Garvin Kruthof et.al.|[2604.28031](http://arxiv.org/abs/2604.28031)|null|
 |**2026-04-30**|**Reliable Answers for Recurring Questions: Boosting Text-to-SQL Accuracy with Template Constrained Decoding**|Smit Jivani et.al.|[2604.28028](http://arxiv.org/abs/2604.28028)|null|
-|**2026-04-30**|**Cost-Aware Learning**|Clara Mohri et.al.|[2604.28020](http://arxiv.org/abs/2604.28020)|null|
+|**2026-04-30**|**Cost-Aware Learning**|Clara Mohri et.al.|[2604.28020](http://arxiv.org/abs/2604.28020)|**[link](https://github.com/SalesforceAIResearch/xRouter)**|
 |**2026-04-30**|**Design Structure Matrix Modularization with Large Language Models**|Shuo Jiang et.al.|[2604.28018](http://arxiv.org/abs/2604.28018)|null|
 |**2026-04-30**|**Kernelized Advantage Estimation: From Nonparametric Statistics to LLM Reasoning**|Shijin Gong et.al.|[2604.28005](http://arxiv.org/abs/2604.28005)|null|
 |**2026-04-30**|**A Pattern Language for Resilient Visual Agents**|Habtom Kahsay Gidey et.al.|[2604.28001](http://arxiv.org/abs/2604.28001)|null|
@@ -6393,7 +6393,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20261011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
