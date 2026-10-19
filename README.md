@@ -1,4 +1,4 @@
-## Updated on 2026.10.16
+## Updated on 2026.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -3389,7 +3389,7 @@
 |**2026-04-03**|**Let's Have a Conversation: Designing and Evaluating LLM Agents for Interactive Optimization**|Joshua Drossman et.al.|[2604.02666](http://arxiv.org/abs/2604.02666)|null|
 |**2026-04-03**|**AgentSZZ: Teaching the LLM Agent to Play Detective with Bug-Inducing Commits**|Yunbo Lyu et.al.|[2604.02665](http://arxiv.org/abs/2604.02665)|null|
 |**2026-04-03**|**SocioEval: A Template-Based Framework for Evaluating Socioeconomic Status Bias in Foundation Models**|Divyanshu Kumar et.al.|[2604.02660](http://arxiv.org/abs/2604.02660)|null|
-|**2026-04-03**|**Semantic Data Processing with Holistic Data Understanding**|Youran Sun et.al.|[2604.02655](http://arxiv.org/abs/2604.02655)|null|
+|**2026-04-03**|**Semantic Data Processing with Holistic Data Understanding**|Youran Sun et.al.|[2604.02655](http://arxiv.org/abs/2604.02655)|**[link](https://github.com/YouranSun/HOLDUP)**|
 |**2026-04-03**|**Generalization Limits of Reinforcement Learning Alignment**|Haruhi Shida et.al.|[2604.02652](http://arxiv.org/abs/2604.02652)|null|
 |**2026-04-03**|**Revealing the Learning Dynamics of Long-Context Continual Pre-training**|Yupu Liang et.al.|[2604.02650](http://arxiv.org/abs/2604.02650)|null|
 |**2026-04-03**|**GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers**|Shufan Jiang et.al.|[2604.02648](http://arxiv.org/abs/2604.02648)|null|
@@ -4546,7 +4546,7 @@
 |**2026-01-23**|**The Green Side of the Lua**|André Brandão et.al.|[2601.16670](http://arxiv.org/abs/2601.16670)|null|
 |**2026-01-23**|**PLawBench: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice**|Yuzhen Shi et.al.|[2601.16669](http://arxiv.org/abs/2601.16669)|null|
 |**2026-01-23**|**Revisiting the Role of Natural Language Code Comments in Code Translation**|Monika Gupta et.al.|[2601.16661](http://arxiv.org/abs/2601.16661)|null|
-|**2026-01-23**|**Select or Project? Evaluating Lower-dimensional Vectors for LLM Training Data Explanations**|Lukas Hinterleitner et.al.|[2601.16651](http://arxiv.org/abs/2601.16651)|null|
+|**2026-01-23**|**Select or Project? Evaluating Lower-dimensional Vectors for LLM Training Data Explanations**|Lukas Hinterleitner et.al.|[2601.16651](http://arxiv.org/abs/2601.16651)|**[link](https://github.com/lukas-hinterleitner/master-thesis)**|
 |**2026-01-23**|**MultiLexNorm++: A Unified Benchmark and a Generative Model for Lexical Normalization for Asian Languages**|Weerayut Buaphet et.al.|[2601.16623](http://arxiv.org/abs/2601.16623)|null|
 |**2026-01-23**|**How Does Personalized Memory Shape LLM Behavior? Benchmarking Rational Preference Utilization in Personalized Assistants**|Xueyang Feng et.al.|[2601.16621](http://arxiv.org/abs/2601.16621)|null|
 |**2026-01-23**|**PROST-LLM: Progressively Enhancing the Speech-to-Speech Translation Capability in LLMs**|Jing Xu et.al.|[2601.16618](http://arxiv.org/abs/2601.16618)|null|
@@ -4788,8 +4788,8 @@
 |**2026-01-15**|**M^4olGen: Multi-Agent, Multi-Stage Molecular Generation under Precise Multi-Property Constraints**|Yizhan Li et.al.|[2601.10131](http://arxiv.org/abs/2601.10131)|null|
 |**2026-01-15**|**A Generalizable Framework for Building Executable Domain-Specific LLMs under Data Scarcity: Demonstration on Semiconductor TCAD Simulation**|Di Wang et.al.|[2601.10128](http://arxiv.org/abs/2601.10128)|null|
 |**2026-01-15**|**Role-Playing Agents Driven by Large Language Models: Current Status, Challenges, and Future Trends**|Ye Wang et.al.|[2601.10122](http://arxiv.org/abs/2601.10122)|null|
-|**2026-01-15**|**TopoDIM: One-shot Topology Generation of Diverse Interaction Modes for Multi-Agent Systems**|Rui Sun et.al.|[2601.10120](http://arxiv.org/abs/2601.10120)|null|
-|**2026-01-15**|**Following the Teacher's Footsteps: Scheduled Checkpoint Distillation for Domain-Specific LLMs**|Cheng Feng et.al.|[2601.10114](http://arxiv.org/abs/2601.10114)|null|
+|**2026-01-15**|**TopoDIM: One-shot Topology Generation of Diverse Interaction Modes for Multi-Agent Systems**|Rui Sun et.al.|[2601.10120](http://arxiv.org/abs/2601.10120)|**[link](https://github.com/Sundiasy/TopoDIM)**|
+|**2026-01-15**|**Following the Teacher's Footsteps: Scheduled Checkpoint Distillation for Domain-Specific LLMs**|Cheng Feng et.al.|[2601.10114](http://arxiv.org/abs/2601.10114)|**[link](https://github.com/fengcheng-fujitsu/SCD-AW)**|
 |**2026-01-15**|**Repository Intelligence Graph: Deterministic Architectural Map for LLM Code Assistants**|Tsvi Cherny-Shahar et.al.|[2601.10112](http://arxiv.org/abs/2601.10112)|null|
 |**2026-01-15**|**When Personas Override Payoffs: Role Identity Bias in Multi-Agent LLM Decision-Making**|Viswonathan Manoranjan et.al.|[2601.10102](http://arxiv.org/abs/2601.10102)|null|
 |**2026-01-15**|**MATRIX AS PLAN: Structured Logical Reasoning with Feedback-Driven Replanning**|Ke Chen et.al.|[2601.10101](http://arxiv.org/abs/2601.10101)|null|
@@ -5801,11 +5801,11 @@
 |**2025-11-24**|**SLMFix: Leveraging Small Language Models for Error Fixing with Reinforcement Learning**|David Jiahao Fu et.al.|[2511.19422](http://arxiv.org/abs/2511.19422)|null|
 |**2025-11-24**|**Be My Eyes: Extending Large Language Models to New Modalities Through Multi-Agent Collaboration**|James Y. Huang et.al.|[2511.19417](http://arxiv.org/abs/2511.19417)|null|
 |**2025-11-24**|**UniGame: Turning a Unified Multimodal Model Into Its Own Adversary**|Zhaolong Su et.al.|[2511.19413](http://arxiv.org/abs/2511.19413)|null|
-|**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|null|
-|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|null|
+|**2025-11-24**|**Learning Robust Social Strategies with Large Language Models**|Dereck Piche et.al.|[2511.19405](http://arxiv.org/abs/2511.19405)|**[link](https://github.com/dereckpiche/AdAlignLLM)**|
+|**2025-11-24**|**DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research**|Rulin Shao et.al.|[2511.19399](http://arxiv.org/abs/2511.19399)|**[link](https://github.com/rlresearch/dr-tulu)**|
 |**2025-11-24**|**Construction and Decoding of Error--Correcting Codes from Ideal Lattices of Finite Ternary Gamma Semirings**|Chandrasekhar Gokavarapu et.al.|[2511.19378](http://arxiv.org/abs/2511.19378)|null|
 |**2025-11-24**|**LLM-Driven Stationarity-Aware Expert Demonstrations for Multi-Agent Reinforcement Learning in Mobile Systems**|Tianyang Duan et.al.|[2511.19368](http://arxiv.org/abs/2511.19368)|null|
-|**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|null|
+|**2025-11-24**|**DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation**|Zehong Ma et.al.|[2511.19365](http://arxiv.org/abs/2511.19365)|**[link](https://github.com/Zehong-Ma/DeCo)**|
 |**2025-11-24**|**Leveraging LLMs for reward function design in reinforcement learning control tasks**|Franklin Cardenoso et.al.|[2511.19355](http://arxiv.org/abs/2511.19355)|null|
 |**2025-11-24**|**Revisiting Feedback Models for HyDE**|Nour Jedidi et.al.|[2511.19349](http://arxiv.org/abs/2511.19349)|null|
 |**2025-11-24**|**Syn-GRPO: Self-Evolving Data Synthesis for MLLM Perception Reasoning**|Qihan Huang et.al.|[2511.19343](http://arxiv.org/abs/2511.19343)|null|
@@ -6493,7 +6493,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
