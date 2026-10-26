@@ -58,7 +58,7 @@ layout: default
 |**2026-10-23**|**ALLMTS: Automated LLM-based Medical Triage System**|Michał Remigiusz Janiszewski et.al.|[2610.32469](http://arxiv.org/abs/2610.32469)|null|
 |**2026-10-23**|**OPTARI: An open-source software framework for clinical translation of optoacoustic imaging**|Moritz Schillinger et.al.|[2610.32468](http://arxiv.org/abs/2610.32468)|null|
 |**2026-10-23**|**Complexity concentration as a god-class and god-method detector: a pre-registered test of a scale-free outlier rule against tool definitions and human labels**|Daniel Sagenschneider et.al.|[2610.32466](http://arxiv.org/abs/2610.32466)|null|
-|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**| Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
+|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**|Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
 |**2026-10-23**|**Decoupling Patient Personas and Clinical Workflows: A Dual-Agent Approach to Realistic Medical Dialogue Generation**|Qiyuan Li et.al.|[2610.32443](http://arxiv.org/abs/2610.32443)|null|
 |**2026-10-23**|**SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks**|Tianyun Zhong et.al.|[2610.32441](http://arxiv.org/abs/2610.32441)|null|
 |**2026-10-23**|**$R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design**|Shouhao Chang et.al.|[2610.32439](http://arxiv.org/abs/2610.32439)|null|
@@ -160,7 +160,7 @@ layout: default
 |**2026-10-20**|**Reading Too Much Into It? Interpretive Preferences and Commitment in LLM Mentalisation under Ambiguity**|Stephanie Fong et.al.|[2610.28105](http://arxiv.org/abs/2610.28105)|null|
 |**2026-10-20**|**ClawMMU: Protection-Coherent Virtual Memory for Stateful LLM Agents**|Jinhao Hu et.al.|[2610.28093](http://arxiv.org/abs/2610.28093)|null|
 |**2026-10-20**|**BAIT: Can LLMs Find What Biases a Reader? A Benchmark for Cognitive Bias Triggers in News**|Yousra Fettach et.al.|[2610.28092](http://arxiv.org/abs/2610.28092)|null|
-|**2026-10-20**|**Training the Whole Agent, Not Just the Model**|Lingxiao Tang et.al.|[2610.28069](http://arxiv.org/abs/2610.28069)|null|
+|**2026-10-20**|**Training the Whole Agent, Not Just the Model**|Lingxiao Tang et.al.|[2610.28069](http://arxiv.org/abs/2610.28069)|**[link](https://github.com/jettbrains/-L-)**|
 |**2026-10-20**|**Contextual Candour: Role-Aware Graduated Disclosure for LLMs over Mixed-Sensitivity Contexts**|Devansh Srivastav et.al.|[2610.28067](http://arxiv.org/abs/2610.28067)|null|
 |**2026-10-20**|**TrajEvolve: Trajectory Evolution for Reinforcement Learning with Hindsight Credit Assignment**|Yi Wen et.al.|[2610.28060](http://arxiv.org/abs/2610.28060)|null|
 |**2026-10-20**|**From RL Papers to Framework Code: Inclusion and Review in Seven Open-Source Training Frameworks**|Taiheng Pan et.al.|[2610.28027](http://arxiv.org/abs/2610.28027)|null|
@@ -1120,8 +1120,8 @@ layout: default
 |**2026-08-31**|**S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?**|Jiajun Shi et.al.|[2608.31100](http://arxiv.org/abs/2608.31100)|null|
 |**2026-08-31**|**The First Token Is a Clue: Verbalizing Multi-Token Concepts from the J-lens**|Xijie Gong et.al.|[2608.31084](http://arxiv.org/abs/2608.31084)|null|
 |**2026-08-31**|**Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data**|Milad Rezaei Hajidehi et.al.|[2608.31082](http://arxiv.org/abs/2608.31082)|null|
-|**2026-08-31**|**Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents**|Xuehai Wang et.al.|[2608.31076](http://arxiv.org/abs/2608.31076)|null|
-|**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068](http://arxiv.org/abs/2608.31068)|null|
+|**2026-08-31**|**Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents**|Xuehai Wang et.al.|[2608.31076](http://arxiv.org/abs/2608.31076)|**[link](https://github.com/zjunlp/AutoSciRub)**|
+|**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068](http://arxiv.org/abs/2608.31068)|**[link](https://github.com/yanqiyao1/wrong-prediction-right-answer)**|
 |**2026-08-31**|**The Exclusion Ratchet: False-Positive Suppression Accumulates and Persists in Detection Rule Repositories**|Sudaroli Dhananjeyan et.al.|[2608.31062](http://arxiv.org/abs/2608.31062)|null|
 |**2026-08-31**|**When Can We Work in Embedding Space? What Text Embeddings Preserve**|Simon Freyaldenhoven et.al.|[2608.31059](http://arxiv.org/abs/2608.31059)|null|
 |**2026-08-31**|**Improving Information Extraction with Learned Queries**|Omar Sharif et.al.|[2608.31058](http://arxiv.org/abs/2608.31058)|null|
@@ -3680,9 +3680,9 @@ layout: default
 |**2026-03-29**|**Article and Comment Frames Shape the Quality of Online Comments**|Matteo Guida et.al.|[2603.27889](http://arxiv.org/abs/2603.27889)|null|
 |**2026-03-29**|**What can LLMs tell us about the mechanisms behind polarity illusions in humans? Experiments across model scales and training steps**|Dario Paape et.al.|[2603.27855](http://arxiv.org/abs/2603.27855)|null|
 |**2026-03-29**|**EffiSkill: Agent Skill Based Automated Code Efficiency Optimization**|Zimu Wang et.al.|[2603.27850](http://arxiv.org/abs/2603.27850)|null|
-|**2026-03-29**|**Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3**|Natapong Nitarach et.al.|[2603.27844](http://arxiv.org/abs/2603.27844)|null|
+|**2026-03-29**|**Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3**|Natapong Nitarach et.al.|[2603.27844](http://arxiv.org/abs/2603.27844)|**[link](https://github.com/nat-nischw/model-capability-dominates-lessons-aimo3)**|
 |**2026-03-29**|**Q-Bridge: Code Translation for Quantum Machine Learning via LLMs**|Runjia Zeng et.al.|[2603.27836](http://arxiv.org/abs/2603.27836)|null|
-|**2026-03-29**|**Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**|Zhiwen You et.al.|[2603.27820](http://arxiv.org/abs/2603.27820)|null|
+|**2026-03-29**|**Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**|Zhiwen You et.al.|[2603.27820](http://arxiv.org/abs/2603.27820)|**[link](https://github.com/FAIRHealth/clinical-counterfactual-reasoning)**|
 |**2026-03-29**|**KVSculpt: KV Cache Compression as Distillation**|Bo Jiang et.al.|[2603.27819](http://arxiv.org/abs/2603.27819)|null|
 |**2026-03-29**|**Conversational Agents and the Understanding of Human Language: Reflections on AI, LLMs, and Cognitive Science**|Andrei Popescu-Belis et.al.|[2603.27809](http://arxiv.org/abs/2603.27809)|null|
 |**2026-03-29**|**Understanding Teacher Revisions of Large Language Model-Generated Feedback**|Conrad Borchers et.al.|[2603.27806](http://arxiv.org/abs/2603.27806)|null|
@@ -6199,13 +6199,13 @@ layout: default
 |**2025-11-13**|**Towards an Agentic Workflow for Internet Measurement Research**|Alagappan Ramanathan et.al.|[2511.10611](http://arxiv.org/abs/2511.10611)|null|
 |**2025-11-13**|**zkStruDul: Programming zkSNARKs with Structural Duality**|Rahul Krishnan et.al.|[2511.10565](http://arxiv.org/abs/2511.10565)|null|
 |**2025-11-13**|**Carbox: an end-to-end differentiable astrochemical simulation framework**|Gijs Vermariën et.al.|[2511.10558](http://arxiv.org/abs/2511.10558)|null|
-|**2025-11-13**|**A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space**|Huijie Liu et.al.|[2511.10555](http://arxiv.org/abs/2511.10555)|null|
-|**2025-11-13**|**URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding**|Yongxin Shi et.al.|[2511.10552](http://arxiv.org/abs/2511.10552)|null|
+|**2025-11-13**|**A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space**|Huijie Liu et.al.|[2511.10555](http://arxiv.org/abs/2511.10555)|**[link](https://github.com/Kwai-Kolors/CoTyle)**|
+|**2025-11-13**|**URaG: Unified Retrieval and Generation in Multimodal LLMs for Efficient Long Document Understanding**|Yongxin Shi et.al.|[2511.10552](http://arxiv.org/abs/2511.10552)|**[link](https://github.com/shi-yx/URaG)**|
 |**2025-11-13**|**Non-Resonant Alpha-Induced Neutron-Emission: A Multi- Method Comparison Of Nuclear Reaction Rates**|Bhavay Luthra et.al.|[2511.10536](http://arxiv.org/abs/2511.10536)|null|
 |**2025-11-13**|**Say It Differently: Linguistic Styles as Jailbreak Vectors**|Srikant Panda et.al.|[2511.10519](http://arxiv.org/abs/2511.10519)|null|
 |**2025-11-13**|**Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following**|Yun He et.al.|[2511.10507](http://arxiv.org/abs/2511.10507)|null|
-|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|null|
-|**2025-11-13**|**Panda: Test-Time Adaptation with Negative Data Augmentation**|Ruxi Deng et.al.|[2511.10481](http://arxiv.org/abs/2511.10481)|null|
+|**2025-11-13**|**Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding**|Yunkai Zhang et.al.|[2511.10492](http://arxiv.org/abs/2511.10492)|**[link](https://github.com/zhykoties/Multi-Head-Recommendation-with-Human-Priors)**|
+|**2025-11-13**|**Panda: Test-Time Adaptation with Negative Data Augmentation**|Ruxi Deng et.al.|[2511.10481](http://arxiv.org/abs/2511.10481)|**[link](https://github.com/ruxideng/Panda)**|
 |**2025-11-13**|**Scalable Synthesis of distributed LLM workloads through Symbolic Tensor Graphs**|Changhai Man et.al.|[2511.10480](http://arxiv.org/abs/2511.10480)|null|
 |**2025-11-13**|**Quantum Design Automation: Foundations, Challenges, and the Road Ahead**|Feng Wu et.al.|[2511.10479](http://arxiv.org/abs/2511.10479)|null|
 |**2025-11-13**|**OpenSR-SRGAN: A Flexible Super-Resolution Framework for Multispectral Earth Observation Data**|Simon Donike et.al.|[2511.10461](http://arxiv.org/abs/2511.10461)|null|

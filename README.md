@@ -61,7 +61,7 @@
 |**2026-10-23**|**ALLMTS: Automated LLM-based Medical Triage System**|Michał Remigiusz Janiszewski et.al.|[2610.32469](http://arxiv.org/abs/2610.32469)|null|
 |**2026-10-23**|**OPTARI: An open-source software framework for clinical translation of optoacoustic imaging**|Moritz Schillinger et.al.|[2610.32468](http://arxiv.org/abs/2610.32468)|null|
 |**2026-10-23**|**Complexity concentration as a god-class and god-method detector: a pre-registered test of a scale-free outlier rule against tool definitions and human labels**|Daniel Sagenschneider et.al.|[2610.32466](http://arxiv.org/abs/2610.32466)|null|
-|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**| Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
+|**2026-10-23**|**Sharpness-aware Orthogonalized Momentum Algorithms**|Geetika et.al.|[2610.32465](http://arxiv.org/abs/2610.32465)|null|
 |**2026-10-23**|**Decoupling Patient Personas and Clinical Workflows: A Dual-Agent Approach to Realistic Medical Dialogue Generation**|Qiyuan Li et.al.|[2610.32443](http://arxiv.org/abs/2610.32443)|null|
 |**2026-10-23**|**SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks**|Tianyun Zhong et.al.|[2610.32441](http://arxiv.org/abs/2610.32441)|null|
 |**2026-10-23**|**$R^2E:$ A Role-driven Reward Evolutionary Framework for Automated Reward Function Design**|Shouhao Chang et.al.|[2610.32439](http://arxiv.org/abs/2610.32439)|null|
@@ -1168,7 +1168,7 @@
 |**2026-08-31**|**sbom-unifier: Integration Framework for Heterogeneous SBOMs**|Yusuke Moriwaki et.al.|[2608.30708](http://arxiv.org/abs/2608.30708)|null|
 |**2026-08-31**|**VisLens: Single-Pass Interpretable Visual Search for Multimodal LLMs**|Jingyi He et.al.|[2608.30705](http://arxiv.org/abs/2608.30705)|null|
 |**2026-08-31**|**SingProbe Technical Report**|Sing Team et.al.|[2608.30703](http://arxiv.org/abs/2608.30703)|null|
-|**2026-08-31**|**A Phased Workflow for Operating LLM-Based Coding Agents**|Ante Kapetanovic et.al.|[2608.30701](http://arxiv.org/abs/2608.30701)|null|
+|**2026-08-31**|**A Phased Workflow for Operating LLM-Based Coding Agents**|Ante Kapetanovic et.al.|[2608.30701](http://arxiv.org/abs/2608.30701)|**[link](https://github.com/infobip/agentic-development-workflow)**|
 |**2026-08-31**|**Domain-Grounded Tool Orchestration for LLM-Guided Scientific Analysis**|Jeff Lee et.al.|[2608.30696](http://arxiv.org/abs/2608.30696)|null|
 |**2026-08-31**|**Inferring Value Criteria from Ordinal Preferences: An Iterative In-Context Learning Framework for Music Generation**|Futa Hidaka et.al.|[2608.30694](http://arxiv.org/abs/2608.30694)|null|
 |**2026-08-31**|**Beyond the Payload: How User Invocation Shapes Coding Agent Vulnerability to Repository Poisoning**|Fukang Zhu et.al.|[2608.30686](http://arxiv.org/abs/2608.30686)|null|
@@ -1440,7 +1440,7 @@
 |**2026-08-05**|**Protoreasoning in Tiny Transformers**|Eduardo Valle et.al.|[2608.04980](http://arxiv.org/abs/2608.04980)|null|
 |**2026-08-05**|**SciCode-Verified: How Benchmark Defects Underestimated the Scientific-Coding Ability of Language Models**|Sihan Hu et.al.|[2608.04975](http://arxiv.org/abs/2608.04975)|null|
 |**2026-08-05**|**EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement**|Jun Nie et.al.|[2608.04968](http://arxiv.org/abs/2608.04968)|null|
-|**2026-08-05**|**State2State: Environment-Derived Mid-Training for LLM Agents**|Xuanyu Lei et.al.|[2608.04934](http://arxiv.org/abs/2608.04934)|null|
+|**2026-08-05**|**State2State: Environment-Derived Mid-Training for LLM Agents**|Xuanyu Lei et.al.|[2608.04934](http://arxiv.org/abs/2608.04934)|**[link](https://github.com/THUNLP-MT/State2State)**|
 |**2026-08-05**|**Does Out-of-Sight Equal Out-of-Mind in CoT Monitorability?**|Pedro Ferreira et.al.|[2608.04928](http://arxiv.org/abs/2608.04928)|null|
 |**2026-08-05**|**A Chain Is Only as Strong as Its Weakest Link: A Scoping Review of System Integration Audits in AI**|Leah Davis et.al.|[2608.04921](http://arxiv.org/abs/2608.04921)|null|
 |**2026-08-05**|**AutoCue: Multimodal LLM-Assisted Externalization of Implicit Inputs as Instructional Visual Cues in Screencast Tutorials**|Shengyang Luo et.al.|[2608.04910](http://arxiv.org/abs/2608.04910)|null|
@@ -2818,8 +2818,8 @@
 |**2026-05-08**|**Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning**|Manish Bhattarai et.al.|[2605.08061](http://arxiv.org/abs/2605.08061)|null|
 |**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060](http://arxiv.org/abs/2605.08060)|null|
 |**2026-05-08**|**CA-SQL: Complexity-Aware Inference Time Reasoning for Text-to-SQL via Exploration and Compute Budget Allocation**|James Petullo et.al.|[2605.08057](http://arxiv.org/abs/2605.08057)|null|
-|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|null|
-|**2026-05-08**|**Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs**|Yi Yu et.al.|[2605.08045](http://arxiv.org/abs/2605.08045)|null|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054](http://arxiv.org/abs/2605.08054)|**[link](https://github.com/HanchaoLiu/RG-DNO)**|
+|**2026-05-08**|**Uncertainty-Aware Structured Data Extraction from Full CMR Reports via Distilled LLMs**|Yi Yu et.al.|[2605.08045](http://arxiv.org/abs/2605.08045)|**[link](https://github.com/yuyi1005/CMR-EXTR)**|
 |**2026-05-08**|**ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education**|Yizhou Zhou et.al.|[2605.08040](http://arxiv.org/abs/2605.08040)|null|
 |**2026-05-08**|**STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation**|Ying Shen et.al.|[2605.08029](http://arxiv.org/abs/2605.08029)|null|
 |**2026-05-08**|**Collaborator or Assistnat? How AI Coding Agents Partition Work Across Pull Request Lifecycles**|Young Jo et.al.|[2605.08017](http://arxiv.org/abs/2605.08017)|null|
@@ -4432,7 +4432,7 @@
 |**2026-02-10**|**QRS: A Rule-Synthesizing Neuro-Symbolic Triad for Autonomous Vulnerability Discovery**|George Tsigkourakos et.al.|[2602.09774](http://arxiv.org/abs/2602.09774)|null|
 |**2026-02-10**|**Efficient Remote Prefix Fetching with GPU-native Media ASICs**|Liang Mi et.al.|[2602.09725](http://arxiv.org/abs/2602.09725)|null|
 |**2026-02-10**|**Unsupervised Layer-Wise Dynamic Test Time Adaptation for LLMs**|Longhuan Xu et.al.|[2602.09719](http://arxiv.org/abs/2602.09719)|null|
-|**2026-02-10**|**TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces**|Yiming Shu et.al.|[2602.09712](http://arxiv.org/abs/2602.09712)|null|
+|**2026-02-10**|**TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces**|Yiming Shu et.al.|[2602.09712](http://arxiv.org/abs/2602.09712)|**[link](https://github.com/YimingShu-teay/TraceMem)**|
 |**2026-02-10**|**Maastricht University at AMIYA: Adapting LLMs for Dialectal Arabic using Fine-tuning and MBR Decoding**|Abdulhai Alali et.al.|[2602.09703](http://arxiv.org/abs/2602.09703)|null|
 |**2026-02-10**|**Talking with the Latents -- how to convert your LLM into an astronomer**|Ilay Kamai et.al.|[2602.09670](http://arxiv.org/abs/2602.09670)|null|
 |**2026-02-10**|**ClinAlign: Scaling Healthcare Alignment from Clinician Preference**|Shiwei Lyu et.al.|[2602.09653](http://arxiv.org/abs/2602.09653)|null|
@@ -4526,7 +4526,7 @@
 |**2026-02-05**|**Where Does Warm-Up Come From? Adaptive Scheduling for Norm-Constrained Optimizers**|Artem Riabinin et.al.|[2602.05813](http://arxiv.org/abs/2602.05813)|null|
 |**2026-02-05**|**Price of universality in vector quantization is at most 0.11 bit**|Alina Harbuzova et.al.|[2602.05790](http://arxiv.org/abs/2602.05790)|null|
 |**2026-02-05**|**Automated Customization of LLMs for Enterprise Code Repositories Using Semantic Scopes**|Ulrich Finkler et.al.|[2602.05780](http://arxiv.org/abs/2602.05780)|null|
-|**2026-02-05**|**Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance**|Xiandong Zou et.al.|[2602.05774](http://arxiv.org/abs/2602.05774)|null|
+|**2026-02-05**|**Variational Speculative Decoding: Rethinking Draft Training from Token Likelihood to Sequence Acceptance**|Xiandong Zou et.al.|[2602.05774](http://arxiv.org/abs/2602.05774)|**[link](https://github.com/LV-Lab-SMU/VSD)**|
 |**2026-02-05**|**Different Time, Different Language: Revisiting the Bias Against Non-Native Speakers in GPT Detectors**|Adnan Al Ali et.al.|[2602.05769](http://arxiv.org/abs/2602.05769)|null|
 |**2026-02-05**|**RocqSmith: Can Automatic Optimization Forge Better Proof Agents?**|Andrei Kozyrev et.al.|[2602.05762](http://arxiv.org/abs/2602.05762)|null|
 |**2026-02-05**|**Task-Oriented Robot-Human Handovers on Legged Manipulators**|Andreea Tulbure et.al.|[2602.05760](http://arxiv.org/abs/2602.05760)|null|
@@ -5344,7 +5344,7 @@
 |**2025-12-29**|**Flexible Keyword-Aware Top- $k$ Route Search**|Ziqiang Yu et.al.|[2512.23319](http://arxiv.org/abs/2512.23319)|null|
 |**2025-12-29**|**Splitwise: Collaborative Edge-Cloud Inference for LLMs via Lyapunov-Assisted DRL**|Abolfazl Younesi et.al.|[2512.23310](http://arxiv.org/abs/2512.23310)|null|
 |**2025-12-29**|**MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images**|Md. Sazzadul Islam Prottasha et.al.|[2512.23304](http://arxiv.org/abs/2512.23304)|null|
-|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
+|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|**[link](https://github.com/9624219/AI4reading)**|
 |**2025-12-29**|**Agentic AI-Enhanced Semantic Communications: Foundations, Architecture, and Applications**|Haixiao Gao et.al.|[2512.23294](http://arxiv.org/abs/2512.23294)|null|
 |**2025-12-29**|**Chinese Morph Resolution in E-commerce Live Streaming Scenarios**|Jiahao Zhu et.al.|[2512.23280](http://arxiv.org/abs/2512.23280)|null|
 |**2025-12-29**|**TCEval: Using Thermal Comfort to Assess Cognitive and Perceptual Abilities of AI**|Jingming Li et.al.|[2512.23217](http://arxiv.org/abs/2512.23217)|null|
