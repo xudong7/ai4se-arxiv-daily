@@ -1,4 +1,4 @@
-## Updated on 2026.11.21
+## Updated on 2026.11.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -512,7 +512,7 @@
 |**2026-10-15**|**Watts If? A Benchmark for Counterfactual Reasoning About the AI Data Center Buildout**|Pankaj Chouhan et.al.|[2610.21397](http://arxiv.org/abs/2610.21397)|null|
 |**2026-10-15**|**Self-Guided LLM Reasoning for Error Diagnosis in Vehicle Routing Problems**|Ni Zhang et.al.|[2610.21393](http://arxiv.org/abs/2610.21393)|null|
 |**2026-10-15**|**PriorityFEC: Deadline-Aware Streaming FEC for KV-Cache Handoff in Edge Multi-Agent Systems**|Han Shen et.al.|[2610.21390](http://arxiv.org/abs/2610.21390)|null|
-|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|null|
+|**2026-10-08**|**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**|Zhongyu Yang et.al.|[2610.12458](http://arxiv.org/abs/2610.12458)|**[link](https://github.com/Tencent-Hunyuan/OmniCapBench)**|
 |**2026-10-08**|**Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception**|Oskar J. Hollinsworth et.al.|[2610.12445](http://arxiv.org/abs/2610.12445)|null|
 |**2026-10-08**|**WOVEN: Weaving Visual World Modeling into Multimodal LLMs**|Zheyu Fan et.al.|[2610.12417](http://arxiv.org/abs/2610.12417)|null|
 |**2026-10-08**|**ORCAGen: Orchestrating Context-Aware Malware Deception with RAG-Guided Generative AI**|Shihab Ahmed et.al.|[2610.12415](http://arxiv.org/abs/2610.12415)|null|
@@ -569,14 +569,14 @@
 |**2026-10-08**|**Trajectory-Guided Fault Localization for Agent Skill Evolution**|Yu Ge et.al.|[2610.11858](http://arxiv.org/abs/2610.11858)|null|
 |**2026-10-08**|**SemField: A Simple, Linear, Continuous, yet Robust Semantic Watermark**|Varun Gumma et.al.|[2610.11848](http://arxiv.org/abs/2610.11848)|null|
 |**2026-10-08**|**Detecting Spin in Clinical Trials with Large Language Models**|Tjaš Ajdovec et.al.|[2610.11845](http://arxiv.org/abs/2610.11845)|null|
-|**2026-10-08**|**Anytime-valid detection of LLM weight exfiltration**|Ines Ortega-Fernandez et.al.|[2610.11843](http://arxiv.org/abs/2610.11843)|null|
+|**2026-10-08**|**Anytime-valid detection of LLM weight exfiltration**|Ines Ortega-Fernandez et.al.|[2610.11843](http://arxiv.org/abs/2610.11843)|**[link](https://github.com/Nithyon/ville)**|
 |**2026-10-08**|**On the Risks of using LLM-Generated Tests for Regression Testing**|Mohammadali Charoosaei et.al.|[2610.11835](http://arxiv.org/abs/2610.11835)|null|
 |**2026-10-08**|**ObliVul: Alert-Conditioned Safety Obligation Modeling and Bidirectional Counterfactual Validation for Code Vulnerability Detection**|Heyang Tan et.al.|[2610.11801](http://arxiv.org/abs/2610.11801)|null|
 |**2026-10-08**|**Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks**|Haoyu Zhao et.al.|[2610.11794](http://arxiv.org/abs/2610.11794)|null|
 |**2026-10-08**|**Safe Actions Alone Do Not Ensure Safe Agents: Identifying Unfulfilled Obligations with Guard Models**|Youwei Feng et.al.|[2610.11773](http://arxiv.org/abs/2610.11773)|null|
 |**2026-10-08**|**Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System**|Younghwan Joo et.al.|[2610.11768](http://arxiv.org/abs/2610.11768)|null|
-|**2026-10-08**|**Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation**|Haitong Jiang et.al.|[2610.11766](http://arxiv.org/abs/2610.11766)|null|
-|**2026-10-08**|**Thinking Inertia: LLMs Keep Thinking When Told Not To**|Dianqiao Lei et.al.|[2610.11765](http://arxiv.org/abs/2610.11765)|null|
+|**2026-10-08**|**Same Outcome, Different Evidence: Intent Recovery in LLM Safety Evaluation**|Haitong Jiang et.al.|[2610.11766](http://arxiv.org/abs/2610.11766)|**[link](https://github.com/kevinjiang0121-cyber/IRIS)**|
+|**2026-10-08**|**Thinking Inertia: LLMs Keep Thinking When Told Not To**|Dianqiao Lei et.al.|[2610.11765](http://arxiv.org/abs/2610.11765)|**[link](https://github.com/thinking-inertia/code)**|
 |**2026-10-08**|**MemTrial: Learning When to Trust Memory in LLM Portfolio Agents**|Guanghao Wu et.al.|[2610.11732](http://arxiv.org/abs/2610.11732)|null|
 |**2026-10-08**|**Spectral Weight Decay: Inducing Low-Rank Structure in Neural Network Weights**|Dmitrii Andriianov et.al.|[2610.11730](http://arxiv.org/abs/2610.11730)|null|
 |**2026-10-08**|**MAP4CS: A Multi-dimensional Data Pruning Framework for Efficient Code Retriever Fine-tuning**|Yuxuan Chen et.al.|[2610.11727](http://arxiv.org/abs/2610.11727)|null|
@@ -1550,7 +1550,7 @@
 |**2026-08-20**|**LLMs as Acquisition Policies for Finite-Pool Materials Optimization: A Controlled Study**|Dino-Rober Demir et.al.|[2608.19790](http://arxiv.org/abs/2608.19790)|null|
 |**2026-08-20**|**PRAXIS: Graph-Grounded Tacit Knowledge for Domain Code Generation**|Xue Jiang et.al.|[2608.19784](http://arxiv.org/abs/2608.19784)|null|
 |**2026-08-20**|**Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay**|Haiyue Zhang et.al.|[2608.19760](http://arxiv.org/abs/2608.19760)|null|
-|**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|null|
+|**2026-08-20**|**FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving**|Qihang Fan et.al.|[2608.19758](http://arxiv.org/abs/2608.19758)|**[link](https://github.com/qhfan/FlashPrefillv2)**|
 |**2026-08-20**|**A Fully Automated, Deployment-Aware Testing Pipeline for IoT-Based Automotive Applications**|Denesa Zyberaj et.al.|[2608.19752](http://arxiv.org/abs/2608.19752)|null|
 |**2026-08-20**|**PersonalBench: Measuring the Authorship Gap in LLM Personalization**|Yash Ganpat Sawant et.al.|[2608.19746](http://arxiv.org/abs/2608.19746)|null|
 |**2026-08-20**|**Question-Guided Evidence Acquisition for Multimodal Visual Question Answering**|Alin-Ionut Popa et.al.|[2608.19739](http://arxiv.org/abs/2608.19739)|null|
@@ -2889,7 +2889,7 @@
 |**2026-05-28**|**Honeyval: A Comprehensive Evaluation Framework for LLM-powered HTTP Honeypots**|Mark Vero et.al.|[2605.29963](http://arxiv.org/abs/2605.29963)|null|
 |**2026-05-28**|**Hijacking Agent Memory: Stealthy Trojan Attacks Through Conversational Interaction**|Hongtao Wang et.al.|[2605.29960](http://arxiv.org/abs/2605.29960)|null|
 |**2026-05-28**|**Uncertainty Quantification for Multimodal Retrieval Augmented Generation**|Simon Binz et.al.|[2605.29956](http://arxiv.org/abs/2605.29956)|**[link](https://github.com/informagi/LeMUQ)**|
-|**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|null|
+|**2026-05-28**|**Formalizing Mathematics at Scale**|Ahmad Rammal et.al.|[2605.29955](http://arxiv.org/abs/2605.29955)|**[link](https://github.com/facebookresearch/atlas-lean)**|
 |**2026-05-28**|**Make LLM Learn to Synthesize from Streaming Experiences through Feedback**|Zhenlin Hu et.al.|[2605.29940](http://arxiv.org/abs/2605.29940)|null|
 |**2026-05-28**|**Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs**|Mahjabin Nahar et.al.|[2605.29928](http://arxiv.org/abs/2605.29928)|null|
 |**2026-05-28**|**Does The Way You Plan Matter? An Empirical Study of Planning Representations for LLM Web Agents**|Alejandra Zambrano et.al.|[2605.29927](http://arxiv.org/abs/2605.29927)|null|
@@ -3547,7 +3547,7 @@
 |**2026-04-15**|**RPS: Information Elicitation with Reinforcement Prompt Selection**|Tao Wang et.al.|[2604.13817](http://arxiv.org/abs/2604.13817)|**[link](https://github.com/WT-1223/RPS)**|
 |**2026-04-15**|**A Universal Textual Merge Strategy Based on Tokens for Version Control Systems**|Qiqi Jason Gu et.al.|[2604.13813](http://arxiv.org/abs/2604.13813)|null|
 |**2026-04-15**|**Robust Ultra Low-Bit Post-Training Quantization via Stable Diagonal Curvature Estimate**|Jaemin Kim et.al.|[2604.13806](http://arxiv.org/abs/2604.13806)|null|
-|**2026-04-15**|**Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning**|Dongjie Fu et.al.|[2604.13804](http://arxiv.org/abs/2604.13804)|null|
+|**2026-04-15**|**Character Beyond Speech: Leveraging Role-Playing Evaluation in Audio Large Language Models via Reinforcement Learning**|Dongjie Fu et.al.|[2604.13804](http://arxiv.org/abs/2604.13804)|**[link](https://github.com/MM-Speech/RoleJudge)**|
 |**2026-04-15**|**DUET: Joint Exploration of User Item Profiles in Recommendation System**|Yue Chen et.al.|[2604.13801](http://arxiv.org/abs/2604.13801)|null|
 |**2026-04-15**|**ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution**|Shouzheng Huang et.al.|[2604.13787](http://arxiv.org/abs/2604.13787)|null|
 |**2026-04-15**|**QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs**|Junlin Zhu et.al.|[2604.13786](http://arxiv.org/abs/2604.13786)|**[link](https://github.com/zzzjunlin/QuantileMark)**|
@@ -4132,13 +4132,13 @@
 |**2026-03-13**|**daVinci-Env: Open SWE Environment Synthesis at Scale**|Dayuan Fu et.al.|[2603.13023](http://arxiv.org/abs/2603.13023)|null|
 |**2026-03-13**|**ARL-Tangram: Unleash the Resource Efficiency in Agentic Reinforcement Learning**|Bangjun Xiao et.al.|[2603.13019](http://arxiv.org/abs/2603.13019)|null|
 |**2026-03-13**|**Structured Distillation for Personalized Agent Memory: 11x Token Reduction with Retrieval Preservation**|Sydney Lewis et.al.|[2603.13017](http://arxiv.org/abs/2603.13017)|null|
-|**2026-03-13**|**Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs**|Bumjun Kim et.al.|[2603.12996](http://arxiv.org/abs/2603.12996)|null|
+|**2026-03-13**|**Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs**|Bumjun Kim et.al.|[2603.12996](http://arxiv.org/abs/2603.12996)|**[link](https://github.com/quasar529/DAPD)**|
 |**2026-03-13**|**Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation**|Boxuan Lyu et.al.|[2603.12983](http://arxiv.org/abs/2603.12983)|null|
 |**2026-03-13**|**A Requirement-Based Framework for Engineering Adaptive Authentication**|Alzubair Hassan et.al.|[2603.12968](http://arxiv.org/abs/2603.12968)|null|
 |**2026-03-13**|**Delta1 with LLM: symbolic and neural integration for credible and explainable reasoning**|Yang Xu et.al.|[2603.12953](http://arxiv.org/abs/2603.12953)|null|
 |**2026-03-13**|**Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations**|Mihaela Rotar et.al.|[2603.12935](http://arxiv.org/abs/2603.12935)|null|
 |**2026-03-13**|**Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization**|Xudong Wang et.al.|[2603.12933](http://arxiv.org/abs/2603.12933)|null|
-|**2026-03-13**|**DS $^2$ -Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**|Ruiyao Xu et.al.|[2603.12932](http://arxiv.org/abs/2603.12932)|null|
+|**2026-03-13**|**DS $^2$ -Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**|Ruiyao Xu et.al.|[2603.12932](http://arxiv.org/abs/2603.12932)|**[link](https://github.com/rux001/DS2-Instruct)**|
 |**2026-03-13**|**Teaching Agile Requirements Engineering: A Stakeholder Simulation with Generative AI**|Eva-Maria Schön et.al.|[2603.12925](http://arxiv.org/abs/2603.12925)|null|
 |**2026-03-13**|**Human-Centered Evaluation of an LLM-Based Process Modeling Copilot: A Mixed-Methods Study with Domain Experts**|Chantale Lauer et.al.|[2603.12895](http://arxiv.org/abs/2603.12895)|null|
 |**2026-03-13**|**Enhanced Drug-drug Interaction Prediction Using Adaptive Knowledge Integration**|Pengfei Liu et.al.|[2603.12885](http://arxiv.org/abs/2603.12885)|null|
@@ -4525,7 +4525,7 @@
 |**2026-02-13**|**LCSB: Layer-Cyclic Selective Backpropagation for Memory-Efficient On-Device LLM Fine-Tuning**|Juneyoung Park et.al.|[2602.13073](http://arxiv.org/abs/2602.13073)|null|
 |**2026-02-13**|**Automated Testing of Task-based Chatbots: How Far Are We?**|Diego Clerissi et.al.|[2602.13072](http://arxiv.org/abs/2602.13072)|null|
 |**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071](http://arxiv.org/abs/2602.13071)|null|
-|**2026-02-13**|**Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning**|Juneyoung Park et.al.|[2602.13069](http://arxiv.org/abs/2602.13069)|null|
+|**2026-02-13**|**Memory-Efficient Structured Backpropagation for On-Device LLM Fine-Tuning**|Juneyoung Park et.al.|[2602.13069](http://arxiv.org/abs/2602.13069)|**[link](https://github.com/crinex/acl-mesp)**|
 |**2026-02-13**|**GPTZero: Robust Detection of LLM-Generated Texts**|George Alexandru Adam et.al.|[2602.13042](http://arxiv.org/abs/2602.13042)|null|
 |**2026-02-13**|**Look Inward to Explore Outward: Learning Temperature Policy from LLM Internal States via Hierarchical RL**|Yixiao Zhou et.al.|[2602.13035](http://arxiv.org/abs/2602.13035)|null|
 |**2026-02-13**|**Buy versus Build an LLM: A Decision Framework for Governments**|Jiahao Lu et.al.|[2602.13033](http://arxiv.org/abs/2602.13033)|null|
@@ -5554,7 +5554,7 @@
 |**2025-12-29**|**The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design**|Zelin Zang et.al.|[2512.23189](http://arxiv.org/abs/2512.23189)|null|
 |**2025-12-29**|**From Model Choice to Model Belief: Establishing a New Measure for LLM-Based Research**|Hongshen Sun et.al.|[2512.23184](http://arxiv.org/abs/2512.23184)|null|
 |**2025-12-29**|**LogosQ: A High-Performance and Type-Safe Quantum Computing Library in Rust**|Shiwen An et.al.|[2512.23183](http://arxiv.org/abs/2512.23183)|null|
-|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|null|
+|**2025-12-29**|**GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation**|Tianchen Deng et.al.|[2512.23180](http://arxiv.org/abs/2512.23180)|**[link](https://github.com/dtc111111/GaussianDWM)**|
 |**2025-12-29**|**EquaCode: A Multi-Strategy Jailbreak Approach for Large Language Models via Equation Solving and Code Completion**|Zhen Liang et.al.|[2512.23173](http://arxiv.org/abs/2512.23173)|null|
 |**2025-12-29**|**SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search**|Yifan Zhang et.al.|[2512.23167](http://arxiv.org/abs/2512.23167)|null|
 |**2025-12-29**|**Reservoir Computing inspired Matrix Multiplication-free Language Model**|Takumi Shiratsuchi et.al.|[2512.23145](http://arxiv.org/abs/2512.23145)|null|
@@ -6125,13 +6125,13 @@
 |**2025-11-27**|**Euclid preparation: LXXXI. The impact of nonparametric star formation histories on spatially resolved galaxy property estimation using synthetic Euclid images**|Euclid Collaboration et.al.|[2511.22399](http://arxiv.org/abs/2511.22399)|null|
 |**2025-11-27**|**Asking like Socrates: Socrates helps VLMs understand remote sensing images**|Run Shao et.al.|[2511.22396](http://arxiv.org/abs/2511.22396)|null|
 |**2025-11-27**|**SuRe: Surprise-Driven Prioritised Replay for Continual LLM Learning**|Hugo Hazard et.al.|[2511.22367](http://arxiv.org/abs/2511.22367)|null|
-|**2025-11-27**|**BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands**|Seongwon Cho et.al.|[2511.22364](http://arxiv.org/abs/2511.22364)|null|
+|**2025-11-27**|**BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands**|Seongwon Cho et.al.|[2511.22364](http://arxiv.org/abs/2511.22364)|**[link](https://github.com/snumprlab/binder)**|
 |**2025-11-27**|**UniBOM -- A Unified SBOM Analysis and Visualisation Tool for IoT Systems and Beyond**|Vadim Safronov et.al.|[2511.22359](http://arxiv.org/abs/2511.22359)|null|
-|**2025-11-27**|**AutoTailor: Automatic and Efficient Adaptive Model Deployment for Diverse Edge Devices**|Mengyang Liu et.al.|[2511.22355](http://arxiv.org/abs/2511.22355)|null|
-|**2025-11-27**|**LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning**|Suraj Borate et.al.|[2511.22354](http://arxiv.org/abs/2511.22354)|null|
+|**2025-11-27**|**AutoTailor: Automatic and Efficient Adaptive Model Deployment for Diverse Edge Devices**|Mengyang Liu et.al.|[2511.22355](http://arxiv.org/abs/2511.22355)|**[link](https://github.com/liu-mengyang/AutoTailor)**|
+|**2025-11-27**|**LLM-Based Generalizable Hierarchical Task Planning and Execution for Heterogeneous Robot Teams with Event-Driven Replanning**|Suraj Borate et.al.|[2511.22354](http://arxiv.org/abs/2511.22354)|**[link](https://github.com/CoMuRoS/CoMuRoS)**|
 |**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
 |**2025-11-27**|**FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators**|Shuao Jia et.al.|[2511.22348](http://arxiv.org/abs/2511.22348)|null|
-|**2025-11-27**|**Flowing Backwards: Improving Normalizing Flows via Reverse Representation Alignment**|Yang Chen et.al.|[2511.22345](http://arxiv.org/abs/2511.22345)|null|
+|**2025-11-27**|**Flowing Backwards: Improving Normalizing Flows via Reverse Representation Alignment**|Yang Chen et.al.|[2511.22345](http://arxiv.org/abs/2511.22345)|**[link](https://github.com/MCG-NJU/FlowBack)**|
 |**2025-11-27**|**Edge Deployment of Small Language Models, a comprehensive comparison of CPU, GPU and NPU backends**|Pablo Prieto et.al.|[2511.22334](http://arxiv.org/abs/2511.22334)|null|
 |**2025-11-27**|**PAT: Accelerating LLM Decoding via Prefix-Aware Attention with Resource Efficient Multi-Tile Kernel**|Jinjun Yi et.al.|[2511.22333](http://arxiv.org/abs/2511.22333)|null|
 |**2025-11-27**|**Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings**|Xiaofeng Li et.al.|[2511.22325](http://arxiv.org/abs/2511.22325)|null|
@@ -6893,7 +6893,7 @@
 |**2025-10-21**|**Dynamic Evaluation for Oversensitivity in LLMs**|Sophia Xiao Pu et.al.|[2510.19005](http://arxiv.org/abs/2510.19005)|null|
 |**2025-10-21**|**Robust Driving QA through Metadata-Grounded Context and Task-Specific Prompts**|Seungjun Yu et.al.|[2510.19001](http://arxiv.org/abs/2510.19001)|null|
 
-<p align=right>(<a href=#updated-on-20261121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
